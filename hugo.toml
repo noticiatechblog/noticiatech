@@ -1,0 +1,111 @@
+baseURL = "https://noticiatech.com.br/"
+languageCode = "pt-br"
+defaultContentLanguage = "pt-br"
+title = "Notícia Tech"
+theme = "PaperMod"
+
+# ===== CONFIGURAÇÕES GERAIS =====
+[pagination]
+  pagerSize = 10
+
+enableRobotsTXT = true
+
+# ===== PARÂMETROS DO TEMA =====
+[params]
+  ShowSearch = false
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = false
+  hideFooter = false
+  ShowPostCover = true
+  ShowPostCoverInList = true
+  
+  favicon = "favicon.png"
+
+  defaultTheme = "auto"
+  disableThemeToggle = false
+
+  ShowMenuItems = 4
+
+  # 🔥 ESSENCIAL - FAZ OS POSTS APARECEREM NA HOME
+  mainSections = ["inteligencia-artificial", "automacao", "marketing", "negocios"]
+
+# ===== LOGO =====
+[params.label]
+  text = " "
+  icon = ""
+  iconHeight = 60
+
+# ===== MENU PRINCIPAL (AGORA CORRETO) =====
+[menu]
+
+[[menu.main]]
+name = "Início"
+url = "/"
+identifier = "inicio"
+weight = 1
+
+[[menu.main]]
+name = "IA"
+url = "/inteligencia-artificial/"
+identifier = "inteligencia-artificial"
+weight = 2
+
+[[menu.main]]
+name = "Automação"
+url = "/automacao/"
+identifier = "automacao"
+weight = 3
+
+[[menu.main]]
+name = "Marketing"
+url = "/marketing/"
+identifier = "marketing"
+weight = 4
+
+[[menu.main]]
+name = "Negócios"
+url = "/negocios/"
+identifier = "negocios"
+weight = 5
+
+# ===== SEO / HOME =====
+[params.homeInfoParams]
+  Title = "Notícia Tech"
+  Content = "As últimas notícias de tecnologia, inteligência artificial e negócios."
+
+# ===== OUTPUTS =====
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+# ===== TAXONOMIAS =====
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+# ===== MENU FOOTER =====
+[[menu.footer]]
+  name = "Sobre"
+  url = "/sobre/"
+  weight = 1
+
+[[menu.footer]]
+  name = "Contato"
+  url = "/contato/"
+  weight = 2
+
+[[menu.footer]]
+  name = "Política de Privacidade"
+  url = "/politica-de-privacidade/"
+  weight = 3
+
+[[menu.footer]]
+  name = "Termos de Uso"
+  url = "/termos-de-uso/"
+  weight = 4
+
+[[menu.footer]]
+  name = "Disclaimer"
+  url = "/disclaimer/"
+  weight = 5
