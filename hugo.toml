@@ -1,5 +1,7 @@
-baseURL = "https://noticiatech.com.br/"
+baseURL = "https://noticiatech.vercel.app/"
 languageCode = "pt-br"
+relativeURLs = true
+canonifyURLs = true
 defaultContentLanguage = "pt-br"
 title = "Notícia Tech"
 theme = "PaperMod"
