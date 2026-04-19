@@ -4,7 +4,6 @@ relativeURLs = true
 canonifyURLs = true
 defaultContentLanguage = "pt-br"
 title = "Notícia Tech"
-theme = "PaperMod"
 
 # ===== CONFIGURAÇÕES GERAIS =====
 [pagination]
@@ -111,3 +110,7 @@ weight = 5
   name = "Disclaimer"
   url = "/disclaimer/"
   weight = 5
+
+  [module]
+  [[module.imports]]
+    path = "github.com/adityatelange/hugo-PaperMod"
