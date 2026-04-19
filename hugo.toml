@@ -4,6 +4,7 @@ relativeURLs = true
 canonifyURLs = true
 defaultContentLanguage = "pt-br"
 title = "Notícia Tech"
+theme = "PaperMod"
 
 # ===== CONFIGURAÇÕES GERAIS =====
 [pagination]
@@ -29,6 +30,7 @@ enableRobotsTXT = true
 
   ShowMenuItems = 4
 
+  # 🔥 ESSENCIAL - FAZ OS POSTS APARECEREM NA HOME
   mainSections = ["inteligencia-artificial", "automacao", "marketing", "negocios"]
 
 # ===== LOGO =====
@@ -37,7 +39,7 @@ enableRobotsTXT = true
   icon = ""
   iconHeight = 60
 
-# ===== MENU PRINCIPAL =====
+# ===== MENU PRINCIPAL (AGORA CORRETO) =====
 [menu]
 
 [[menu.main]]
@@ -110,7 +112,3 @@ weight = 5
   url = "/disclaimer/"
   weight = 5
 
-# ===== TEMA (MODULE - CORRETO) =====
-[module]
-  [[module.imports]]
-    path = "github.com/adityatelange/hugo-PaperMod"
