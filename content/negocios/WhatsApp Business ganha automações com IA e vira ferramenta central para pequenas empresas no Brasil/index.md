@@ -18,8 +18,6 @@ Na prática, o WhatsApp deixa de ser apenas comunicação e passa a ser um canal
 
 ## O que mudou com a automação e IA no aplicativo
 
-![Automação WhatsApp](automacao.png)
-
 Ferramentas integradas e plataformas externas permitem responder clientes automaticamente, qualificar leads, organizar pedidos e acompanhar atendimento.
 
 Isso reduz o tempo de resposta e melhora a experiência do cliente.

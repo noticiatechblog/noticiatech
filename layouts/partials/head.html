@@ -1,0 +1,3 @@
+{{- partial "head.html" . -}}
+{{ $custom := resources.Get "css/extended/custom.css" | minify }}
+<link rel="stylesheet" href="{{ $custom.RelPermalink }}">
