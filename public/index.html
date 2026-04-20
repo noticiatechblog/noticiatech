@@ -11,7 +11,7 @@
 <meta name="description" content="">
 <meta name="author" content="">
 <link rel="canonical" href="http://192.168.55.19:1313/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.bbd2fdf65a3164ef32767ac9873ef47143e2704d6be9aea04022318c03acb7f0.css" integrity="sha256-u9L99loxZO8ydnrJhz70cUPicE1r6a6gQCIxjAOst/A=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="./assets/css/stylesheet.4b479b9a29d7097fa9eb52be40c94f552e6ab711c538b3cdf938db737089abe7.css" integrity="sha256-S0ebminXCX&#43;p61K&#43;QMlPVS5qtxHFOLPN&#43;Tjbc3CJq&#43;c=" rel="preload stylesheet" as="style">
 <link rel="icon" href="http://192.168.55.19:1313/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="http://192.168.55.19:1313/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="http://192.168.55.19:1313/favicon-32x32.png">
@@ -54,12 +54,6 @@
             }
         }
 
-        @media (prefers-color-scheme: light) {
-            .list::-webkit-scrollbar-thumb {
-                border-color: var(--code-bg);
-            }
-        }
-
     </style>
 </noscript>
 <script>
@@ -74,6 +68,7 @@
     }
 
 </script>
+<link rel="stylesheet" href="./css/extended/custom.min.css">
 </head>
 <body class="list" id="top">
     <header class="header">
@@ -163,8 +158,10 @@
     <header class="entry-header">
         <h1>Notícia Tech</h1>
     </header>
-    <div class="entry-content">
-        As últimas notícias de tecnologia, inteligência artificial e negócios.
+    <div class="entry-content md-content">
+        
+        <p>As últimas notícias de tecnologia, inteligência artificial e negócios.</p>
+
     </div>
     <footer class="entry-footer">
         <div class="social-icons" >
@@ -313,6 +310,18 @@ O problema atual nas empresas Apesar do avanço tecnológico, muitas empresas ai
   <footer class="entry-footer"><span title='2026-04-09 00:00:00 +0000 UTC'>9 de abril de 2026</span>&nbsp;·&nbsp;<span>3 min</span></footer>
   <a class="entry-link" aria-label="post link to Como empresas estão usando IA para automatizar processos em 2026" href="http://192.168.55.19:1313/automacao/como-empresas-est%C3%A3o-usando-ia-para-automatizar-processos-em-2026/"></a>
 </article>
+
+<article class="post-entry"> 
+  <header class="entry-header">
+    <h2 class="entry-hint-parent">
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p></p>
+  </div>
+  <footer class="entry-footer"><span>0 min</span></footer>
+  <a class="entry-link" aria-label="post link to " href="http://192.168.55.19:1313/automacao/teste/"></a>
+</article>
     </main>
     
 <footer class="footer">
@@ -324,20 +333,22 @@ O problema atual nas empresas Apesar do avanço tecnológico, muitas empresas ai
         <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
     </span>
 </footer>
-<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
-        <path d="M12 6H0l6-6z" />
+<a href="#top" id="top-link" class="top-link hidden" aria-label="go to top" title="Go to Top (Alt + G)" accesskey="g">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevrons-up">
+        <polyline points="17 11 12 6 7 11"></polyline>
+        <polyline points="17 18 12 13 7 18"></polyline>
     </svg>
 </a><div class="footer-links">
   <div>
-    <a href="/sobre/">Sobre</a> ·
-    <a href="/contato/">Contato</a> ·
-    <a href="/politica-de-privacidade/">Política de Privacidade</a>
+    <a href="./sobre/">Sobre</a> ·
+    <a href="./contato/">Contato</a> ·
+    <a href="./politica-de-privacidade/">Política de Privacidade</a>
   </div>
 
   <div>
-    <a href="/termos-de-uso/">Termos de Uso</a> ·
-    <a href="/disclaimer/">Disclaimer</a>
+    <a href="./termos-de-uso/">Termos de Uso</a> ·
+    <a href="./disclaimer/">Disclaimer</a>
   </div>
 </div>
 
@@ -381,14 +392,13 @@ O problema atual nas empresas Apesar do avanço tecnológico, muitas empresas ai
 
 </script>
 <script>
-    var mybutton = document.getElementById("top-link");
+    var toplink = document.getElementById("top-link");
     window.onscroll = function () {
-        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
-            mybutton.style.visibility = "visible";
-            mybutton.style.opacity = "1";
+        const scrollThreshold = window.innerHeight;
+        if (document.body.scrollTop > scrollThreshold || document.documentElement.scrollTop > scrollThreshold) {
+            toplink.classList.remove("hidden");
         } else {
-            mybutton.style.visibility = "hidden";
-            mybutton.style.opacity = "0";
+            toplink.classList.add("hidden");
         }
     };
 
