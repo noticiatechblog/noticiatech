@@ -3,7 +3,7 @@ languageCode = "pt-br"
 relativeURLs = true
 canonifyURLs = true
 defaultContentLanguage = "pt-br"
-title = "Notícia Tech"
+title = " "
 theme = "PaperMod"
 
 # ===== CONFIGURAÇÕES GERAIS =====
@@ -22,24 +22,24 @@ enableRobotsTXT = true
   hideFooter = false
   ShowPostCover = true
   ShowPostCoverInList = true
-  
-  favicon = "favicon.png"
+
+  favicon = "images/favicon.png"
 
   defaultTheme = "auto"
   disableThemeToggle = false
 
   ShowMenuItems = 4
 
-  # 🔥 ESSENCIAL - FAZ OS POSTS APARECEREM NA HOME
+  # POSTS NA HOME
   mainSections = ["inteligencia-artificial", "automacao", "marketing", "negocios"]
 
 # ===== LOGO =====
 [params.label]
-  text = " "
-  icon = ""
-  iconHeight = 60
+  text = ""
+  icon = "images/logo.png"
+  iconHeight = 40
 
-# ===== MENU PRINCIPAL (AGORA CORRETO) =====
+# ===== MENU PRINCIPAL =====
 [menu]
 
 [[menu.main]]
@@ -111,4 +111,3 @@ weight = 5
   name = "Disclaimer"
   url = "/disclaimer/"
   weight = 5
-
