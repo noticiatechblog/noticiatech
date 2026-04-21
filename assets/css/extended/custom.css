@@ -97,3 +97,22 @@ Recomendado:
 .entry-content {
     color: var(--content); /* 👈 usa a cor padrão do tema */
 }
+
+/* Esconder "Powered by Hugo & PaperMod" */
+.footer span {
+    display: none;
+}
+
+/* Rodapé - texto copyright */
+.copyright {
+    font-size: 14px;     /* 👈 tamanho */
+    font-weight: 500;    /* 👈 peso */
+    text-align: center;  /* 👈 posição: left | center | right */
+}
+
+/* Rodapé - menu (links) */
+.footer-links {
+    font-size: 19px;     /* 👈 tamanho */
+    font-weight: 500;    /* 👈 peso */
+    text-align: center;  /* 👈 posição geral */
+}

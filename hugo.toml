@@ -72,11 +72,6 @@ url = "/negocios/"
 identifier = "negocios"
 weight = 5
 
-# ===== SEO / HOME =====
-[params.homeInfoParams]
-  Title = "Notícia Tech"
-  Content = "As últimas notícias de tecnologia, inteligência artificial e negócios."
-
 # ===== OUTPUTS =====
 [outputs]
   home = ["HTML", "RSS", "JSON"]
