@@ -53,25 +53,25 @@ weight = 1
 
 [[menu.main]]
 name = "IA"
-url = "/inteligencia-artificial/"
+url = "inteligencia-artificial/"
 identifier = "inteligencia-artificial"
 weight = 2
 
 [[menu.main]]
 name = "Automação"
-url = "/automacao/"
+url = "automacao/"
 identifier = "automacao"
 weight = 3
 
 [[menu.main]]
 name = "Marketing"
-url = "/marketing/"
+url = "marketing/"
 identifier = "marketing"
 weight = 4
 
 [[menu.main]]
 name = "Negócios"
-url = "/negocios/"
+url = "negocios/"
 identifier = "negocios"
 weight = 5
 
