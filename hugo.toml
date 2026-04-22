@@ -1,4 +1,4 @@
-baseURL = "https://noticiatech.vercel.app/"
+baseURL = "https://noticiatech.com.br/"
 languageCode = "pt-br"
 relativeURLs = true
 canonifyURLs = true
@@ -32,6 +32,9 @@ enableRobotsTXT = true
 
   # POSTS NA HOME
   mainSections = ["inteligencia-artificial", "automacao", "marketing", "negocios"]
+
+  # 👉 SEU CSS (AQUI DENTRO, NÃO EM OUTRO [params])
+  customCSS = ["css/extended/custom.css"]
 
 # ===== LOGO =====
 [params.label]

@@ -112,7 +112,7 @@ Recomendado:
 
 /* Rodapé - menu (links) */
 .footer-links {
-    font-size: 19px;     /* 👈 tamanho */
-    font-weight: 500;    /* 👈 peso */
+    font-size: 17px;     /* 👈 tamanho */
+    font-weight: 600;    /* 👈 peso */
     text-align: center;  /* 👈 posição geral */
 }
