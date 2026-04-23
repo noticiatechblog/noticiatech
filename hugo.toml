@@ -1,7 +1,7 @@
 baseURL = "https://noticiatech.com.br/"
 languageCode = "pt-br"
-relativeURLs = false
-canonifyURLs = false
+relativeURLs = true
+canonifyURLs = true
 defaultContentLanguage = "pt-br"
 title = " "
 theme = "PaperMod"
