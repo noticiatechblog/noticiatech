@@ -12,7 +12,7 @@ Recomendado:
 */
 
 .logo img {
-    height: 66px; /* 👈 MUDE AQUI */
+    height: 63px; /* 👈 MUDE AQUI */
     width: auto;
 }
 
@@ -105,7 +105,7 @@ Recomendado:
 
 /* Rodapé - texto copyright */
 .copyright {
-    font-size: 14px;     /* 👈 tamanho */
+    font-size: 15px;     /* 👈 tamanho */
     font-weight: 500;    /* 👈 peso */
     text-align: center;  /* 👈 posição: left | center | right */
 }
