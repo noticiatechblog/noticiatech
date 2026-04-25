@@ -11,7 +11,7 @@ cover:
 
 # VTEX lança nova geração de e-commerce com IA integrada e muda operações de empresas médias
 
-apresentou uma mudança estratégica em sua plataforma: a inteligência artificial deixou de ser um recurso complementar e passou a ocupar o centro da operação.
+A VTEX apresentou uma mudança estratégica em sua plataforma: a inteligência artificial deixou de ser um recurso complementar e passou a ocupar o centro da operação.
 
 O movimento marca uma mudança importante no comércio digital.
 
@@ -21,11 +21,11 @@ Não se trata apenas de tecnologia.
 
 Para empresas médias, isso pode representar ganho direto de eficiência e escala.
 
-## O que a :contentReference[oaicite:1]{index=1} lançou na prática
+## O que a VTEX lançou na prática
 
 ![Dashboard de e-commerce com inteligência artificial](imagem1.webp)
 
-Durante o :contentReference[oaicite:2]{index=2}, a empresa apresentou uma nova arquitetura baseada em três pilares principais.
+Durante o VTEX Day 2026, a empresa apresentou uma nova arquitetura baseada em três pilares principais.
 
 ### Plataforma de comércio
 
@@ -63,13 +63,13 @@ A partir de diferentes entradas:
 
 O sistema interpreta a demanda e transforma em pedido.
 
-Isso reduz fricção comercial.
+Isso reduz etapas manuais no processo comercial.
 
 ## Atendimento pós-venda automatizado
 
 ![Atendimento automatizado com IA em empresa](imagem2.webp)
 
-A plataforma também amplia automação no pós-venda.
+A plataforma também amplia a automação no pós-venda.
 
 ### O que a IA consegue resolver
 
@@ -81,11 +81,11 @@ Demandas como:
 
 passam a ser tratadas automaticamente em grande parte dos casos.
 
-Isso reduz carga operacional.
+Isso reduz carga operacional e melhora tempo de resposta.
 
 ## Personal shopper com IA
 
-A VTEX também apresentou um modelo de vendedor digital baseado em IA.
+A VTEX também apresentou um modelo de vendedor digital baseado em inteligência artificial.
 
 ### O que ele faz
 
@@ -96,7 +96,7 @@ O sistema:
 - recomenda produtos  
 - conduz a jornada de compra  
 
-Na prática, funciona como um vendedor escalável.
+Na prática, funciona como um vendedor digital escalável.
 
 ## O impacto real para empresas médias
 
@@ -106,11 +106,11 @@ A mudança afeta diretamente empresas que operam comércio digital com equipes e
 
 Processos antes manuais passam a ser automatizados.
 
-Isso reduz necessidade operacional em áreas repetitivas.
+Isso reduz a necessidade operacional em tarefas repetitivas.
 
 ## Aumento de conversão sem expansão de equipe
 
-Com IA atuando em vendas e atendimento, empresas podem escalar resultados sem ampliar estrutura.
+Com IA aplicada em vendas e atendimento, empresas podem escalar resultados sem ampliar estrutura.
 
 Esse ponto é especialmente relevante para operações em crescimento.
 
@@ -118,7 +118,7 @@ Esse ponto é especialmente relevante para operações em crescimento.
 
 ![Gestão empresarial com dados integrados](imagem3.webp)
 
-Marketing, vendas e atendimento passam a operar de forma conectada.
+Marketing, vendas e atendimento passam a operar de forma integrada.
 
 ### O ganho dessa integração
 
@@ -128,7 +128,7 @@ Isso reduz:
 - perda de informação  
 - atrasos operacionais  
 
-e melhora eficiência global.
+e melhora a eficiência global da operação.
 
 ## O que o mercado está sinalizando
 
@@ -136,7 +136,7 @@ O movimento da VTEX reforça uma tendência clara.
 
 A inteligência artificial está deixando de ser diferencial.
 
-Está se tornando infraestrutura.
+Está se tornando infraestrutura operacional.
 
 Empresas que demorarem para adaptar seus processos podem perder competitividade.
 
@@ -152,11 +152,11 @@ Automação de dúvidas frequentes e suporte inicial.
 
 ### Vendas
 
-Qualificação e geração automática de pedidos.
+Qualificação de leads e geração automática de pedidos.
 
 ### Pós-venda
 
-Processos de acompanhamento, trocas e suporte.
+Processos de acompanhamento, trocas e suporte automatizado.
 
 Essas áreas costumam gerar impacto rápido.
 
@@ -164,9 +164,9 @@ Essas áreas costumam gerar impacto rápido.
 
 A tendência é clara.
 
-A IA vai migrar do suporte operacional para o núcleo da operação.
+A inteligência artificial está migrando do suporte operacional para o núcleo da operação.
 
-Empresas que começarem primeiro tendem a ganhar:
+Empresas que se movem primeiro tendem a ganhar:
 
 - mais eficiência  
 - mais velocidade  

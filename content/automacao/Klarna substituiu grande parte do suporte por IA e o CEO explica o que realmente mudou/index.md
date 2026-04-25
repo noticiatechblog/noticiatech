@@ -6,20 +6,22 @@ categories: ["automacao"]
 draft: false
 
 cover:
-  image: "capa.png"
+  image: "capa.webp"
 ---
 
 # Klarna e a automação do suporte: o que aconteceu quando a IA assumiu o atendimento
 
-A :contentReference[oaicite:0]{index=0} virou um dos casos mais observados do mercado ao substituir parte relevante do atendimento ao cliente por inteligência artificial.
+A Klarna virou um dos casos mais observados do mercado ao substituir parte relevante do atendimento ao cliente por inteligência artificial.
 
-O movimento trouxe ganhos claros de produtividade, redução de custos operacionais e maior capacidade de escala. Mas também revelou um limite importante: nem toda interação pode ser automatizada sem impacto na experiência do cliente.
+O movimento trouxe ganhos claros de produtividade, redução de custos operacionais e maior capacidade de escala.
+
+Mas também revelou um limite importante: nem toda interação pode ser automatizada sem impacto na experiência do cliente.
 
 O caso se tornou uma referência prática para empresas que estudam automação de suporte e implementação de IA em operações de atendimento.
 
 ## A Klarna acelerou a automação e reduziu sua dependência de equipes humanas
 
-![Klarna](klarna.png)
+![Klarna](klarna.webp)
 
 Nos primeiros meses da mudança, a empresa transferiu grande parte das interações de suporte para sistemas de inteligência artificial.
 
@@ -41,7 +43,7 @@ A capacidade de responder milhares de clientes simultaneamente aumentou sem expa
 
 ## Onde a automação começou a falhar
 
-![IA atendimento](ia-atendimento.png)
+![IA atendimento](ia-atendimento.webp)
 
 A operação mostrou eficiência no início, mas começou a enfrentar limitações em situações menos previsíveis.
 
@@ -59,9 +61,9 @@ Embora o tempo médio de resposta tenha caído, parte da satisfação foi afetad
 
 Esse é um problema comum em operações excessivamente automatizadas.
 
-## O que disse :contentReference[oaicite:1]{index=1} sobre a estratégia
+## O que Sebastian Siemiatkowski disse sobre a estratégia
 
-![CEO Klarna](ceo-klarna.png)
+![CEO Klarna](ceo-klarna.webp)
 
 Sebastian Siemiatkowski explicou que a intenção nunca foi apenas cortar custos.
 
@@ -135,4 +137,4 @@ Filtrar e organizar solicitações antes do atendimento humano.
 
 Acompanhamento, notificações e suporte inicial podem ser automatizados.
 
-O caso da Klarna deixa uma mensagem clara para o mercado: IA acelera operações, reduz custos e amplia escala, mas a vantagem real aparece quando tecnologia e pessoas trabalham juntas.
+O caso da Klarna deixa uma mensagem clara para o mercado: a IA acelera operações, reduz custos e amplia escala, mas a vantagem real aparece quando tecnologia e pessoas trabalham juntas.

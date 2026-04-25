@@ -11,9 +11,9 @@ cover:
 
 # WhatsApp Business ganha automações com IA e se torna peça central para pequenas empresas no Brasil
 
- está ampliando seu papel dentro das pequenas empresas brasileiras.
+O WhatsApp Business está ampliando seu papel dentro das pequenas empresas brasileiras.
 
-O aplicativo, que antes funcionava principalmente como canal de comunicação, está se transformando em uma plataforma operacional de vendas, atendimento e relacionamento.
+O aplicativo, que antes funcionava principalmente como canal de comunicação, está se transformando em uma plataforma operacional de vendas, atendimento e relacionamento com clientes.
 
 Com novas automações e uso crescente de inteligência artificial, processos que antes exigiam equipe ou sistemas mais robustos agora podem ser executados dentro do próprio aplicativo.
 
@@ -23,7 +23,7 @@ Para pequenos negócios, isso representa ganho direto de escala e eficiência.
 
 ![WhatsApp Business](whatsapp.webp)
 
-O uso do :contentReference[oaicite:1]{index=1} evoluiu rapidamente.
+O uso do WhatsApp Business evoluiu rapidamente.
 
 Hoje, empresas conseguem centralizar atendimento, vendas e relacionamento dentro de uma única ferramenta.
 
@@ -64,7 +64,7 @@ Isso reduz tempo de resposta e melhora conversão.
 
 ![WhatsApp no computador](whatsapp-automacao.webp)
 
-O uso do :contentReference[oaicite:2]{index=2} ampliou a capacidade operacional.
+O uso do WhatsApp Web ampliou a capacidade operacional.
 
 No computador, o atendimento ganha mais organização e escala.
 
@@ -85,7 +85,7 @@ Esse modelo transforma o WhatsApp em uma central de atendimento.
 
 O Brasil tem uma característica única.
 
-O :contentReference[oaicite:3]{index=3} já faz parte do comportamento diário de consumo e comunicação.
+O WhatsApp já faz parte do comportamento diário de consumo e comunicação.
 
 Isso reduz barreiras de adoção.
 
@@ -159,4 +159,6 @@ Melhora controle de clientes e pedidos.
 
 Amplia produtividade no atendimento.
 
-O avanço do :contentReference[oaicite:4]{index=4} mostra uma tendência importante: pequenas empresas estão encontrando formas de operar com mais eficiência sem depender de sistemas complexos. E no mercado atual, velocidade de resposta e organização já se tornaram vantagem competitiva.
+O avanço do WhatsApp Business mostra uma tendência importante: pequenas empresas estão encontrando formas de operar com mais eficiência sem depender de sistemas complexos.
+
+No mercado atual, velocidade de resposta e organização já se tornaram vantagem competitiva.

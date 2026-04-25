@@ -6,12 +6,12 @@ categories: ["ia"]
 draft: false
 
 cover:
-  image: "capa.png"
+  image: "capa.webp"
 ---
 
 # Google integra IA ao buscador e muda o jogo do SEO para empresas
 
-O :contentReference[oaicite:0]{index=0} começou a transformar sua experiência de busca ao incorporar inteligência artificial diretamente nos resultados.
+O Google começou a transformar sua experiência de busca ao incorporar inteligência artificial diretamente nos resultados.
 
 A mudança altera um dos pilares da internet moderna: o modelo baseado em cliques.
 
@@ -19,7 +19,7 @@ Para empresas, blogs e operações digitais que dependem de tráfego orgânico, 
 
 ## O Google agora responde dentro da própria busca
 
-![Google IA](google.png)
+![Google IA](google.webp)
 
 O modelo tradicional de pesquisa baseado em links começa a perder espaço para respostas geradas por IA.
 
@@ -37,7 +37,7 @@ Mas reduz o fluxo de visitas para sites que antes capturavam esse tráfego.
 
 ## O impacto direto para empresas e produtores de conteúdo
 
-![Busca IA](ia-busca.png)
+![Busca IA](ia-busca.webp)
 
 Por muitos anos, o objetivo era simples: alcançar o topo do Google.
 
@@ -57,9 +57,9 @@ Respostas básicas e superficiais tendem a ser absorvidas pela IA do buscador.
 
 O diferencial agora está na profundidade, originalidade e autoridade do conteúdo.
 
-## O que o :contentReference[oaicite:1]{index=1} busca com essa mudança
+## O que o Google busca com essa mudança
 
-![Google escritório](google-office.png)
+![Google escritório](google-office.webp)
 
 O objetivo estratégico é claro: manter o usuário mais tempo dentro do próprio ecossistema.
 
@@ -109,4 +109,6 @@ Opinião especializada, contexto de mercado e aplicação prática criam barreir
 
 Quanto mais reconhecida a fonte, maior a chance de ser usada como referência e gerar confiança.
 
-A integração da IA ao buscador não representa o fim do SEO, mas redefine sua lógica. O tráfego orgânico continua relevante, mas agora depende menos de posição e mais de valor real entregue.
+A integração da IA ao buscador não representa o fim do SEO, mas redefine sua lógica.
+
+O tráfego orgânico continua relevante, mas agora depende menos de posição e mais de valor real entregue.

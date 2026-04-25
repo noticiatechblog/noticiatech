@@ -8,12 +8,14 @@ tags: ["inteligencia artificial", "automacao empresarial", "processos", "produti
 draft: false
 
 cover:
-  image: "capa.png"
+  image: "capa.webp"
 ---
 
 # Como empresas estão usando IA para automatizar processos e reduzir custos em 2026
 
-A inteligência artificial deixou de ser apenas uma tendência tecnológica e passou a ocupar um papel central na operação das empresas. Em 2026, seu impacto já não está restrito à inovação ou experimentação: a IA está sendo usada para automatizar processos, reduzir custos operacionais e acelerar decisões em escala.
+A inteligência artificial deixou de ser apenas uma tendência tecnológica e passou a ocupar um papel central na operação das empresas.
+
+Em 2026, seu impacto já não está restrito à inovação ou experimentação: a IA está sendo usada para automatizar processos, reduzir custos operacionais e acelerar decisões em escala.
 
 O que antes dependia de equipes inteiras, múltiplas etapas e horas de execução, hoje pode ser realizado em minutos com sistemas inteligentes integrados ao fluxo operacional.
 
@@ -80,7 +82,7 @@ Isso gera economia direta e melhora o aproveitamento da equipe.
 
 ### Aumento de produtividade
 
-Processos que levavam horas passam a ser executados em minutos.
+Processos que antes levavam horas passam a ser executados em minutos.
 
 Isso acelera entregas, reduz atrasos e melhora a performance geral da operação.
 

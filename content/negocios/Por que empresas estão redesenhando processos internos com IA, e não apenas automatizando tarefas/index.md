@@ -6,7 +6,7 @@ categories: ["negocios"]
 draft: false
 
 cover:
-  image: "capa.png"
+  image: "capa.webp"
 ---
 
 # Por que empresas estão redesenhando processos internos com IA em vez de apenas automatizar tarefas
@@ -29,7 +29,7 @@ Esse movimento já é visível em operações industriais, cadeias de suprimento
 
 A nova vantagem competitiva não está apenas na adoção de novas ferramentas.
 
-Está na capacidade de reorganizar operações inteiras com base em dados, integração e tomada de decisão automatizada.
+Ela está na capacidade de reorganizar operações inteiras com base em dados, integração e tomada de decisão automatizada.
 
 ### A lógica mudou dentro das empresas
 
@@ -65,7 +65,7 @@ Esse é um dos principais motivos pelos quais muitos projetos de IA falham em ge
 
 ### O ganho real vem do desenho do processo
 
-A tecnologia melhora execução.
+A tecnologia melhora a execução.
 
 Mas a eficiência nasce na estrutura.
 
@@ -93,7 +93,7 @@ E isso muda custo, velocidade e produtividade.
 
 A gestão de contratos sempre foi uma das áreas mais lentas dentro das empresas.
 
-![Gestão de contratos](contratos.png)
+![Gestão de contratos](contratos.webp)
 
 O problema nunca foi a assinatura.
 
@@ -118,7 +118,7 @@ Sugerem correções.
 
 E aceleram o fluxo antes da revisão humana.
 
-O ganho não está só na velocidade.
+O ganho não está apenas na velocidade.
 
 Está na eliminação de etapas.
 
@@ -156,13 +156,13 @@ Hoje, empresas já usam IA para:
 - validação inicial de informações  
 - identificação de exceções operacionais  
 
-Isso reduz dependência humana em tarefas repetitivas.
+Isso reduz a dependência humana em tarefas repetitivas.
 
 ## Onde está a verdadeira redução de custos
 
 Muita gente pensa que reduzir custo significa reduzir equipe.
 
-Mas o maior custo muitas vezes está no processo.
+Mas o maior custo muitas vezes está no próprio processo.
 
 ### O custo invisível da fricção operacional
 
