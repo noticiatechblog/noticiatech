@@ -9,8 +9,6 @@ cover:
   image: "capa.webp"
 ---
 
-# VTEX lança nova geração de e-commerce com IA integrada e muda operações de empresas médias
-
 A VTEX apresentou uma mudança estratégica em sua plataforma: a inteligência artificial deixou de ser um recurso complementar e passou a ocupar o centro da operação.
 
 O movimento marca uma mudança importante no comércio digital.

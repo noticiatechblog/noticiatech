@@ -9,8 +9,6 @@ cover:
   image: "capa.webp"
 ---
 
-# Klarna e a automação do suporte: o que aconteceu quando a IA assumiu o atendimento
-
 A Klarna virou um dos casos mais observados do mercado ao substituir parte relevante do atendimento ao cliente por inteligência artificial.
 
 O movimento trouxe ganhos claros de produtividade, redução de custos operacionais e maior capacidade de escala.

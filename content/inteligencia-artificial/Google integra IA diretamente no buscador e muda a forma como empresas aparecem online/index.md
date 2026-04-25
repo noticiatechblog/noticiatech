@@ -9,8 +9,6 @@ cover:
   image: "capa.webp"
 ---
 
-# Google integra IA ao buscador e muda o jogo do SEO para empresas
-
 O Google começou a transformar sua experiência de busca ao incorporar inteligência artificial diretamente nos resultados.
 
 A mudança altera um dos pilares da internet moderna: o modelo baseado em cliques.

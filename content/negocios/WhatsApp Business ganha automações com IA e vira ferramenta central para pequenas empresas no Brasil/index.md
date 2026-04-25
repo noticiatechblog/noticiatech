@@ -9,8 +9,6 @@ cover:
   image: "capa.webp"
 ---
 
-# WhatsApp Business ganha automações com IA e se torna peça central para pequenas empresas no Brasil
-
 O WhatsApp Business está ampliando seu papel dentro das pequenas empresas brasileiras.
 
 O aplicativo, que antes funcionava principalmente como canal de comunicação, está se transformando em uma plataforma operacional de vendas, atendimento e relacionamento com clientes.

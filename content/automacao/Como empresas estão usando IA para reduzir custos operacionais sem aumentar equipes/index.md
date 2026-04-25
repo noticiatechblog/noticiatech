@@ -11,8 +11,6 @@ cover:
   image: "capa.webp"
 ---
 
-# Como empresas estão usando IA para reduzir custos operacionais sem aumentar equipes
-
 Durante muito tempo, crescer significava contratar.
 
 Mais clientes exigiam mais pessoas, mais setores e mais estrutura operacional.

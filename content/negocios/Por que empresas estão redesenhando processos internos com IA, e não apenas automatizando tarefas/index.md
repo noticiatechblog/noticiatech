@@ -9,8 +9,6 @@ cover:
   image: "capa.webp"
 ---
 
-# Por que empresas estão redesenhando processos internos com IA em vez de apenas automatizar tarefas
-
 Durante anos, empresas usaram tecnologia para acelerar tarefas operacionais.
 
 Automatizar planilhas, reduzir etapas manuais e aumentar produtividade eram os principais objetivos.

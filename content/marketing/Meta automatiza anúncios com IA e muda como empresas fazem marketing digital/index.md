@@ -9,8 +9,6 @@ cover:
   image: "capa.webp"
 ---
 
-# Meta automatiza anúncios com IA e redefine o marketing digital para empresas
-
 A Meta está ampliando o uso de inteligência artificial para automatizar campanhas publicitárias em suas plataformas.
 
 O movimento muda uma das bases do marketing digital: a segmentação manual.
