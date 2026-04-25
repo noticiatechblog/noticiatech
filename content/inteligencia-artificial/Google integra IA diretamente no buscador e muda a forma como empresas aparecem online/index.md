@@ -6,7 +6,7 @@ categories: ["ia"]
 draft: false
 
 cover:
-  image: "capa.webp"
+  image: "capa.png"
 ---
 
 O Google começou a transformar sua experiência de busca ao incorporar inteligência artificial diretamente nos resultados.
@@ -17,7 +17,7 @@ Para empresas, blogs e operações digitais que dependem de tráfego orgânico, 
 
 ## O Google agora responde dentro da própria busca
 
-![Google IA](google.webp)
+![Google IA](google.png)
 
 O modelo tradicional de pesquisa baseado em links começa a perder espaço para respostas geradas por IA.
 
@@ -35,7 +35,7 @@ Mas reduz o fluxo de visitas para sites que antes capturavam esse tráfego.
 
 ## O impacto direto para empresas e produtores de conteúdo
 
-![Busca IA](ia-busca.webp)
+![Busca IA](ia-busca.png)
 
 Por muitos anos, o objetivo era simples: alcançar o topo do Google.
 
@@ -57,7 +57,7 @@ O diferencial agora está na profundidade, originalidade e autoridade do conteú
 
 ## O que o Google busca com essa mudança
 
-![Google escritório](google-office.webp)
+![Google escritório](google-office.png)
 
 O objetivo estratégico é claro: manter o usuário mais tempo dentro do próprio ecossistema.
 
