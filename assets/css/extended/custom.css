@@ -75,7 +75,7 @@ Recomendado:
 
 /* Parágrafo - tamanho, peso e entrelinhas */
 .post-content p {
-    font-size: 21px;   /* 👈 tamanho do texto */
+    font-size: 20px;   /* 👈 tamanho do texto */
     font-weight: 600;  /* 👈 peso (400 normal | 500 mais forte) */
     line-height: 1.7;  /* 👈 espaçamento entre linhas */
 }
@@ -148,4 +148,11 @@ Recomendado:
 /* Hover */
 #menu a:hover {
   color: #3b82f6 !important;
+}
+
+/* Controla somente a descrição/resumo dos cards dos artigos */
+.entry-content {
+  font-size: 19px !important;   /* tamanho */
+  font-weight: 700 !important;  /* peso */
+  line-height: 1.6 !important;
 }
