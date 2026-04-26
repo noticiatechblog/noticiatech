@@ -116,3 +116,17 @@ Recomendado:
     font-weight: 600;    /* 👈 peso */
     text-align: center;  /* 👈 posição geral */
 }
+
+/* Esconde o texto sem alterar o layout do container */
+.logo a {
+  color: transparent !important;
+  text-indent: -9999px;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+/* Mantém a logo no tamanho correto */
+.logo a img {
+  text-indent: 0 !important;
+  display: block;
+}

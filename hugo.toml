@@ -3,17 +3,27 @@ languageCode = "pt-br"
 relativeURLs = true
 canonifyURLs = true
 defaultContentLanguage = "pt-br"
-title = " "
+title = "Notícia Tech | IA e Automação para Negócios"
 theme = "PaperMod"
+
+enableRobotsTXT = true
 
 # ===== CONFIGURAÇÕES GERAIS =====
 [pagination]
   pagerSize = 10
 
-enableRobotsTXT = true
+# ===== SITEMAP =====
+[sitemap]
+  changefreq = "daily"
+  priority = 0.8
+  filename = "sitemap.xml"
 
 # ===== PARÂMETROS DO TEMA =====
 [params]
+  env = "production"
+  description = "Portal de notícias, análises e aplicações de inteligência artificial, automação, marketing e negócios."
+  keywords = ["IA", "Automação", "Marketing", "Negócios", "Tecnologia"]
+
   ShowSearch = false
   ShowReadingTime = true
   ShowShareButtons = false
@@ -33,7 +43,7 @@ enableRobotsTXT = true
   # POSTS NA HOME
   mainSections = ["inteligencia-artificial", "automacao", "marketing", "negocios"]
 
-  # 👉 SEU CSS (AQUI DENTRO, NÃO EM OUTRO [params])
+  # CSS customizado
   customCSS = ["css/extended/custom.css"]
 
 # ===== LOGO =====
@@ -86,26 +96,26 @@ weight = 5
 
 # ===== MENU FOOTER =====
 [[menu.footer]]
-  name = "Sobre"
-  url = "/sobre/"
-  weight = 1
+name = "Sobre"
+url = "/sobre/"
+weight = 1
 
 [[menu.footer]]
-  name = "Contato"
-  url = "/contato/"
-  weight = 2
+name = "Contato"
+url = "/contato/"
+weight = 2
 
 [[menu.footer]]
-  name = "Política de Privacidade"
-  url = "/politica-de-privacidade/"
-  weight = 3
+name = "Política de Privacidade"
+url = "/politica-de-privacidade/"
+weight = 3
 
 [[menu.footer]]
-  name = "Termos de Uso"
-  url = "/termos-de-uso/"
-  weight = 4
+name = "Termos de Uso"
+url = "/termos-de-uso/"
+weight = 4
 
 [[menu.footer]]
-  name = "Disclaimer"
-  url = "/disclaimer/"
-  weight = 5
+name = "Disclaimer"
+url = "/disclaimer/"
+weight = 5
