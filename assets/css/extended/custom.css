@@ -130,3 +130,22 @@ Recomendado:
   text-indent: 0 !important;
   display: block;
 }
+
+/* Item ativo do menu */
+#menu .active,
+#menu .active a,
+#menu .active span {
+  color: #3b82f6 !important; /* azul mais claro */
+  font-weight: 800 !important;
+}
+
+/* Mantém a cor nativa do tema no traço (claro/escuro), altera só espessura */
+#menu .active {
+  border-bottom-width: 3px !important;
+  padding-bottom: 4px !important;
+}
+
+/* Hover */
+#menu a:hover {
+  color: #3b82f6 !important;
+}
