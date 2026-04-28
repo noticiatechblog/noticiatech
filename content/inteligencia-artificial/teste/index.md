@@ -1,7 +1,7 @@
 ---
 title: "Teste de Automação"
 description: "Validação do fluxo automático"
-date: 2026-04-27T23:36:00-03:00
+date: 2026-04-27T23:52:00-03:00
 draft: false
 
 cover:
