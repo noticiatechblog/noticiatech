@@ -13,6 +13,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Build Hugo Site (future posts included)
+        run: hugo --minify --buildFuture
+
       - name: Install Vercel CLI
         run: npm install -g vercel
 
@@ -22,8 +31,5 @@ jobs:
           VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
           VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
 
-      - name: Build Project Artifacts (with future posts)
-        run: vercel build --prod --token=${{ secrets.VERCEL_TOKEN }} --build-env HUGO_BUILD_FUTURE=true
-
-      - name: Deploy Project Artifacts to Vercel
-        run: vercel deploy --prebuilt --prod --yes --token=${{ secrets.VERCEL_TOKEN }}
+      - name: Deploy Hugo Output to Production
+        run: vercel deploy ./public --prod --yes --token=${{ secrets.VERCEL_TOKEN }}
