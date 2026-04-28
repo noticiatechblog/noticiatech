@@ -13,6 +13,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Build Hugo Site (including future posts)
+        run: hugo --minify --buildFuture
+
       - name: Install Vercel CLI
         run: npm install -g vercel
 
