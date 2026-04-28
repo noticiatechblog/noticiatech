@@ -1,0 +1,27 @@
+name: Scheduled Vercel Production Deploy
+
+on:
+  schedule:
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Trigger Production Deploy
+        run: |
+          curl -X POST "https://api.vercel.com/v13/deployments" \
+          -H "Authorization: Bearer ${{ secrets.VERCEL_TOKEN }}" \
+          -H "Content-Type: application/json" \
+          -d '{
+            "name":"noticiatech",
+            "target":"production",
+            "gitSource":{
+              "type":"github",
+              "repo":"noticiatechblog/noticiatech",
+              "ref":"main"
+            },
+            "project":"${{ secrets.VERCEL_PROJECT_ID }}"
+          }'
