@@ -10,20 +10,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Trigger Production Deploy
+      - name: Trigger Vercel Production Deploy
         run: |
-          curl -X POST "https://api.vercel.com/v13/deployments" \
+          curl -X POST "https://api.vercel.com/v13/deployments?forceNew=1" \
           -H "Authorization: Bearer ${{ secrets.VERCEL_TOKEN }}" \
           -H "Content-Type: application/json" \
           -d '{
             "name": "noticiatech",
+            "project": "${{ secrets.VERCEL_PROJECT_ID }}",
             "target": "production",
-            "gitSource": {
-              "type": "github",
-              "repo": "noticiatechblog/noticiatech",
-              "ref": "main"
-            },
-            "projectSettings": {
-              "framework": "hugo"
-            }
+            "teamId": "${{ secrets.VERCEL_ORG_ID }}"
           }'
