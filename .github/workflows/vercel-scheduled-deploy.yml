@@ -25,11 +25,14 @@ jobs:
       - name: Install Vercel CLI
         run: npm install -g vercel
 
-      - name: Pull Vercel Environment Information
+      - name: Pull Vercel Project Settings
         run: vercel pull --yes --environment=production --token=${{ secrets.VERCEL_TOKEN }}
         env:
           VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
           VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
 
-      - name: Deploy Hugo Output to Production
-        run: vercel deploy ./public --prod --yes --token=${{ secrets.VERCEL_TOKEN }}
+      - name: Build on Vercel Context
+        run: vercel build --prod --token=${{ secrets.VERCEL_TOKEN }}
+
+      - name: Deploy to Official Production
+        run: vercel deploy --prebuilt --prod --archive=tgz --token=${{ secrets.VERCEL_TOKEN }}
