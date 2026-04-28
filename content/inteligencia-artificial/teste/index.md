@@ -1,6 +1,6 @@
 ---
 title: "Post de Teste Programado"
-date: 2026-04-28T18:08:00-03:00
+date: 2026-04-28T18:26:00-03:00
 draft: false
 description: "Teste de publicação programada no workflow do GitHub Actions + Vercel."
 categories: ["teste"]
