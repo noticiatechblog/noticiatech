@@ -2,72 +2,40 @@
 /* 🔷 LOGO - CONTROLE DE TAMANHO */
 /* ============================= */
 
-/*
-👉 Altere o valor abaixo para aumentar ou diminuir a logo
-
-Recomendado:
-50px = menor
-55px = ideal
-60px = máximo seguro (evita quebrar o header)
-*/
-
 .logo img {
-    height: 63px; /* 👈 MUDE AQUI */
+    height: 63px;
     width: auto;
 }
-
-
 
 /* ============================= */
 /* 🌙 BOTÃO DARK MODE - POSIÇÃO */
 /* ============================= */
 
-/*
-👉 Se o botão descer, ajuste o alinhamento aqui
-*/
-
 #theme-toggle {
     margin-left: auto;
 }
 
-
-
 /* ============================= */
 /* 📱 HEADER - ALINHAMENTO GERAL */
 /* ============================= */
-
-/*
-👉 Mantém logo + menu + botão alinhados na mesma linha
-*/
 
 .header {
     display: flex;
     align-items: center;
 }
 
-
-
 /* ============================= */
 /* 🔘 MENU - BOTÕES (ESTILO BASE) */
 /* ============================= */
 
-/*
-👉 Controla tamanho e espaçamento dos botões do menu
-*/
-
 .nav a {
-    padding: 8px 14px; /* 👈 aumenta/diminui o botão */
+    padding: 8px 8px;
     border-radius: 8px;
 }
-
 
 /* ============================= */
 /* 🟡 HOVER - QUANDO PASSA O DEDO */
 /* ============================= */
-
-/*
-👉 Efeito ao passar o mouse/toque
-*/
 
 .nav a:hover {
     background-color: rgba(0, 123, 255, 0.1);
@@ -75,27 +43,27 @@ Recomendado:
 
 /* Parágrafo - tamanho, peso e entrelinhas */
 .post-content p {
-    font-size: 20px;   /* 👈 tamanho do texto */
-    font-weight: 600;  /* 👈 peso (400 normal | 500 mais forte) */
-    line-height: 1.7;  /* 👈 espaçamento entre linhas */
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.7;
 }
 
 /* Menu - tamanho e peso da fonte */
 .menu a {
-    font-size: 17px;   /* 👈 tamanho */
-    font-weight: 700;  /* 👈 peso */
+    font-size: 17px;
+    font-weight: 700;
 }
 
 /* Preview dos artigos (home e categorias) */
 .entry-content {
-    font-size: 18px;   /* 👈 tamanho do texto */
-    font-weight: 500;  /* 👈 peso */
-    line-height: 1.6;  /* 👈 entrelinhas */
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.6;
 }
 
 /* Igualar cor ao conteúdo do artigo */
 .entry-content {
-    color: var(--content); /* 👈 usa a cor padrão do tema */
+    color: var(--content);
 }
 
 /* Esconder "Powered by Hugo & PaperMod" */
@@ -105,54 +73,76 @@ Recomendado:
 
 /* Rodapé - texto copyright */
 .copyright {
-    font-size: 15px;     /* 👈 tamanho */
-    font-weight: 500;    /* 👈 peso */
-    text-align: center;  /* 👈 posição: left | center | right */
+    font-size: 15px;
+    font-weight: 500;
+    text-align: center;
 }
 
 /* Rodapé - menu (links) */
 .footer-links {
-    font-size: 17px;     /* 👈 tamanho */
-    font-weight: 600;    /* 👈 peso */
-    text-align: center;  /* 👈 posição geral */
+    font-size: 17px;
+    font-weight: 600;
+    text-align: center;
 }
 
 /* Esconde o texto sem alterar o layout do container */
 .logo a {
-  color: transparent !important;
-  text-indent: -9999px;
-  overflow: hidden;
-  white-space: nowrap;
+    color: transparent !important;
+    text-indent: -9999px;
+    overflow: hidden;
+    white-space: nowrap;
 }
 
 /* Mantém a logo no tamanho correto */
 .logo a img {
-  text-indent: 0 !important;
-  display: block;
+    text-indent: 0 !important;
+    display: block;
 }
 
-/* Item ativo do menu */
-#menu .active,
-#menu .active a,
-#menu .active span {
-  color: #3b82f6 !important; /* azul mais claro */
-  font-weight: 800 !important;
-}
-
-/* Mantém a cor nativa do tema no traço (claro/escuro), altera só espessura */
-#menu .active {
-  border-bottom-width: 3px !important;
-  padding-bottom: 4px !important;
-}
-
-/* Hover */
+/* Hover do menu */
 #menu a:hover {
-  color: #3b82f6 !important;
+    color: #3b82f6 !important;
 }
 
 /* Controla somente a descrição/resumo dos cards dos artigos */
 .entry-content {
-  font-size: 19px !important;   /* tamanho */
-  font-weight: 700 !important;  /* peso */
-  line-height: 1.6 !important;
+    font-size: 19px !important;
+    font-weight: 400 !important;
+    line-height: 1.6 !important;
 }
+
+/* Remove o underline padrão do item ativo */
+#menu .active {
+    border-bottom: none !important;
+}
+
+/* ITEM ATIVO - BASE */
+#menu .active {
+    font-weight: 700 !important;
+}
+
+/* ITEM ATIVO - BASE */
+#menu .active {
+    font-weight: 700 !important;
+}
+
+/* Base */
+#menu .active {
+    font-weight: 700 !important;
+}
+
+/* Base */
+#menu .active {
+    font-weight: 700 !important;
+}
+
+/* Item ativo - base */
+#menu .active {
+    font-weight: 700 !important;
+}
+
+#menu .active {
+    font-weight: 800 !important;
+    border-bottom: 3px solid currentColor !important;
+}
+
