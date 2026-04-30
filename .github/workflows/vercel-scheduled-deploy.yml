@@ -3,7 +3,7 @@ name: Scheduled Vercel Production Deploy
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 12 * * *"
+    - cron: "50 0  * * *"
 
 jobs:
   deploy:
