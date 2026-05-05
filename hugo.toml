@@ -8,6 +8,13 @@ theme = "PaperMod"
 
 enableRobotsTXT = true
 
+# ===== CORREÇÃO DO HTML NOS ARTIGOS =====
+[markup.goldmark.renderer]
+  unsafe = true
+
+# ===== IGNORAR WARNINGS DO LOG =====
+ignoreLogs = ['warning-goldmark-raw-html']
+
 # ===== CONFIGURAÇÕES GERAIS =====
 [pagination]
   pagerSize = 10

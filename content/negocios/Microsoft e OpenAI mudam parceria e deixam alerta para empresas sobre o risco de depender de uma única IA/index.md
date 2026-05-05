@@ -12,7 +12,7 @@ cover:
   caption: "A nova fase da parceria entre Microsoft e OpenAI muda a lógica da IA empresarial"
 ---
 
-**A relação entre Microsoft e OpenAI entrou em uma nova fase — e isso importa muito mais para empresas do que parece.**
+**A relação entre Microsoft e OpenAI entrou em uma nova fase, e isso importa muito mais para empresas do que parece.**
 
 A mudança no acordo entre as gigantes sinaliza algo maior: a inteligência artificial corporativa está deixando de ser um ecossistema fechado e entrando em uma lógica mais aberta, flexível e estratégica.
 
