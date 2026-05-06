@@ -24,8 +24,7 @@ Mas isso mudou.
 
 Hoje, ferramentas como **__OpenAI__**, **__Microsoft__ Copilot**, **__Google__ Gemini** e buscadores com IA passaram a atuar como consultores preliminares de compra.
 
-Segundo levantamento citado pela WebFX, 94% dos compradores B2B já utilizam LLMs no processo de compra e 83% definem critérios de aquisição antes mesmo de falar com um vendedor. Isso significa que grande parte da persuasão comercial agora acontece antes do time comercial entrar em cena. :contentReference[oaicite:4]{index=4}
-
+Segundo levantamento citado pela WebFX, 94% dos compradores B2B já utilizam LLMs no processo de compra e 83% definem critérios de aquisição antes mesmo de falar com um vendedor. Isso significa que grande parte da persuasão comercial agora acontece antes do time comercial entrar em cena. 
 Na prática:
 
 a IA compara fornecedores  
