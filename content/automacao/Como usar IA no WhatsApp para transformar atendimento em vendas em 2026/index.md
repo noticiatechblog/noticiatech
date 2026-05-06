@@ -1,7 +1,7 @@
 ---
 title: "Como usar IA no WhatsApp para transformar atendimento em vendas em 2026"
 slug: "ia-whatsapp-vendas-automacao"
-date: 2026-05-07T08:05:00-03:00
+date: 2026-05-07T06:45:00-03:00
 draft: false
 description: "Empresas brasileiras estão usando inteligência artificial no WhatsApp para automatizar atendimento, qualificar leads e aumentar conversões com menos esforço operacional."
 author: "Aluisio Soares, fundador do blog Notícia Tech"

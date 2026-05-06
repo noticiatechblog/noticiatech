@@ -1,7 +1,7 @@
 ---
 title: "IA para pequenas empresas: 7 processos que já podem ser automatizados em 2026"
 slug: "ia-pequenas-empresas-processos-automatizados"
-date: 2026-05-07T08:00:00-03:00
+date: 2026-05-07T06:50:00-03:00
 draft: false
 description: "Pequenas empresas já podem automatizar atendimento, vendas, marketing, financeiro e suporte com inteligência artificial para reduzir custos e ganhar produtividade."
 author: "Aluisio Soares, fundador do blog Notícia Tech"

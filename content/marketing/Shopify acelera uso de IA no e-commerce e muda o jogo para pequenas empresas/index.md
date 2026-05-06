@@ -1,7 +1,7 @@
 ---
 title: "Shopify acelera uso de IA no e-commerce e muda o jogo para pequenas empresas"
 slug: "shopify-ia-ecommerce-automacao"
-date: 2026-05-07T08:10:00-03:00
+date: 2026-05-07T06:55:00-03:00
 draft: false
 description: "A Shopify amplia recursos de inteligência artificial para lojas virtuais e campanhas, reduzindo custos operacionais e acelerando vendas para pequenas e médias empresas."
 author: "Aluisio Soares, fundador do blog Notícia Tech"
