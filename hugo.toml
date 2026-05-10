@@ -1,7 +1,7 @@
 baseURL = "https://noticiatech.com.br/"
 languageCode = "pt-br"
 googleAnalytics = "G-CV10816RTH"
-relativeURLs = true
+relativeURLs = false
 canonifyURLs = true
 defaultContentLanguage = "pt-br"
 title = "Notícia Tech | IA e Automação para Negócios"

@@ -163,8 +163,7 @@ Esse padrão segue a mesma lógica da transformação operacional que outras ár
 
 Leia também:  
 **Como empresas usam IA para automatizar processos**  
-https://noticiatech.com.br/automacao/como-empresas-usam-ia-para-automatizar-processos/ :contentReference[oaicite:1]{index=1}
-
+https://noticiatech.com.br/automacao/como-empresas-usam-ia-para-automatizar-processos/ 
 ## O CRM com IA melhora a qualidade da decisão
 
 Vender não é apenas executar.
@@ -210,7 +209,7 @@ Esse movimento está acelerando no Brasil.
 
 Leia também:  
 **WhatsApp Business ganha automações com IA e vira ferramenta central para pequenas empresas**  
-https://noticiatech.com.br/negocios/whatsapp-business-ganha-automacoes-com-ia-e-vira-ferramenta-central-para-pequenas-empresas-no-brasil/ :contentReference[oaicite:2]{index=2}
+https://noticiatech.com.br/negocios/whatsapp-business-ganha-automacoes-com-ia-e-vira-ferramenta-central-para-pequenas-empresas-no-brasil/ 
 
 ## O que muda daqui para frente
 
