@@ -1,3 +1,11 @@
+{{- $loading := "lazy" -}}
+{{- $fetchpriority := "" -}}
+
+{{- if .Get "priority" -}}
+    {{- $loading = "eager" -}}
+    {{- $fetchpriority = "high" -}}
+{{- end -}}
+
 <figure{{ if or (.Get "class") (eq (.Get "align") "center") }} class="
            {{- if eq (.Get "align") "center" }}align-center {{ end }}
            {{- with .Get "class" }}{{ . }}{{- end }}"
@@ -10,11 +18,10 @@
     {{- end }}
 
     <img
-         {{- if .Get "priority" }}
-            loading="eager"
-            fetchpriority="high"
-         {{- else }}
-            loading="lazy"
+         loading="{{ $loading }}"
+
+         {{- if $fetchpriority }}
+         fetchpriority="{{ $fetchpriority }}"
          {{- end }}
 
          src="{{ .Get "src" }}{{- if eq (.Get "align") "center" }}#center{{- end }}"
@@ -68,4 +75,4 @@
 
     {{- end }}
 
-</figure
+</figure>
