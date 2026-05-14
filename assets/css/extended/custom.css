@@ -3,7 +3,7 @@
 /* ============================= */
 
 .logo img {
-    height: 63px;
+    height: 60px;
     width: auto;
 }
 
@@ -41,51 +41,72 @@
     background-color: rgba(0, 123, 255, 0.1);
 }
 
-/* Parágrafo - tamanho, peso e entrelinhas */
+/* ============================= */
+/* PARÁGRAFOS */
+/* ============================= */
+
 .post-content p {
-    font-size: 20px;
+    font-size: 21px;
     font-weight: 400;
-    line-height: 1.7;
+    line-height: 1.9;
+    margin-bottom: 30px;
+    max-width: 860px;
 }
 
-/* Menu - tamanho e peso da fonte */
-.menu a {
-    font-size: 17px;
-    font-weight: 700;
-}
+/* ============================= */
+/* MENU */
+/* ============================= */
 
-/* Preview dos artigos (home e categorias) */
-.entry-content {
+.menu a,
+#menu a {
     font-size: 18px;
-    font-weight: 400;
-    line-height: 1.6;
+    font-weight: 700;
+    letter-spacing: -0.01em;
 }
 
-/* Igualar cor ao conteúdo do artigo */
+/* ============================= */
+/* ENTRY CONTENT */
+/* ============================= */
+
 .entry-content {
+    font-size: 18px !important;
+    font-weight: 400 !important;
+    line-height: 1.75 !important;
     color: var(--content);
 }
 
-/* Esconder "Powered by Hugo & PaperMod" */
+/* ============================= */
+/* ESCONDER POWERED BY */
+/* ============================= */
+
 .footer span {
     display: none;
 }
 
-/* Rodapé - texto copyright */
+/* ============================= */
+/* COPYRIGHT */
+/* ============================= */
+
 .copyright {
     font-size: 15px;
     font-weight: 500;
     text-align: center;
 }
 
-/* Rodapé - menu (links) */
+/* ============================= */
+/* FOOTER LINKS */
+/* ============================= */
+
 .footer-links {
     font-size: 17px;
     font-weight: 600;
     text-align: center;
 }
 
-/* Esconde o texto sem alterar o layout do container */
+/* ============================= */
+/* ESCONDE TEXTO DA LOGO */
+/* ============================= */
+
 .logo a {
     color: transparent !important;
     text-indent: -9999px;
@@ -93,53 +114,26 @@
     white-space: nowrap;
 }
 
-/* Mantém a logo no tamanho correto */
+/* ============================= */
+/* LOGO IMG */
+/* ============================= */
+
 .logo a img {
     text-indent: 0 !important;
     display: block;
 }
 
-/* Hover do menu */
+/* ============================= */
+/* HOVER MENU */
+/* ============================= */
+
 #menu a:hover {
     color: #3b82f6 !important;
 }
 
-/* Controla somente a descrição/resumo dos cards dos artigos */
-.entry-content {
-    font-size: 19px !important;
-    font-weight: 400 !important;
-    line-height: 1.6 !important;
-}
-
-/* Remove o underline padrão do item ativo */
-#menu .active {
-    border-bottom: none !important;
-}
-
-/* ITEM ATIVO - BASE */
-#menu .active {
-    font-weight: 700 !important;
-}
-
-/* ITEM ATIVO - BASE */
-#menu .active {
-    font-weight: 700 !important;
-}
-
-/* Base */
-#menu .active {
-    font-weight: 700 !important;
-}
-
-/* Base */
-#menu .active {
-    font-weight: 700 !important;
-}
-
-/* Item ativo - base */
-#menu .active {
-    font-weight: 700 !important;
-}
+/* ============================= */
+/* MENU ACTIVE */
+/* ============================= */
 
 #menu .active {
     font-weight: 800 !important;
@@ -155,643 +149,9 @@
     overflow: hidden;
     border-radius: 24px;
     margin-bottom: 40px;
-    min-height: 540px;
-}
+    min-height: auto !important;
 
-.hero-post img {
-    width: 100%;
-    height: 540px;
-    object-fit: cover;
-}
-
-.hero-post .entry-cover {
-    margin: 0;
-}
-
-.hero-post .entry-header {
-    position: absolute;
-    bottom: 40px;
-    left: 40px;
-    z-index: 2;
-    max-width: 70%;
-}
-
-.hero-post .entry-header h2 {
-    font-size: 52px;
-    line-height: 1.05;
-    color: white;
-    font-weight: 800;
-    margin: 0;
-}
-
-.hero-post .entry-content {
-    display: none;
-}
-
-.hero-post .entry-footer {
-    position: absolute;
-    bottom: 15px;
-    left: 40px;
-    z-index: 2;
-    color: rgba(255,255,255,.85);
-}
-
-.hero-post::after {
-    content: "";
-    position: absolute;
-    inset: 0;
-    background:
-        linear-gradient(
-            to top,
-            rgba(0,0,0,.78),
-            rgba(0,0,0,.18)
-        );
-}
-
-/* ============================= */
-/* MOBILE */
-/* ============================= */
-
-@media (max-width: 768px) {
-
-    .hero-post {
-        min-height: 420px;
-    }
-
-    .hero-post img {
-        height: 420px;
-    }
-
-    .hero-post .entry-header {
-        left: 24px;
-        right: 24px;
-        bottom: 70px;
-        max-width: 100%;
-    }
-
-    .hero-post .entry-header h2 {
-        font-size: 32px;
-        line-height: 1.1;
-    }
-
-    .hero-post .entry-footer {
-        left: 24px;
-    }
-}
-
-/* ============================= */
-/* GRID EDITORIAL PREMIUM */
-/* ============================= */
-
-.main .post-entry {
-    border-radius: 20px;
-    overflow: hidden;
-    border: 1px solid rgba(255,255,255,.06);
-    transition: all .25s ease;
-    background: var(--entry);
-    padding: 0;
-}
-
-/* Hover premium */
-
-.main .post-entry:hover {
-    transform: translateY(-4px);
-    box-shadow:
-        0 12px 30px rgba(0,0,0,.18);
-}
-
-/* Imagens */
-
-.post-entry .entry-cover img {
-    width: 100%;
-    height: 240px;
-    object-fit: cover;
-    transition: transform .35s ease;
-}
-
-.post-entry:hover .entry-cover img {
-    transform: scale(1.03);
-}
-
-/* Espaçamento interno */
-
-.post-entry .entry-header,
-.post-entry .entry-content,
-.post-entry .entry-footer {
-    padding-left: 24px;
-    padding-right: 24px;
-}
-
-/* Título */
-
-.post-entry .entry-header h2 {
-    font-size: 30px;
-    line-height: 1.15;
-    font-weight: 800;
-    margin-top: 20px;
-}
-
-/* Resumo */
-
-.post-entry .entry-content {
-    font-size: 17px;
-    line-height: 1.7;
-    opacity: .92;
-}
-
-/* Footer */
-
-.post-entry .entry-footer {
-    padding-bottom: 24px;
-    font-size: 14px;
-    opacity: .7;
-}
-
-/* Espaçamento entre posts */
-
-.post-entry {
-    margin-bottom: 32px;
-}
-
-/* ============================= */
-/* SISTEMA TIPOGRÁFICO PREMIUM */
-/* ============================= */
-
-/* Fonte global mais refinada */
-
-body {
-    letter-spacing: -0.01em;
-    text-rendering: optimizeLegibility;
-    -webkit-font-smoothing: antialiased;
-}
-
-/* ============================= */
-/* HERO TITLE */
-/* ============================= */
-
-.hero-post .entry-header h2 {
-    font-size: 58px;
-    line-height: 1.02;
-    font-weight: 900;
-    letter-spacing: -0.04em;
-}
-
-/* ============================= */
-/* TITULOS DOS CARDS */
-/* ============================= */
-
-.post-entry .entry-header h2 {
-    font-size: 31px;
-    line-height: 1.12;
-    font-weight: 800;
-    letter-spacing: -0.03em;
-}
-
-/* ============================= */
-/* TITULO DOS POSTS */
-/* ============================= */
-
-.post-title {
-    font-size: 64px;
-    line-height: 1.02;
-    font-weight: 900;
-    letter-spacing: -0.04em;
-
-    max-width: 980px;
-}
-
-/* ============================= */
-/* H2 DO ARTIGO */
-/* ============================= */
-
-.post-content h2 {
-    font-size: 42px;
-    line-height: 1.1;
-    font-weight: 850;
-
-    margin-top: 70px;
-    margin-bottom: 24px;
-
-    letter-spacing: -0.03em;
-}
-
-/* ============================= */
-/* H3 DO ARTIGO */
-/* ============================= */
-
-.post-content h3 {
-    font-size: 30px;
-    line-height: 1.2;
-    font-weight: 750;
-
-    margin-top: 42px;
-    margin-bottom: 18px;
-
-    letter-spacing: -0.02em;
-}
-
-/* ============================= */
-/* PARÁGRAFOS */
-/* ============================= */
-
-.post-content p {
-    font-size: 21px;
-    line-height: 1.9;
-
-    margin-bottom: 30px;
-
-    max-width: 860px;
-}
-
-/* ============================= */
-/* RESUMOS DOS CARDS */
-/* ============================= */
-
-.entry-content {
-    font-size: 18px !important;
-    line-height: 1.75 !important;
-}
-
-/* ============================= */
-/* METADATA */
-/* ============================= */
-
-.entry-footer,
-.post-meta {
-    font-size: 13px;
-    letter-spacing: .04em;
-    text-transform: uppercase;
-}
-
-/* ============================= */
-/* MENU */
-/* ============================= */
-
-.menu a {
-    font-size: 16px;
-    font-weight: 700;
-    letter-spacing: -.01em;
-}
-
-/* ============================= */
-/* MOBILE */
-/* ============================= */
-
-@media (max-width: 768px) {
-
-    .hero-post .entry-header h2 {
-        font-size: 36px;
-        line-height: 1.05;
-    }
-
-    .post-title {
-        font-size: 42px;
-        line-height: 1.05;
-    }
-
-    .post-content h2 {
-        font-size: 32px;
-    }
-
-    .post-content h3 {
-        font-size: 25px;
-    }
-
-    .post-content p {
-        font-size: 19px;
-        line-height: 1.85;
-    }
-
-    .post-entry .entry-header h2 {
-        font-size: 26px;
-    }
-}
-
-/* ============================= */
-/* SEÇÕES EDITORIAIS */
-/* ============================= */
-
-.editorial-section {
-    margin:
-        0 0 42px 0;
-}
-
-/* Header */
-
-.section-header {
-    margin-bottom: 26px;
-}
-
-/* Label */
-
-.section-label {
-    display: inline-block;
-
-    margin-bottom: 10px;
-
-    font-size: 12px;
-    font-weight: 800;
-
-    letter-spacing: .08em;
-    text-transform: uppercase;
-
-    color: #60a5fa;
-}
-
-/* Título */
-
-.section-header h2 {
-    font-size: 42px;
-    line-height: 1.05;
-    font-weight: 900;
-
-    letter-spacing: -0.04em;
-
-    margin: 0;
-}
-
-/* Mobile */
-
-@media (max-width: 768px) {
-
-    .section-header h2 {
-        font-size: 30px;
-    }
-}
-
-/* ============================= */
-/* TRENDING PREMIUM */
-/* ============================= */
-
-.trending-topics {
-    display: flex;
-    align-items: center;
-    gap: 12px;
-
-    flex-wrap: wrap;
-}
-
-/* Pills */
-
-.trend-pill {
-    display: inline-flex;
-    align-items: center;
-
-    padding:
-        8px 14px;
-
-    border-radius: 999px;
-
-    background:
-        rgba(255,255,255,.05);
-
-    border:
-        1px solid rgba(255,255,255,.06);
-
-    font-size: 13px;
-    font-weight: 700;
-
-    letter-spacing: -.01em;
-
-    transition:
-        all .25s ease;
-}
-
-/* Hover */
-
-.trend-pill:hover {
-    transform: translateY(-2px);
-
-    background:
-        rgba(96,165,250,.12);
-
-    border-color:
-        rgba(96,165,250,.25);
-
-    color:
-        #60a5fa;
-}
-
-/* Breaking bar */
-
-.breaking-bar {
-    flex-wrap: wrap;
-}
-
-/* Mobile */
-
-@media (max-width: 768px) {
-
-    .trending-topics {
-        gap: 8px;
-    }
-
-    .trend-pill {
-        font-size: 12px;
-
-        padding:
-            7px 12px;
-    }
-}
-
-/* ============================= */
-/* MAIS LIDAS */
-/* ============================= */
-
-.most-read-section {
-    margin:
-        0 0 70px 0;
-}
-
-/* Header */
-
-.most-read-header {
-    margin-bottom: 28px;
-}
-
-/* Label */
-
-.most-read-label {
-    display: inline-block;
-
-    margin-bottom: 10px;
-
-    font-size: 12px;
-    font-weight: 800;
-
-    letter-spacing: .08em;
-    text-transform: uppercase;
-
-    color:
-        #60a5fa;
-}
-
-/* Título */
-
-.most-read-header h2 {
-    font-size: 42px;
-    line-height: 1.05;
-    font-weight: 900;
-
-    letter-spacing:
-        -0.04em;
-
-    margin: 0;
-}
-
-/* Grid */
-
-.most-read-grid {
-    display: grid;
-
-    grid-template-columns:
-        repeat(3, 1fr);
-
-    gap: 22px;
-}
-
-/* Cards */
-
-.most-read-card {
-    position: relative;
-
-    padding:
-        30px;
-
-    border-radius: 24px;
-
-    background:
-        linear-gradient(
-            135deg,
-            rgba(255,255,255,.04),
-            rgba(255,255,255,.02)
-        );
-
-    border:
-        1px solid rgba(255,255,255,.06);
-
-    transition:
-        all .3s ease;
-}
-
-/* Hover */
-
-.most-read-card:hover {
-    transform: translateY(-4px);
-
-    border-color:
-        rgba(255,255,255,.12);
-
-    box-shadow:
-        0 14px 34px rgba(0,0,0,.18);
-}
-
-/* Número */
-
-.most-read-number {
-    display: block;
-
-    margin-bottom: 18px;
-
-    font-size: 14px;
-    font-weight: 900;
-
-    letter-spacing: .08em;
-
-    color:
-        #60a5fa;
-}
-
-/* Título */
-
-.most-read-card h3 {
-    font-size: 26px;
-    line-height: 1.15;
-    font-weight: 850;
-
-    letter-spacing:
-        -0.03em;
-
-    margin: 0;
-}
-
-/* Mobile */
-
-@media (max-width: 768px) {
-
-    .most-read-grid {
-        grid-template-columns:
-            1fr;
-    }
-
-    .most-read-header h2 {
-        font-size: 30px;
-    }
-
-    .most-read-card h3 {
-        font-size: 22px;
-    }
-}
-
-/* ============================= */
-/* REMOVE AUTOR DOS CARDS */
-/* ============================= */
-
-.entry-footer span:last-child {
-    display: none;
-}
-
-/* ============================= */
-/* LIMITE DE LINHAS DO RESUMO */
-/* ============================= */
-
-.post-entry .entry-content p {
-    display: -webkit-box;
-
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
-
-    overflow: hidden;
-}
-
-/* Mobile */
-
-@media (max-width: 768px) {
-
-    .post-entry .entry-content p {
-        -webkit-line-clamp: 3;
-    }
-}
-
-/* ============================= */
-/* SOMBRA PREMIUM NOS CARDS */
-/* ============================= */
-
-.post-entry,
-.magazine-block,
-.most-read-card {
-    box-shadow:
-        0 8px 22px rgba(0,0,0,.10);
-}
-
-/* Hover mais profundo */
-
-.post-entry:hover,
-.magazine-block:hover,
-.most-read-card:hover {
-    box-shadow:
-        0 20px 46px rgba(0,0,0,.22);
-}
-
-/* ============================= */
-/* HERO PREMIUM GLOW */
-/* ============================= */
-
-.hero-post {
-    position: relative;
-
-    border:
-        1px solid rgba(255,255,255,.08);
+    border: 1px solid rgba(255,255,255,.08);
 
     background:
         linear-gradient(
@@ -800,11 +160,8 @@ body {
             rgba(255,255,255,.01)
         );
 
-    backdrop-filter:
-        blur(10px);
+    backdrop-filter: blur(10px);
 }
-
-/* Glow suave */
 
 .hero-post::before {
     content: "";
@@ -829,32 +186,10 @@ body {
     z-index: 1;
 }
 
-/* Conteúdo acima do glow */
-
 .hero-post > * {
     position: relative;
     z-index: 2;
 }
-
-/* Título mais cinematográfico */
-
-.hero-post .entry-header h2 {
-    text-shadow:
-        0 6px 26px rgba(0,0,0,.58);
-}
-
-/* ================================================= */
-/* CORREÇÕES PREMIUM MOBILE-FIRST */
-/* ================================================= */
-
-/* HERO MAIS RESPONSIVO */
-
-.hero-post {
-    min-height: auto !important;
-    overflow: hidden;
-}
-
-/* Hero image */
 
 .hero-post img {
     width: 100% !important;
@@ -868,21 +203,86 @@ body {
     background: #111;
 }
 
-/* Hero texto */
+.hero-post .entry-cover {
+    margin: 0;
+}
 
 .hero-post .entry-header {
+    position: absolute;
+    bottom: 40px;
+    left: 40px;
+    z-index: 2;
     max-width: 100% !important;
 }
 
-/* Hero título */
-
 .hero-post .entry-header h2 {
     font-size: clamp(30px, 5vw, 58px) !important;
-
-    line-height: 1.08 !important;
+    line-height: 1.05 !important;
+    color: white;
+    font-weight: 900;
+    letter-spacing: -0.04em;
+    text-shadow: 0 6px 26px rgba(0,0,0,.58);
+    margin: 0;
 }
 
-/* Cards */
+.hero-post .entry-content {
+    display: none;
+}
+
+.hero-post .entry-footer {
+    position: absolute;
+    bottom: 15px;
+    left: 40px;
+    z-index: 2;
+
+    color: rgba(255,255,255,.92);
+
+    opacity: 1 !important;
+
+    font-weight: 600;
+}
+
+.hero-post::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+
+    background:
+        linear-gradient(
+            to top,
+            rgba(0,0,0,.78),
+            rgba(0,0,0,.18)
+        );
+}
+
+/* ============================= */
+/* POSTS GRID */
+/* ============================= */
+
+.main .post-entry {
+    border-radius: 20px;
+    overflow: hidden;
+
+    border: 1px solid rgba(255,255,255,.06);
+
+    transition: all .25s ease;
+
+    background: var(--entry);
+
+    padding: 0;
+
+    box-shadow:
+        0 8px 22px rgba(0,0,0,.10);
+
+    margin-bottom: 32px;
+}
+
+.main .post-entry:hover {
+    transform: translateY(-4px);
+
+    box-shadow:
+        0 20px 46px rgba(0,0,0,.22);
+}
 
 .post-entry .entry-cover img {
     width: 100% !important;
@@ -895,35 +295,36 @@ body {
 
     background: #111;
 
-    transition:
-        transform .25s ease;
+    transition: transform .25s ease;
 }
-
-/* Hover mais suave */
 
 .post-entry:hover .entry-cover img {
     transform: scale(1.01) !important;
 }
 
-/* Remove cortes agressivos */
-
 .entry-cover {
     overflow: hidden;
 }
-
-/* Melhor distribuição */
 
 .post-entry {
     overflow: hidden;
 }
 
-/* Cards mais consistentes */
-
-.post-entry .entry-header h2 {
-    text-wrap: balance;
+.post-entry .entry-header,
+.post-entry .entry-content,
+.post-entry .entry-footer {
+    padding-left: 24px;
+    padding-right: 24px;
 }
 
-/* Resumo mais organizado */
+.post-entry .entry-header h2 {
+    font-size: 31px;
+    line-height: 1.12;
+    font-weight: 800;
+    letter-spacing: -0.03em;
+    text-wrap: balance;
+    margin-top: 20px;
+}
 
 .post-entry .entry-content p {
     display: -webkit-box;
@@ -934,18 +335,270 @@ body {
     overflow: hidden;
 }
 
-/* Remove bugs Firefox */
+.post-entry .entry-footer {
+    padding-bottom: 24px;
+
+    font-size: 14px;
+
+    opacity: 1 !important;
+
+    color: #6b7280 !important;
+
+    font-weight: 600;
+}
+
+/* ============================= */
+/* SISTEMA TIPOGRÁFICO */
+/* ============================= */
+
+body {
+    letter-spacing: -0.01em;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+}
+
+/* ============================= */
+/* POST TITLE */
+/* ============================= */
+
+.post-title {
+    font-size: 64px;
+    line-height: 1.02;
+    font-weight: 900;
+    letter-spacing: -0.04em;
+
+    max-width: 980px;
+}
+
+/* ============================= */
+/* H2 */
+/* ============================= */
+
+.post-content h2 {
+    font-size: 42px;
+    line-height: 1.1;
+    font-weight: 850;
+
+    margin-top: 70px;
+    margin-bottom: 24px;
+
+    letter-spacing: -0.03em;
+}
+
+/* ============================= */
+/* H3 */
+/* ============================= */
+
+.post-content h3 {
+    font-size: 30px;
+    line-height: 1.2;
+    font-weight: 750;
+
+    margin-top: 42px;
+    margin-bottom: 18px;
+
+    letter-spacing: -0.02em;
+}
+
+/* ============================= */
+/* METADATA */
+/* ============================= */
+
+.entry-footer,
+.post-meta {
+    font-size: 13px;
+
+    letter-spacing: .04em;
+
+    text-transform: uppercase;
+
+    color: #6b7280 !important;
+
+    opacity: 1 !important;
+
+    font-weight: 600;
+}
+
+/* ============================= */
+/* SEÇÕES */
+/* ============================= */
+
+.editorial-section {
+    margin: 0 0 42px 0;
+}
+
+.section-header {
+    margin-bottom: 26px;
+}
+
+.section-label,
+.most-read-label {
+    display: inline-block;
+
+    margin-bottom: 10px;
+
+    font-size: 12px;
+    font-weight: 800;
+
+    letter-spacing: .08em;
+
+    text-transform: uppercase;
+
+    color: #60a5fa;
+}
+
+.section-header h2,
+.most-read-header h2 {
+    font-size: 42px;
+
+    line-height: 1.05;
+
+    font-weight: 900;
+
+    letter-spacing: -0.04em;
+
+    margin: 0;
+}
+
+/* ============================= */
+/* TRENDING */
+/* ============================= */
+
+.trending-topics {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+
+.trend-pill {
+    display: inline-flex;
+    align-items: center;
+
+    padding: 8px 14px;
+
+    border-radius: 999px;
+
+    background: rgba(255,255,255,.05);
+
+    border: 1px solid rgba(255,255,255,.06);
+
+    font-size: 13px;
+    font-weight: 700;
+
+    letter-spacing: -.01em;
+
+    transition: all .25s ease;
+}
+
+.trend-pill:hover {
+    transform: translateY(-2px);
+
+    background: rgba(96,165,250,.12);
+
+    border-color: rgba(96,165,250,.25);
+
+    color: #60a5fa;
+}
+
+/* ============================= */
+/* MAIS LIDAS */
+/* ============================= */
+
+.most-read-section {
+    margin: 0 0 70px 0;
+}
+
+.most-read-header {
+    margin-bottom: 28px;
+}
+
+.most-read-grid {
+    display: grid;
+
+    grid-template-columns: repeat(3, 1fr);
+
+    gap: 22px;
+}
+
+.most-read-card {
+    position: relative;
+
+    padding: 30px;
+
+    border-radius: 24px;
+
+    background:
+        linear-gradient(
+            135deg,
+            rgba(255,255,255,.04),
+            rgba(255,255,255,.02)
+        );
+
+    border: 1px solid rgba(255,255,255,.06);
+
+    transition: all .3s ease;
+
+    box-shadow:
+        0 8px 22px rgba(0,0,0,.10);
+}
+
+.most-read-card:hover {
+    transform: translateY(-4px);
+
+    border-color: rgba(255,255,255,.12);
+
+    box-shadow:
+        0 20px 46px rgba(0,0,0,.22);
+}
+
+.most-read-number {
+    display: block;
+
+    margin-bottom: 18px;
+
+    font-size: 14px;
+    font-weight: 900;
+
+    letter-spacing: .08em;
+
+    color: #60a5fa;
+}
+
+.most-read-card h3 {
+    font-size: 26px;
+    line-height: 1.15;
+    font-weight: 850;
+    letter-spacing: -0.03em;
+    margin: 0;
+}
+
+/* ============================= */
+/* REMOVE AUTOR */
+/* ============================= */
+
+.entry-footer span:last-child {
+    display: none;
+}
+
+/* ============================= */
+/* IMG */
+/* ============================= */
 
 img {
     max-width: 100%;
     display: block;
 }
 
-/* MOBILE REAL */
+/* ============================= */
+/* MOBILE */
+/* ============================= */
 
 @media (max-width: 768px) {
 
-    /* Hero */
+    #menu a {
+        font-size: 17px;
+    }
 
     .hero-post {
         border-radius: 20px;
@@ -963,7 +616,6 @@ img {
 
     .hero-post .entry-header h2 {
         font-size: 32px !important;
-
         line-height: 1.1 !important;
     }
 
@@ -972,7 +624,24 @@ img {
         bottom: 20px !important;
     }
 
-    /* Cards */
+    .post-title {
+        font-size: 42px;
+        line-height: 1.05;
+    }
+
+    .post-content h2 {
+        font-size: 30px !important;
+        line-height: 1.12 !important;
+    }
+
+    .post-content h3 {
+        font-size: 24px !important;
+    }
+
+    .post-content p {
+        font-size: 19px !important;
+        line-height: 1.85 !important;
+    }
 
     .post-entry .entry-cover img {
         aspect-ratio: 16 / 10;
@@ -980,50 +649,38 @@ img {
 
     .post-entry .entry-header h2 {
         font-size: 24px !important;
-
         line-height: 1.15 !important;
     }
 
-    /* Texto do artigo */
-
-    .post-content p {
-        font-size: 19px !important;
-
-        line-height: 1.85 !important;
+    .section-header h2,
+    .most-read-header h2 {
+        font-size: 30px;
     }
-
-    /* H2 */
-
-    .post-content h2 {
-        font-size: 30px !important;
-
-        line-height: 1.12 !important;
-    }
-
-    /* H3 */
-
-    .post-content h3 {
-        font-size: 24px !important;
-    }
-
-    /* Magazine */
-
-    .magazine-grid {
-        grid-template-columns:
-            1fr !important;
-    }
-
-    /* Mais lidas */
 
     .most-read-grid {
-        grid-template-columns:
-            1fr !important;
+        grid-template-columns: 1fr;
     }
 
-    /* Main */
+    .most-read-card h3 {
+        font-size: 22px;
+    }
+
+    .magazine-grid {
+        grid-template-columns: 1fr !important;
+    }
 
     .main {
         padding-left: 16px !important;
         padding-right: 16px !important;
     }
+
+    .trending-topics {
+        gap: 8px;
+    }
+
+    .trend-pill {
+        font-size: 12px;
+        padding: 7px 12px;
+    }
 }
+```
