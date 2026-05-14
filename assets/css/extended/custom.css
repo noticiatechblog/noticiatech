@@ -165,11 +165,8 @@
 
 .hero-post::before {
     content: "";
-
     position: absolute;
-
     inset: -1px;
-
     border-radius: 24px;
 
     background:
@@ -193,7 +190,6 @@
 
 .hero-post img {
     width: 100% !important;
-
     height: auto !important;
 
     aspect-ratio: 16 / 9;
@@ -211,17 +207,26 @@
     position: absolute;
     bottom: 40px;
     left: 40px;
+
     z-index: 2;
+
     max-width: 100% !important;
 }
 
 .hero-post .entry-header h2 {
     font-size: clamp(30px, 5vw, 58px) !important;
+
     line-height: 1.05 !important;
+
     color: white;
+
     font-weight: 900;
+
     letter-spacing: -0.04em;
-    text-shadow: 0 6px 26px rgba(0,0,0,.58);
+
+    text-shadow:
+        0 6px 26px rgba(0,0,0,.58);
+
     margin: 0;
 }
 
@@ -231,20 +236,24 @@
 
 .hero-post .entry-footer {
     position: absolute;
+
     bottom: 15px;
     left: 40px;
+
     z-index: 2;
 
-    color: rgba(255,255,255,.92);
+    color: rgba(255,255,255,.96);
 
     opacity: 1 !important;
 
-    font-weight: 600;
+    font-weight: 700;
 }
 
 .hero-post::after {
     content: "";
+
     position: absolute;
+
     inset: 0;
 
     background:
@@ -261,6 +270,7 @@
 
 .main .post-entry {
     border-radius: 20px;
+
     overflow: hidden;
 
     border: 1px solid rgba(255,255,255,.06);
@@ -319,10 +329,15 @@
 
 .post-entry .entry-header h2 {
     font-size: 31px;
+
     line-height: 1.12;
+
     font-weight: 800;
+
     letter-spacing: -0.03em;
+
     text-wrap: balance;
+
     margin-top: 20px;
 }
 
@@ -330,6 +345,7 @@
     display: -webkit-box;
 
     -webkit-line-clamp: 3;
+
     -webkit-box-orient: vertical;
 
     overflow: hidden;
@@ -342,9 +358,9 @@
 
     opacity: 1 !important;
 
-    color: #6b7280 !important;
+    color: #374151 !important;
 
-    font-weight: 600;
+    font-weight: 700;
 }
 
 /* ============================= */
@@ -353,7 +369,9 @@
 
 body {
     letter-spacing: -0.01em;
+
     text-rendering: optimizeLegibility;
+
     -webkit-font-smoothing: antialiased;
 }
 
@@ -363,8 +381,11 @@ body {
 
 .post-title {
     font-size: 64px;
+
     line-height: 1.02;
+
     font-weight: 900;
+
     letter-spacing: -0.04em;
 
     max-width: 980px;
@@ -376,10 +397,13 @@ body {
 
 .post-content h2 {
     font-size: 42px;
+
     line-height: 1.1;
+
     font-weight: 850;
 
     margin-top: 70px;
+
     margin-bottom: 24px;
 
     letter-spacing: -0.03em;
@@ -391,10 +415,13 @@ body {
 
 .post-content h3 {
     font-size: 30px;
+
     line-height: 1.2;
+
     font-weight: 750;
 
     margin-top: 42px;
+
     margin-bottom: 18px;
 
     letter-spacing: -0.02em;
@@ -405,18 +432,20 @@ body {
 /* ============================= */
 
 .entry-footer,
-.post-meta {
+.post-meta,
+.entry-footer span,
+.post-meta span {
     font-size: 13px;
 
     letter-spacing: .04em;
 
     text-transform: uppercase;
 
-    color: #6b7280 !important;
+    color: #374151 !important;
 
     opacity: 1 !important;
 
-    font-weight: 600;
+    font-weight: 700;
 }
 
 /* ============================= */
@@ -438,6 +467,7 @@ body {
     margin-bottom: 10px;
 
     font-size: 12px;
+
     font-weight: 800;
 
     letter-spacing: .08em;
@@ -484,6 +514,7 @@ body {
     border: 1px solid rgba(255,255,255,.06);
 
     font-size: 13px;
+
     font-weight: 700;
 
     letter-spacing: -.01em;
@@ -558,6 +589,7 @@ body {
     margin-bottom: 18px;
 
     font-size: 14px;
+
     font-weight: 900;
 
     letter-spacing: .08em;
@@ -567,9 +599,13 @@ body {
 
 .most-read-card h3 {
     font-size: 26px;
+
     line-height: 1.15;
+
     font-weight: 850;
+
     letter-spacing: -0.03em;
+
     margin: 0;
 }
 
@@ -616,6 +652,7 @@ img {
 
     .hero-post .entry-header h2 {
         font-size: 32px !important;
+
         line-height: 1.1 !important;
     }
 
@@ -683,4 +720,3 @@ img {
         padding: 7px 12px;
     }
 }
-```
