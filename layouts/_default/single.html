@@ -43,9 +43,6 @@
   {{- end }}
 
   {{- partial "newsletter.html" . }}
-  {{- if and .Section (in site.Params.mainSections .Section) }}
-  <script src="https://cdn-reach.hostinger.com/js/embed.js"></script>
-  {{- end }}
 
   <footer class="post-footer">
     {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
