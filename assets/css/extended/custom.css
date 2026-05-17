@@ -632,36 +632,13 @@ img {
 
 .newsletter-signup {
     margin: 48px 0 32px;
-    padding: 28px;
-    border: 1px solid var(--border);
-    border-radius: 8px;
-    background: var(--entry);
+    display: flex;
+    justify-content: center;
+    width: 100%;
 }
 
-.newsletter-signup__intro {
-    margin-bottom: 18px;
-}
-
-.newsletter-signup__eyebrow {
-    margin: 0 0 8px !important;
-    color: var(--secondary);
-    font-size: 13px !important;
-    font-weight: 700;
-    line-height: 1.3 !important;
-    text-transform: uppercase;
-}
-
-.newsletter-signup h2 {
-    margin: 0 0 10px;
-    font-size: 26px;
-    line-height: 1.2;
-}
-
-.newsletter-signup p {
-    margin: 0;
-    color: var(--secondary);
-    font-size: 16px;
-    line-height: 1.7;
+.newsletter-signup > div {
+    width: min(100%, 680px);
 }
 
 /* ============================= */
