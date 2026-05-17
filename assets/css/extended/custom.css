@@ -448,6 +448,14 @@ body {
     font-weight: 700;
 }
 
+[data-theme="dark"] .entry-footer,
+[data-theme="dark"] .post-meta,
+[data-theme="dark"] .entry-footer span,
+[data-theme="dark"] .post-meta span,
+[data-theme="dark"] .post-meta a {
+    color: #d1d5db !important;
+}
+
 /* ============================= */
 /* SEÇÕES */
 /* ============================= */
