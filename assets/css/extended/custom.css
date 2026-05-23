@@ -743,3 +743,42 @@ img {
         padding: 7px 12px;
     }
 }
+
+.comments-wrapper {
+  margin-top: 60px;
+}
+
+.comments-header {
+  text-align: center;
+  padding: 28px;
+  border-radius: 18px;
+  background: var(--entry);
+  border: 1px solid var(--border);
+  margin-bottom: 30px;
+}
+
+.comments-header h2 {
+  margin-bottom: 12px;
+  font-size: 32px;
+}
+
+.comments-header p {
+  margin-bottom: 18px;
+  line-height: 1.7;
+  opacity: 0.85;
+}
+
+.comments-header a {
+  display: inline-block;
+  padding: 12px 20px;
+  border-radius: 999px;
+  text-decoration: none;
+  font-weight: 600;
+  background: var(--primary);
+  color: var(--theme);
+  transition: 0.3s;
+}
+
+.comments-header a:hover {
+  opacity: 0.85;
+}
