@@ -240,3 +240,5 @@ Se esse modelo realmente avançar, o mercado pode entrar em uma transformação 
 E dessa vez, o centro da disputa não será apenas quem possui a melhor IA conversacional.
 
 Será quem controla os agentes que passam a operar o ambiente digital inteiro.
+
+---

@@ -765,7 +765,9 @@ img {
 .comments-header p {
   margin-bottom: 18px;
   line-height: 1.7;
-  opacity: 0.85;
+  opacity: 0.92;
+  font-weight: 500;
+  font-size: 19px;
 }
 
 .comments-header a {
