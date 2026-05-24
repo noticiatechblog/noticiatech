@@ -45,9 +45,8 @@ Empresas que já aplicam **IA comercial** conseguem identificar padrões, prever
 Esse movimento se conecta diretamente com outra mudança importante no mercado:  
 a forma como a **inteligência artificial** está redefinindo vendas B2B.
 
-Leia também:  
-**Seu cliente já decidiu antes da reunião**  
-https://noticiatech.com.br/negocios/seu-cliente-ja-decidiu-antes-da-reuniao-como-a-ia-esta-redefinindo-as-vendas-b2b-no-brasil/
+Leia também:
+[Seu cliente já decidiu antes da reunião](https://noticiatech.com.br/negocios/seu-cliente-j%C3%A1-decidiu-antes-da-reuni%C3%A3o-como-a-ia-est%C3%A1-redefinindo-as-vendas-b2b-no-brasil/)
 
 ## Como a IA está transformando a geração de leads
 
@@ -124,9 +123,8 @@ Empresas que já automatizam processos internos estão percebendo isso.
 
 Inclusive em áreas fora do comercial.
 
-Leia também:  
-**Como empresas usam IA para automatizar processos**  
-https://noticiatech.com.br/automacao/como-empresas-usam-ia-para-automatizar-processos/
+Leia também:
+[Como empresas usam IA para automatizar processos](https://noticiatech.com.br/automacao/como-empresas-usam-ia-para-automatizar-processos/)
 
 ## IA no WhatsApp também virou ferramenta de prospecção
 
@@ -143,9 +141,8 @@ Esse canal virou peça estratégica.
 
 Principalmente no Brasil.
 
-Leia também:  
-**WhatsApp Business ganha automações com IA**  
-https://noticiatech.com.br/negocios/whatsapp-business-ganha-automacoes-com-ia-e-vira-ferramenta-central-para-pequenas-empresas-no-brasil/
+Leia também:
+[WhatsApp Business ganha automações com IA](https://noticiatech.com.br/negocios/whatsapp-business-ganha-automa%C3%A7%C3%B5es-com-ia-e-vira-ferramenta-central-para-pequenas-empresas-no-brasil/)
 
 ## O que muda nos próximos anos
 

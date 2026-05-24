@@ -43,7 +43,7 @@ Na prática, parte do trabalho operacional do desenvolvimento começa a migrar p
 
 Esse movimento se conecta diretamente ao avanço da IA corporativa que o Notícia Tech já analisou anteriormente:
 
-https://noticiatech.com.br/inteligencia-artificial/empresas-dobram-investimentos-em-ia-corporativa-e-brasil-acelera-ado%C3%A7%C3%A3o-de-agentes-inteligentes/
+[Empresas dobram investimentos em IA corporativa e Brasil acelera adoção de agentes inteligentes](https://noticiatech.com.br/inteligencia-artificial/empresas-dobram-investimentos-em-ia-corporativa-e-brasil-acelera-ado%C3%A7%C3%A3o-de-agentes-inteligentes/)
 
 Agora, a própria criação de software passa a ser impactada pela lógica da automação inteligente.
 
@@ -64,7 +64,7 @@ Esse cenário já começou a ganhar força dentro da própria OpenAI.
 
 O Notícia Tech analisou recentemente como o avanço do **Codex** e dos agentes programadores pode transformar o VS Code em uma das plataformas mais estratégicas da indústria de tecnologia:
 
-https://noticiatech.com.br/inteligencia-artificial/openai-come%C3%A7a-a-reduzir-depend%C3%AAncia-da-microsoft-e-mercado-de-ia-entra-em-nova-guerra-bilion%C3%A1ria/
+[OpenAI começa a reduzir dependência da Microsoft e mercado de IA entra em nova guerra bilionária](https://noticiatech.com.br/inteligencia-artificial/openai-come%C3%A7a-a-reduzir-depend%C3%AAncia-da-microsoft-e-mercado-de-ia-entra-em-nova-guerra-bilion%C3%A1ria/)
 
 ### A produtividade começa a crescer em velocidade inédita
 
@@ -126,7 +126,7 @@ Na prática:
 
 Esse movimento se conecta diretamente ao avanço da industrialização da IA analisado pelo Notícia Tech:
 
-https://noticiatech.com.br/inteligencia-artificial/2026-virou-o-ano-da-industrializa%C3%A7%C3%A3o-da-ia-no-brasil/
+[2026 virou o ano da industrialização da IA no Brasil](https://noticiatech.com.br/inteligencia-artificial/2026-virou-o-ano-da-industrializa%C3%A7%C3%A3o-da-ia-no-brasil/)
 
 A diferença é que agora a própria produção de software começa a entrar em escala automatizada.
 

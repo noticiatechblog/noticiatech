@@ -49,9 +49,8 @@ Muda conversão.
 
 Esse movimento acompanha a transformação maior do mercado:
 
-Leia também:  
-**Como empresas estão usando IA para gerar leads qualificados sem depender de SDR**  
-https://noticiatech.com.br/negocios/ia-prospeccao-b2b-geracao-leads-qualificados/ :contentReference[oaicite:0]{index=0}
+Leia também:
+[Como empresas estão usando IA para gerar leads qualificados sem depender de SDR](https://noticiatech.com.br/negocios/ia-prospeccao-b2b-geracao-leads-qualificados/) 
 
 ## Como a IA está mudando o CRM na prática
 
@@ -161,9 +160,8 @@ Mais fechamento.
 
 Esse padrão segue a mesma lógica da transformação operacional que outras áreas estão vivendo.
 
-Leia também:  
-**Como empresas usam IA para automatizar processos**  
-https://noticiatech.com.br/automacao/como-empresas-usam-ia-para-automatizar-processos/ 
+Leia também:
+[Como empresas usam IA para automatizar processos](https://noticiatech.com.br/automacao/como-empresas-usam-ia-para-automatizar-processos/) 
 ## O CRM com IA melhora a qualidade da decisão
 
 Vender não é apenas executar.
@@ -207,9 +205,8 @@ Quando integrado ao CRM com IA, o sistema consegue:
 
 Esse movimento está acelerando no Brasil.
 
-Leia também:  
-**WhatsApp Business ganha automações com IA e vira ferramenta central para pequenas empresas**  
-https://noticiatech.com.br/negocios/whatsapp-business-ganha-automacoes-com-ia-e-vira-ferramenta-central-para-pequenas-empresas-no-brasil/ 
+Leia também:
+[WhatsApp Business ganha automações com IA e vira ferramenta central para pequenas empresas](https://noticiatech.com.br/negocios/whatsapp-business-ganha-automa%C3%A7%C3%B5es-com-ia-e-vira-ferramenta-central-para-pequenas-empresas-no-brasil/) 
 
 ## O que muda daqui para frente
 

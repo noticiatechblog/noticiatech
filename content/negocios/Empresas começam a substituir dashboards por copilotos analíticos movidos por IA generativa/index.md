@@ -52,7 +52,7 @@ Além disso, democratiza o acesso à inteligência de negócios dentro das empre
 Em vez de depender exclusivamente de analistas especializados, áreas como marketing, vendas, RH e operações passam a conversar diretamente com sistemas inteligentes.
 
 Esse cenário se conecta diretamente ao avanço da automação corporativa já discutido em:
-[Empresas aceleram adoção de agentes autônomos de IA para reduzir custos operacionais](https://noticiatech.com.br/ia/empresas-aceleram-ado%C3%A7%C3%A3o-de-agentes-aut%C3%B4nomos-de-ia-para-reduzir-custos-operacionais/)
+[Empresas aceleram adoção de agentes autônomos de IA para reduzir custos operacionais](https://noticiatech.com.br/automacao/empresas-come%C3%A7am-a-substituir-softwares-tradicionais-por-agentes-de-ia/)
 
 ## IA generativa transforma dados em decisões acionáveis
 
@@ -96,7 +96,7 @@ Ferramentas deixam de ser passivas.
 Passam a atuar como entidades proativas dentro da operação empresarial.
 
 Esse movimento acompanha a crescente integração entre IA e produtividade corporativa observada em:
-[Microsoft amplia integração de IA no ambiente de trabalho e redefine produtividade corporativa](https://noticiatech.com.br/ia/microsoft-amplia-integra%C3%A7%C3%A3o-de-ia-no-ambiente-de-trabalho-e-redefine-produtividade-corporativa/)
+[Microsoft amplia integração de IA no ambiente de trabalho e redefine produtividade corporativa](https://noticiatech.com.br/negocios/microsoft-e-openai-mudam-parceria-e-deixam-alerta-para-empresas-sobre-o-risco-de-depender-de-uma-%C3%BAnica-ia/)
 
 ## O impacto estratégico para empresas e profissionais
 
@@ -139,7 +139,7 @@ O mercado de BI tradicional começa a entrar em uma fase de reinvenção forçad
 Plataformas que não incorporarem IA generativa tendem a perder relevância rapidamente diante de soluções conversacionais muito mais acessíveis e eficientes.
 
 Esse cenário também reforça a crescente consolidação da IA como infraestrutura central das empresas modernas, tendência observada em:
-[Google acelera disputa corporativa de IA com integração avançada do Gemini no Workspace](https://noticiatech.com.br/ia/google-acelera-disputa-corporativa-de-ia-com-integra%C3%A7%C3%A3o-avan%C3%A7ada-do-gemini-no-workspace/)
+[Google acelera disputa corporativa de IA com integração avançada do Gemini no Workspace](https://noticiatech.com.br/inteligencia-artificial/gemini-spark-a-ia-aut%C3%B4noma-do-google-que-pode-transformar-o-futuro-do-trabalho-digital/)
 
 À medida que os copilotos analíticos evoluem, a tendência é que dashboards tradicionais deixem de ser o centro da experiência corporativa e passem a funcionar apenas como suporte visual secundário. A próxima geração da inteligência de negócios será menos baseada em navegação manual e cada vez mais orientada por conversas inteligentes, contexto operacional e decisões automatizadas em tempo real.
 

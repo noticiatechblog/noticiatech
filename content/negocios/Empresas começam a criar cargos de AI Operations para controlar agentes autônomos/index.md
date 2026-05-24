@@ -75,8 +75,8 @@ E passa a envolver:
 
 Esse movimento já começa a aparecer em empresas que aceleram investimentos em agentes inteligentes e automação empresarial:
 
-- https://noticiatech.com.br/automacao/empresas-come%C3%A7am-a-substituir-softwares-tradicionais-por-agentes-de-ia/
-- https://noticiatech.com.br/inteligencia-artificial/empresas-dobram-investimentos-em-ia-corporativa-e-brasil-acelera-ado%C3%A7%C3%A3o-de-agentes-inteligentes/
+- [Empresas começam a substituir softwares tradicionais por agentes de IA](https://noticiatech.com.br/automacao/empresas-come%C3%A7am-a-substituir-softwares-tradicionais-por-agentes-de-ia/)
+- [Empresas dobram investimentos em IA corporativa e Brasil acelera adoção de agentes inteligentes](https://noticiatech.com.br/inteligencia-artificial/empresas-dobram-investimentos-em-ia-corporativa-e-brasil-acelera-ado%C3%A7%C3%A3o-de-agentes-inteligentes/)
 
 ## A nova geração de profissionais precisará entender processos, IA e operações ao mesmo tempo
 
@@ -127,8 +127,8 @@ O diferencial competitivo passa a ser:
 
 Esse movimento se conecta diretamente à evolução da IA agentic e da industrialização corporativa da inteligência artificial:
 
-- https://noticiatech.com.br/automacao/ia-ag%C3%AAntica-pode-redesenhar-a-automa%C3%A7%C3%A3o-empresarial-nos-pr%C3%B3ximos-anos/
-- https://noticiatech.com.br/inteligencia-artificial/2026-virou-o-ano-da-industrializa%C3%A7%C3%A3o-da-ia-no-brasil/
+- [IA agêntica pode redesenhar a automação empresarial nos próximos anos](https://noticiatech.com.br/automacao/ia-ag%C3%AAntica-pode-redesenhar-a-automa%C3%A7%C3%A3o-empresarial-nos-pr%C3%B3ximos-anos/)
+- [2026 virou o ano da industrialização da IA no Brasil](https://noticiatech.com.br/inteligencia-artificial/2026-virou-o-ano-da-industrializa%C3%A7%C3%A3o-da-ia-no-brasil/)
 
 ## A governança da IA pode se tornar uma das áreas mais estratégicas da próxima década
 

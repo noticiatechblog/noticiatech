@@ -130,7 +130,7 @@ Decisão continua humana.
 
 Esse ponto conversa diretamente com nossa análise sobre diversificação tecnológica em ambientes corporativos:
 
-**[Microsoft e OpenAI mudam parceria e deixam alerta para empresas: depender de uma única IA pode ser um risco](/posts/microsoft-openai-parceria-risco-empresas/)**
+[Microsoft e OpenAI mudam parceria e deixam alerta para empresas: depender de uma única IA pode ser um risco](https://noticiatech.com.br/negocios/microsoft-e-openai-mudam-parceria-e-deixam-alerta-para-empresas-sobre-o-risco-de-depender-de-uma-%C3%BAnica-ia/)
 
 ## O novo padrão competitivo do e-commerce
 

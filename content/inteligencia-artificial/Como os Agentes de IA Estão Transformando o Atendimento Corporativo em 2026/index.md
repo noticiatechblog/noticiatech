@@ -42,7 +42,7 @@ Isso muda completamente a lógica operacional do suporte corporativo.
 Em vez de depender de filas humanas extensas, as empresas começam a operar modelos híbridos em que a IA resolve boa parte das solicitações antes mesmo de um atendente participar do processo.
 
 Esse cenário reforça uma transformação semelhante ao avanço da IA no ambiente corporativo descrito em:
-[Empresas estão trocando equipes operacionais por agentes autônomos de IA](https://noticiatech.com.br/inteligencia-artificial/empresas-estao-trocando-equipes-operacionais-por-agentes-autonomos-de-ia/)
+[Empresas estão trocando equipes operacionais por agentes autônomos de IA](https://noticiatech.com.br/automacao/empresas-come%C3%A7am-a-substituir-softwares-tradicionais-por-agentes-de-ia/)
 
 ## O impacto financeiro da automação inteligente já virou prioridade executiva
 

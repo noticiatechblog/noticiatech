@@ -86,7 +86,7 @@ Isso inclui:
 - controle de automações;
 - gestão de produtividade baseada em métricas reais.
 
-A tendência também fortalece um movimento crescente de busca por eficiência operacional sustentável, semelhante ao avanço observado em plataformas de automação corporativa discutidas em [Empresas abandonam equipes gigantes e adotam estruturas enxutas impulsionadas por IA](https://noticiatech.com.br/negocios/empresas-abandonam-equipes-gigantes-e-adotam-estruturas-enxutas-impulsionadas-por-ia/).
+A tendência também fortalece um movimento crescente de busca por eficiência operacional sustentável, semelhante ao avanço observado em plataformas de automação corporativa discutidas em [Empresas abandonam equipes gigantes e adotam estruturas enxutas impulsionadas por IA](https://noticiatech.com.br/automacao/empresas-come%C3%A7am-a-substituir-softwares-tradicionais-por-agentes-de-ia/).
 
 ### IA sem processos organizados amplia gargalos internos
 

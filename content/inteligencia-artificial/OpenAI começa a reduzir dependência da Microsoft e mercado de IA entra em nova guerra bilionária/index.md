@@ -90,7 +90,7 @@ Em vez de apenas integrar IA em produtos existentes, companhias começam a reorg
 
 Esse movimento se conecta diretamente com outras transformações que já vêm acontecendo no mercado corporativo, como mostramos no artigo sobre como a IA está mudando o desenvolvimento de software nas empresas:
 
-https://noticiatech.com.br/inteligencia-artificial/ia-acelera-produ%C3%A7%C3%A3o-de-software-e-muda-o-papel-dos-programadores-nas-empresas/
+[IA acelera produção de software e muda o papel dos programadores nas empresas](https://noticiatech.com.br/inteligencia-artificial/ia-acelera-produ%C3%A7%C3%A3o-de-software-e-muda-o-papel-dos-programadores-nas-empresas/)
 
 ### A disputa agora envolve controle do futuro digital
 
@@ -142,7 +142,7 @@ Ao mesmo tempo, a disputa tende a elevar:
 
 Esse cenário também se conecta ao avanço da automação corporativa e dos agentes inteligentes que começam a substituir processos tradicionais dentro das empresas:
 
-https://noticiatech.com.br/automacao/como-empresas-usam-ia-para-automatizar-processos/
+[Como empresas estão usando IA para automatizar processos e reduzir custos em 2026](https://noticiatech.com.br/automacao/como-empresas-usam-ia-para-automatizar-processos/)
 
 ### A próxima batalha da IA será invisível para o usuário comum
 

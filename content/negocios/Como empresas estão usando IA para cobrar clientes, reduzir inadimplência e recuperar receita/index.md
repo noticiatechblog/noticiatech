@@ -42,7 +42,7 @@ E a inadimplência cresce.
 
 Além disso, cobrar manualmente exige tempo de pessoas que poderiam estar focadas em áreas mais estratégicas.
 
-Esse mesmo movimento de substituição de tarefas operacionais por automação já vem acontecendo em outros setores, como mostramos no artigo sobre [como empresas estão usando IA para reduzir custos operacionais sem aumentar equipes](https://noticiatech.com.br/como-empresas-estao-usando-ia-para-reduzir-custos-operacionais-sem-aumentar-equipes/).
+Esse mesmo movimento de substituição de tarefas operacionais por automação já vem acontecendo em outros setores, como mostramos no artigo sobre [como empresas estão usando IA para reduzir custos operacionais sem aumentar equipes](https://noticiatech.com.br/automacao/como-empresas-usam-ia-para-reduzir-custos-operacionais/).
 
 ## Como a IA está mudando a lógica da cobrança
 
@@ -102,7 +102,7 @@ O cliente pode negociar sem depender de um atendente.
 
 Isso reduz tempo operacional e acelera recuperação.
 
-É um modelo parecido com a evolução do atendimento automatizado via [WhatsApp Business com IA para pequenas empresas](https://noticiatech.com.br/whatsapp-business-ganha-automacoes-com-ia-e-se-torna-peca-central-para-pequenas-empresas-no-brasil/), mas aplicado ao financeiro.
+É um modelo parecido com a evolução do atendimento automatizado via [WhatsApp Business com IA para pequenas empresas](https://noticiatech.com.br/negocios/whatsapp-business-ganha-automa%C3%A7%C3%B5es-com-ia-e-vira-ferramenta-central-para-pequenas-empresas-no-brasil/), mas aplicado ao financeiro.
 
 ## Por que empresas estão adotando isso agora
 
@@ -178,7 +178,7 @@ A comunicação fica:
 
 Isso reduz constrangimento e melhora o processo.
 
-É parte do mesmo movimento que já está redesenhando processos empresariais, como mostramos no artigo sobre [por que empresas estão redesenhando processos internos com IA em vez de apenas automatizar tarefas](https://noticiatech.com.br/por-que-empresas-estao-redesenhando-processos-internos-com-ia-em-vez-de-apenas-automatizar-tarefas/).
+É parte do mesmo movimento que já está redesenhando processos empresariais, como mostramos no artigo sobre [por que empresas estão redesenhando processos internos com IA em vez de apenas automatizar tarefas](https://noticiatech.com.br/negocios/por-que-empresas-est%C3%A3o-redesenhando-processos-internos-com-ia-e-n%C3%A3o-apenas-automatizando-tarefas/).
 
 ## A próxima grande automação das empresas pode estar no financeiro
 

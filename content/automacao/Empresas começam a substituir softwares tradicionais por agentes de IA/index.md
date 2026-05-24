@@ -63,7 +63,7 @@ O objetivo é transformar IA em uma camada operacional permanente dentro das emp
 
 Essa transformação também se conecta ao avanço da IA corporativa e da automação empresarial que já vem mudando o desenvolvimento de software nos últimos meses:
 
-https://noticiatech.com.br/inteligencia-artificial/ia-acelera-produ%C3%A7%C3%A3o-de-software-e-muda-o-papel-dos-programadores-nas-empresas/
+[IA acelera produção de software e muda o papel dos programadores nas empresas](https://noticiatech.com.br/inteligencia-artificial/ia-acelera-produ%C3%A7%C3%A3o-de-software-e-muda-o-papel-dos-programadores-nas-empresas/)
 
 ## O mercado de SaaS pode entrar em transformação profunda
 
@@ -118,7 +118,7 @@ Essa mudança pode afetar:
 
 O movimento também se conecta ao crescimento da disputa global pela infraestrutura de IA e pelo controle dos ecossistemas corporativos:
 
-https://noticiatech.com.br/inteligencia-artificial/openai-comeca-a-reduzir-dependencia-da-microsoft-e-mercado-de-ia-entra-em-nova-guerra-bilionaria/
+[OpenAI começa a reduzir dependência da Microsoft e mercado de IA entra em nova guerra bilionária](https://noticiatech.com.br/inteligencia-artificial/openai-come%C3%A7a-a-reduzir-depend%C3%AAncia-da-microsoft-e-mercado-de-ia-entra-em-nova-guerra-bilion%C3%A1ria/)
 
 ## Empresas AI-first começam a ganhar vantagem competitiva
 
