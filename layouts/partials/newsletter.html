@@ -1,6 +1,18 @@
 {{- if and .Section (in site.Params.mainSections .Section) -}}
 <section class="newsletter-signup" aria-label="Newsletter Noticia Tech">
-  <div data-reach-form="9a5ba0f9-c4a2-4920-b2c0-8697c9ca3f71"></div>
-  <script src="https://cdn-reach.hostinger.com/js/embed.js"></script>
+  <form class="newsletter-form" action="/api/newsletter" method="post" data-newsletter-form>
+    <div class="newsletter-copy">
+      <strong>Newsletter Noticia Tech</strong>
+      <span>Receba novos artigos no seu email.</span>
+    </div>
+    <div class="newsletter-fields">
+      <label class="newsletter-email-label" for="newsletter-email">Email</label>
+      <input id="newsletter-email" name="email" type="email" inputmode="email" autocomplete="email" placeholder="seu@email.com" required>
+      <input class="newsletter-hp" name="website" type="text" tabindex="-1" autocomplete="off" aria-hidden="true">
+      <button type="submit">Inscrever</button>
+    </div>
+    <p class="newsletter-message" data-newsletter-message aria-live="polite"></p>
+  </form>
+  <script src="/js/newsletter.js" defer></script>
 </section>
 {{- end -}}
