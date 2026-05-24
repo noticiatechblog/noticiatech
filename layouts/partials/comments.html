@@ -13,20 +13,60 @@
     </a>
   </div>
 
-  <script src="https://giscus.app/client.js"
-          data-repo="noticiatechblog/noticiatech-comments"
-          data-repo-id="R_kgDO5I3Tmw"
-          data-category="General"
-          data-category-id="DIC_kwDO5I3Tm84C9r4i"
-          data-mapping="pathname"
-          data-strict="0"
-          data-reactions-enabled="1"
-          data-emit-metadata="1"
-          data-input-position="top"
-          data-theme="light"
-          data-lang="pt"
-          crossorigin="anonymous"
-          async>
+  <div class="giscus"></div>
+
+  <script>
+    (function () {
+      const giscusContainer = document.querySelector(".giscus");
+      const themeToggle = document.getElementById("theme-toggle");
+
+      function getGiscusTheme() {
+        return document.documentElement.dataset.theme === "dark" ? "dark" : "light";
+      }
+
+      function setGiscusTheme() {
+        const iframe = document.querySelector("iframe.giscus-frame");
+        if (!iframe) return;
+
+        iframe.contentWindow.postMessage({
+          giscus: {
+            setConfig: {
+              theme: getGiscusTheme()
+            }
+          }
+        }, "https://giscus.app");
+      }
+
+      const script = document.createElement("script");
+      script.src = "https://giscus.app/client.js";
+      script.dataset.repo = "noticiatechblog/noticiatech-comments";
+      script.dataset.repoId = "R_kgDO5I3Tmw";
+      script.dataset.category = "General";
+      script.dataset.categoryId = "DIC_kwDO5I3Tm84C9r4i";
+      script.dataset.mapping = "pathname";
+      script.dataset.strict = "0";
+      script.dataset.reactionsEnabled = "1";
+      script.dataset.emitMetadata = "1";
+      script.dataset.inputPosition = "top";
+      script.dataset.theme = getGiscusTheme();
+      script.dataset.lang = "pt";
+      script.crossOrigin = "anonymous";
+      script.async = true;
+
+      giscusContainer.appendChild(script);
+
+      window.addEventListener("message", function (event) {
+        if (event.origin === "https://giscus.app" && event.data && event.data.giscus) {
+          setGiscusTheme();
+        }
+      });
+
+      if (themeToggle) {
+        themeToggle.addEventListener("click", function () {
+          window.setTimeout(setGiscusTheme, 0);
+        });
+      }
+    })();
   </script>
 
 </div>

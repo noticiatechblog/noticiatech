@@ -2,16 +2,58 @@
 /* 🔷 LOGO - CONTROLE DE TAMANHO */
 /* ============================= */
 
+:root {
+    --logo-height-desktop: 60px;
+    --logo-height-mobile: 54px;
+}
+
 .logo img {
-    height: 60px;
+    height: var(--logo-height-desktop);
     width: auto;
+}
+
+.logo {
+    flex-wrap: nowrap;
 }
 
 /* ============================= */
 /* 🌙 BOTÃO DARK MODE - POSIÇÃO */
 /* ============================= */
 
+.search-toggle,
 #theme-toggle {
+    width: 38px;
+    height: 38px;
+    min-width: 38px;
+    min-height: 38px;
+    padding: 0 !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    border-radius: 8px;
+    color: var(--primary) !important;
+    background: transparent;
+    text-indent: 0 !important;
+    overflow: visible !important;
+    line-height: 1;
+}
+
+.search-toggle:hover,
+#theme-toggle:hover {
+    background-color: rgba(59, 130, 246, 0.1);
+    color: #3b82f6 !important;
+}
+
+.search-toggle svg,
+#theme-toggle svg {
+    width: 18px;
+    height: 18px;
+    flex: 0 0 18px;
+}
+
+.logo-switches {
+    gap: 6px;
+    flex-wrap: nowrap;
     margin-left: auto;
 }
 
@@ -112,6 +154,16 @@
     text-indent: -9999px;
     overflow: hidden;
     white-space: nowrap;
+}
+
+.logo .logo-switches .search-toggle {
+    color: var(--primary) !important;
+    text-indent: 0 !important;
+    overflow: visible !important;
+}
+
+.logo .logo-switches .search-toggle:hover {
+    color: #3b82f6 !important;
 }
 
 /* ============================= */
@@ -657,6 +709,22 @@ img {
 
     #menu a {
         font-size: 17px;
+    }
+
+    .logo {
+        flex-wrap: nowrap;
+    }
+
+    .logo img {
+        height: var(--logo-height-mobile);
+    }
+
+    .search-toggle,
+    #theme-toggle {
+        width: 36px;
+        height: 36px;
+        min-width: 36px;
+        min-height: 36px;
     }
 
     .hero-post {
