@@ -1,12 +1,22 @@
-name: Daily Vercel Production Deploy
+name: Vercel Production Deploy
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - "content/**"
+      - "assets/**"
+      - "layouts/**"
+      - "themes/**"
+      - "static/**"
+      - "hugo.toml"
   schedule:
-    # GitHub Actions usa UTC. 11:05 UTC = 08:05 em Sao Paulo.
-    - cron: "5 11 * * *"
-    # Segunda tentativa diaria para reduzir risco de atraso/falha temporaria.
-    - cron: "35 11 * * *"
+    # GitHub Actions usa UTC. 11:00 UTC = 08:00 em Sao Paulo.
+    - cron: "0 11 * * *"
+    # Segunda tentativa diária para reduzir risco de falha temporária.
+    - cron: "30 11 * * *"
 
 permissions:
   contents: read
@@ -34,6 +44,7 @@ jobs:
         env:
           VERCEL_DEPLOY_HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
         run: |
+          set -euo pipefail
           curl \
             --fail \
             --show-error \
