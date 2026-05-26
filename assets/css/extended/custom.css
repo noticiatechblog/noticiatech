@@ -938,10 +938,6 @@ img {
   transition: 0.3s;
 }
 
-.comments-header a:hover {
-  opacity: 0.85;
-}
-
 .giscus {
   position: relative;
 }
@@ -949,10 +945,9 @@ img {
 .giscus::after {
   content: "";
   position: absolute;
-  top: 180px; /* ajuste conforme necessário */
-  left: 120px;
+  top: 89px; /* ajuste */
+  left: 120px; /* ajuste */
   width: 160px;
   height: 30px;
-  background: var(--theme);
-  z-index: 999;
+  z-index: 9999;
 }
