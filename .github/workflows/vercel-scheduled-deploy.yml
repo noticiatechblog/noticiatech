@@ -15,8 +15,6 @@ on:
   schedule:
     # GitHub Actions usa UTC. 11:00 UTC = 08:00 em Sao Paulo.
     - cron: "0 11 * * *"
-    # Segunda tentativa diária para reduzir risco de falha temporária.
-    - cron: "30 11 * * *"
 
 permissions:
   contents: read
