@@ -2,6 +2,7 @@ name: Vercel Production Deploy
 
 on:
   workflow_dispatch:
+
   push:
     branches:
       - main
@@ -12,9 +13,11 @@ on:
       - "themes/**"
       - "static/**"
       - "hugo.toml"
+
   schedule:
-    # GitHub Actions usa UTC. 08:00 UTC = 08:00 em Sao Paulo.
-    - cron: "0 8 * * *"
+    # GitHub Actions usa UTC.
+    # 11:00 UTC = 08:00 da manhã no Brasil (GMT-3)
+    - cron: "0 11 * * *"
 
 permissions:
   contents: read
@@ -43,6 +46,7 @@ jobs:
           VERCEL_DEPLOY_HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
         run: |
           set -euo pipefail
+
           curl \
             --fail \
             --show-error \
