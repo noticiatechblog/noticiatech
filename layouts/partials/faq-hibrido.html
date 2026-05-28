@@ -1,0 +1,23 @@
+{{ if .Params.faq }}
+<section class="faq-hibrido">
+
+  <h2>Perguntas Frequentes</h2>
+
+  {{ range .Params.faq }}
+  <details>
+    <summary>{{ .pergunta }}</summary>
+
+    <p>
+      <strong>Resposta rápida:</strong>
+      {{ .resposta_curta }}
+    </p>
+
+    <p>
+      {{ .resposta_longa }}
+    </p>
+
+  </details>
+  {{ end }}
+
+</section>
+{{ end }}
