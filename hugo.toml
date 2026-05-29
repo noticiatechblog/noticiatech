@@ -8,6 +8,11 @@ theme = "PaperMod"
 
 enableRobotsTXT = true
 
+# ===== PUBLICAÇÃO =====
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
 # ===== CORREÇÃO DO HTML NOS ARTIGOS =====
 [markup.goldmark.renderer]
   unsafe = true
