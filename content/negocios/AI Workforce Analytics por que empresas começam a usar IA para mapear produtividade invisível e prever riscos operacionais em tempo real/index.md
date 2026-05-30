@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Amazon lança internet via satélite para rivalizar com a Starlink e acelerar a corrida pela infraestrutura digital global"
 date: 2026-05-30T06:10:00-03:00
