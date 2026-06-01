@@ -69,6 +69,11 @@
   </div>
   {{- end }}
 
+  <!-- Redes Sociais -->
+  {{- if in site.Params.mainSections .Section }}
+    {{- partial "social-follow.html" . }}
+  {{- end }}
+
   <!-- Comentários -->
   {{- if (.Param "comments") }}
     {{- partial "comments.html" . }}

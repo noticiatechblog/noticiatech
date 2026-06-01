@@ -687,6 +687,73 @@ img {
 }
 
 /* ============================= */
+/* REDES SOCIAIS DO ARTIGO */
+/* ============================= */
+
+.social-follow {
+    width: 100%;
+    margin: 56px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.social-follow-card {
+    width: min(100%, 720px);
+    padding: 28px 20px;
+    border: 1px solid var(--border);
+    border-radius: 18px;
+    background: var(--entry);
+    text-align: center;
+}
+
+.social-follow-card h2 {
+    margin: 0 0 12px;
+    color: var(--primary);
+    font-size: 1.35rem;
+    line-height: 1.25;
+    font-weight: 700;
+}
+
+.social-follow-card p {
+    max-width: 580px;
+    margin: 0 auto 22px;
+    color: var(--secondary);
+    font-size: 0.98rem;
+    line-height: 1.7;
+}
+
+.social-follow-icons {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.social-follow-icons a {
+    width: 44px;
+    height: 44px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    color: var(--primary);
+    background: var(--theme);
+}
+
+.social-follow-icons svg {
+    width: 21px;
+    height: 21px;
+}
+
+@media (min-width: 769px) {
+    .social-follow-icons {
+        flex-wrap: nowrap;
+    }
+}
+
+/* ============================= */
 /* NEWSLETTER */
 /* ============================= */
 
@@ -814,6 +881,19 @@ img {
 
     .newsletter-fields button {
         width: 100%;
+    }
+
+    .social-follow {
+        margin: 48px 0;
+    }
+
+    .social-follow-card {
+        padding: 24px 18px;
+        border-radius: 16px;
+    }
+
+    .social-follow-card h2 {
+        font-size: 1.2rem;
     }
 
     .hero-post {

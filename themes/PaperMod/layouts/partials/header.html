@@ -214,6 +214,54 @@
         </div>
 
         {{- $currentPage := . }}
+        {{- $activeCategories := slice }}
+        {{- $activeCategoryKeys := slice }}
+        {{- if $currentPage.IsPage }}
+            {{- with $currentPage.Params.categories }}
+                {{- if reflect.IsSlice . }}
+                    {{- range . }}
+                        {{- $activeCategories = $activeCategories | append . }}
+                    {{- end }}
+                {{- else }}
+                    {{- $activeCategories = $activeCategories | append . }}
+                {{- end }}
+            {{- end }}
+            {{- with $currentPage.Params.category }}
+                {{- if reflect.IsSlice . }}
+                    {{- range . }}
+                        {{- $activeCategories = $activeCategories | append . }}
+                    {{- end }}
+                {{- else }}
+                    {{- $activeCategories = $activeCategories | append . }}
+                {{- end }}
+            {{- end }}
+            {{- range $activeCategories }}
+                {{- $category_key := printf "%v" . | urlize }}
+                {{- $category_key_normalized := $category_key
+                    | replace "á" "a"
+                    | replace "à" "a"
+                    | replace "â" "a"
+                    | replace "ã" "a"
+                    | replace "é" "e"
+                    | replace "ê" "e"
+                    | replace "í" "i"
+                    | replace "ó" "o"
+                    | replace "ô" "o"
+                    | replace "õ" "o"
+                    | replace "ú" "u"
+                    | replace "ç" "c" }}
+                {{- $activeCategoryKeys = $activeCategoryKeys | append $category_key $category_key_normalized }}
+                {{- if and (in $category_key "intelig") (in $category_key "artificial") }}
+                    {{- $activeCategoryKeys = $activeCategoryKeys | append "inteligencia-artificial" }}
+                {{- end }}
+                {{- if in $category_key "automa" }}
+                    {{- $activeCategoryKeys = $activeCategoryKeys | append "automacao" }}
+                {{- end }}
+                {{- if in $category_key "neg" }}
+                    {{- $activeCategoryKeys = $activeCategoryKeys | append "negocios" }}
+                {{- end }}
+            {{- end }}
+        {{- end }}
 
         <ul id="menu" class="menu">
 
@@ -227,6 +275,17 @@
             {{- $page_url := $currentPage.Permalink | absLangURL }}
 
             {{- $is_search := eq (site.GetPage .KeyName).Layout `search` }}
+            {{- $is_active := eq $menu_item_url $page_url }}
+            {{- $menu_item_key := (strings.TrimSuffix "/" (strings.TrimPrefix "/" .URL)) | urlize }}
+            {{- $menu_keys := slice (.Name | urlize) (.Identifier | urlize) $menu_item_key }}
+
+            {{- if and (not $is_active) $activeCategoryKeys }}
+                {{- range $menu_keys }}
+                    {{- if in $activeCategoryKeys . }}
+                        {{- $is_active = true }}
+                    {{- end }}
+                {{- end }}
+            {{- end }}
 
             <li>
 
@@ -240,7 +299,7 @@
                    ("" | safeHTMLAttr ) }}>
 
                     <span
-                        {{- if eq $menu_item_url $page_url }}
+                        {{- if $is_active }}
                         class="active"
                         {{- end }}>
 

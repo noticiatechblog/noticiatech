@@ -1,0 +1,30 @@
+{{- $socialLinks := slice
+  (dict "name" "youtube" "title" "YouTube" "url" "https://youtube.com/@noticiatechblog?si=BMyE-FG-n1fM37kY")
+  (dict "name" "instagram" "title" "Instagram" "url" "https://www.instagram.com/noticiatech.com.br?igsh=MW85NmVuemJ5Z25pZg==")
+  (dict "name" "facebook" "title" "Facebook" "url" "https://www.facebook.com/share/1B4Ht9sRPa/")
+  (dict "name" "x" "title" "X" "url" "https://x.com/NoticiaTechblog")
+  (dict "name" "pinterest" "title" "Pinterest" "url" "https://pin.it/3NDC5Z3oy")
+-}}
+
+<section class="social-follow" aria-labelledby="social-follow-title">
+  <div class="social-follow-card">
+    <h2 id="social-follow-title">Fique por dentro das novas publica&ccedil;&otilde;es</h2>
+
+    <p>
+      Acompanhe o Not&iacute;cia Tech nas redes sociais e receba atualiza&ccedil;&otilde;es sempre que novos artigos sobre IA, automa&ccedil;&atilde;o, marketing e neg&oacute;cios forem publicados.
+    </p>
+
+    <nav class="social-follow-icons" aria-label="Redes sociais do Not&iacute;cia Tech">
+      {{- range $socialLinks }}
+      <a
+        href="{{ .url | safeURL }}"
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label="Acompanhar o Not&iacute;cia Tech no {{ .title }}"
+        title="{{ .title }}">
+        {{ partial "svg.html" . }}
+      </a>
+      {{- end }}
+    </nav>
+  </div>
+</section>
