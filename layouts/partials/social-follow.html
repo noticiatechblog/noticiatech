@@ -3,6 +3,7 @@
   (dict "name" "instagram" "title" "Instagram" "url" "https://www.instagram.com/noticiatech.com.br?igsh=MW85NmVuemJ5Z25pZg==")
   (dict "name" "facebook" "title" "Facebook" "url" "https://www.facebook.com/share/1B4Ht9sRPa/")
   (dict "name" "x" "title" "X" "url" "https://x.com/NoticiaTechblog")
+  (dict "name" "linkedin" "title" "LinkedIn" "url" "https://www.linkedin.com/in/not%C3%ADcia-tech-2370a940b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" "ariaLabel" "LinkedIn")
   (dict "name" "pinterest" "title" "Pinterest" "url" "https://pin.it/3NDC5Z3oy")
 -}}
 
@@ -17,12 +18,19 @@
     <nav class="social-follow-icons" aria-label="Redes sociais do Not&iacute;cia Tech">
       {{- range $socialLinks }}
       <a
+        class="social-button"
         href="{{ .url | safeURL }}"
         target="_blank"
         rel="noopener noreferrer"
-        aria-label="Acompanhar o Not&iacute;cia Tech no {{ .title }}"
+        aria-label="{{ with .ariaLabel }}{{ . }}{{ else }}Acompanhar o Not&iacute;cia Tech no {{ .title }}{{ end }}"
         title="{{ .title }}">
+        {{- if eq .name "linkedin" }}
+        <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+          <path d="M4.98 3.5C4.98 4.88 3.86 6 2.48 6S0 4.88 0 3.5 1.12 1 2.48 1s2.5 1.12 2.5 2.5zM.5 8h4V24h-4V8zm7 0h3.84v2.16h.05c.53-1.01 1.84-2.16 3.79-2.16C19.23 8 21 10.08 21 14.02V24h-4v-8.52c0-2.03-.04-4.64-2.83-4.64-2.84 0-3.27 2.22-3.27 4.5V24h-4V8z"/>
+        </svg>
+        {{- else }}
         {{ partial "svg.html" . }}
+        {{- end }}
       </a>
       {{- end }}
     </nav>
