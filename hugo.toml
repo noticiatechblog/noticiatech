@@ -10,7 +10,7 @@ enableRobotsTXT = true
 
 # ===== PUBLICAÇÃO =====
 buildDrafts = false
-buildFuture = false
+buildFuture = true
 buildExpired = false
 
 # ===== CORREÇÃO DO HTML NOS ARTIGOS =====

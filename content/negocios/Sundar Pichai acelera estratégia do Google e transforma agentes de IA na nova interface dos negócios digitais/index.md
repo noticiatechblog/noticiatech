@@ -116,4 +116,5 @@ Assim como a computação em nuvem redefiniu a tecnologia corporativa, agentes i
 A velocidade com que **Google**, **Microsoft**, **OpenAI** e outros grandes players estão avançando indica que a mudança já está em andamento.
 
 Para líderes empresariais, a questão não é mais se agentes de IA terão impacto relevante, mas qual posição sua organização ocupará quando essas interfaces se tornarem o principal ponto de contato entre pessoas, sistemas e mercados.
-```
+
+---
