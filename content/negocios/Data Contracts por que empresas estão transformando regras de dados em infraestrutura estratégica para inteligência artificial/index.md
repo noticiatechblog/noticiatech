@@ -1,7 +1,7 @@
 ---
 title: "Data Contracts: por que empresas estão transformando regras de dados em infraestrutura estratégica para inteligência artificial"
 slug: "data-contracts-infraestrutura-dados-ia-empresas"
-date: 2026-06-02T08:05:00-03:00
+date: 2026-06-02T07:40:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "Entenda como Data Contracts estão se tornando uma peça estratégica para garantir qualidade de dados, governança e escalabilidade de agentes de IA nas empresas."
 categories:

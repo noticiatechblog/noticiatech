@@ -1,7 +1,7 @@
 ---
 title: "Nvidia leva agentes de IA para dentro do computador e acelera a corrida pelos AI PCs corporativos"
 slug: "nvidia-agentes-ia-ai-pcs-corporativos"
-date: 2026-06-02T08:10:00-03:00
+date: 2026-06-02T07:50:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "Com o lançamento da plataforma RTX Spark, a Nvidia aposta na execução local de inteligência artificial e inaugura uma nova disputa pelo futuro dos computadores corporativos na era dos agentes autônomos."
 categories:
