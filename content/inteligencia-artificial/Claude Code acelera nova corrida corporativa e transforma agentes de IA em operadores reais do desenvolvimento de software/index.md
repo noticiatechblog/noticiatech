@@ -177,4 +177,5 @@ Nesse cenário, empresas não compram apenas tecnologia.
 Compram capacidade operacional automatizada.
 
 A evolução recente do Claude Code sugere que essa transformação está avançando mais rápido do que grande parte do mercado previa. E se os próximos ciclos confirmarem essa trajetória, a próxima grande guerra da inteligência artificial talvez não aconteça nas interfaces que os usuários enxergam diariamente, mas dentro dos bastidores que movimentam o software, os processos e a infraestrutura das empresas.
-```
+
+---

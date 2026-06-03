@@ -3,7 +3,8 @@ title: "Amazon amplia automação com IA na logística e mostra caminho para emp
 description: "Amazon intensifica uso de inteligência artificial na logística para prever demanda, otimizar estoque e acelerar entregas, sinalizando novas oportunidades para empresas brasileiras."
 slug: "amazon-amplia-automacao-com-ia-na-logistica"
 date: 2026-04-27T08:30:00-03:00
-categories: ["automacao"]
+categories: 
+ -"Automação"
 draft: false
 
 cover:
@@ -116,3 +117,5 @@ A inteligência artificial não está mudando apenas marketing ou atendimento.
 Ela está transformando a operação empresarial por dentro.
 
 E empresas brasileiras que entenderem isso primeiro podem ganhar vantagem competitiva.
+
+---
