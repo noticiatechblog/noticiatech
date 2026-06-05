@@ -1150,3 +1150,25 @@ img {
   }
 
 }
+
+/* ============================= */
+/* MENU MOBILE MAIS COMPACTO */
+/* ============================= */
+
+@media (max-width: 768px) {
+
+    #menu {
+        gap: 4px !important;
+    }
+
+    #menu li {
+        margin: 0 !important;
+    }
+
+    #menu a {
+        font-size: 17.5px !important;
+        padding: 6px 2px !important;
+        letter-spacing: -0.02em !important;
+    }
+
+}
