@@ -293,6 +293,10 @@
     display: none;
 }
 
+.main > .first-entry .entry-header h2 {
+    font-size: 32px !important;
+}
+
 .hero-post .entry-footer {
     position: absolute;
 

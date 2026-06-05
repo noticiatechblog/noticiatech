@@ -4,7 +4,7 @@ description: "Pesquisa com empresas brasileiras revela que a maioria falha no ma
 date: 2026-05-05T07:50:00-03:00
 draft: false
 categories:
-  - marketing
+  - negócios
 cover:
   image: "capa.webp"
   alt: "Profissional de marketing analisando dados e estratégias digitais em 2026"

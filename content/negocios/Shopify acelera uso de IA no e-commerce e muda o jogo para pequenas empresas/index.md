@@ -5,7 +5,7 @@ date: 2026-05-07T06:55:00-03:00
 draft: false
 author: "Por Aluisio Soares | Fundador do Notícia Tech"
 description: "A Shopify amplia recursos de inteligência artificial para lojas virtuais e campanhas, reduzindo custos operacionais e acelerando vendas para pequenas e médias empresas."
-categories: ["Marketing"]
+categories: ["Negócios"]
 
 cover:
   image: "capa.webp"

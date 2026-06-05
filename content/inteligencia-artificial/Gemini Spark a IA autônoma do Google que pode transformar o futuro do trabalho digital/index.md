@@ -159,7 +159,7 @@ O **Google** controla:
 Isso oferece uma vantagem extremamente difícil de replicar.
 
 Inclusive, o avanço dos agentes autônomos também se conecta diretamente à mudança do próprio comportamento das plataformas sociais e distribuição digital, algo que analisamos em:
-[LinkedIn deixa de ser rede de currículos e vira plataforma de distribuição B2B impulsionada por IA](https://noticiatech.com.br/marketing/linkedin-deixa-de-ser-rede-de-curr%C3%ADculos-e-vira-plataforma-de-distribui%C3%A7%C3%A3o-b2b-impulsionada-por-ia/)
+[LinkedIn deixa de ser rede de currículos e vira plataforma de distribuição B2B impulsionada por IA](https://noticiatech.com.br/negocios/linkedin-deixa-de-ser-rede-de-curr%C3%ADculos-e-vira-plataforma-de-distribui%C3%A7%C3%A3o-b2b-impulsionada-por-ia/)
 
 ## O impacto do Gemini Spark no mercado de trabalho digital
 

@@ -91,8 +91,8 @@ A tendência reforça o crescimento do chamado GEO (Generative Engine Optimizati
 
 Esse novo comportamento digital também conversa diretamente com a transformação da distribuição B2B e da economia de audiência própria:
 
-- [LinkedIn deixa de ser rede de currículos e vira plataforma de distribuição B2B impulsionada por IA](https://noticiatech.com.br/marketing/linkedin-deixa-de-ser-rede-de-curr%C3%ADculos-e-vira-plataforma-de-distribui%C3%A7%C3%A3o-b2b-impulsionada-por-ia/)
-- [O crescimento das newsletters está criando uma nova guerra por audiência própria](https://noticiatech.com.br/marketing/o-crescimento-das-newsletters-est%C3%A1-criando-uma-nova-guerra-por-audi%C3%AAncia-pr%C3%B3pria/)
+- [LinkedIn deixa de ser rede de currículos e vira plataforma de distribuição B2B impulsionada por IA](https://noticiatech.com.br/negocios/linkedin-deixa-de-ser-rede-de-curr%C3%ADculos-e-vira-plataforma-de-distribui%C3%A7%C3%A3o-b2b-impulsionada-por-ia/)
+- [O crescimento das newsletters está criando uma nova guerra por audiência própria](https://noticiatech.com.br/negocios/o-crescimento-das-newsletters-est%C3%A1-criando-uma-nova-guerra-por-audi%C3%AAncia-pr%C3%B3pria/)
 
 ### Empresas começam a rever dependência de tráfego tradicional
 

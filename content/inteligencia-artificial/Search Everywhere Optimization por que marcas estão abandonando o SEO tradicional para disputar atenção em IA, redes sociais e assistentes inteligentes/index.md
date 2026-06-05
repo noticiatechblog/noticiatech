@@ -4,7 +4,7 @@ date: 2026-05-23T06:05:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "Entenda como o Search Everywhere Optimization está transformando a disputa por tráfego digital e por que empresas estão reformulando estratégias de conteúdo para aparecer em mecanismos de IA, redes sociais e plataformas conversacionais."
 categories:
-  - "Marketing"
+  - "Inteligência Artificial"
 cover:
   image: "capa.webp"
   alt: "Executivos analisando ecossistema digital dominado por IA, redes sociais e motores de busca inteligentes"
@@ -131,7 +131,7 @@ Isso explica por que muitas empresas estão ampliando investimentos em:
 
 A própria transformação do **LinkedIn** em uma plataforma de distribuição impulsionada por IA reforça como o conteúdo corporativo está se tornando dependente de sistemas algorítmicos de recomendação.
 
-[LinkedIn deixa de ser rede de currículos e vira plataforma de distribuição B2B impulsionada por IA](https://noticiatech.com.br/marketing/linkedin-deixa-de-ser-rede-de-curr%C3%ADculos-e-vira-plataforma-de-distribui%C3%A7%C3%A3o-b2b-impulsionada-por-ia/)
+[LinkedIn deixa de ser rede de currículos e vira plataforma de distribuição B2B impulsionada por IA](https://noticiatech.com.br/negocios/linkedin-deixa-de-ser-rede-de-curr%C3%ADculos-e-vira-plataforma-de-distribui%C3%A7%C3%A3o-b2b-impulsionada-por-ia/)
 
 ### O tráfego direto volta a ganhar importância
 

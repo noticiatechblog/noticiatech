@@ -128,7 +128,7 @@ Isso posiciona o **Copilot** não apenas como assistente, mas como um sistema op
 
 A estratégia fortalece ainda mais a presença da empresa no ambiente B2B global.
 
-Esse avanço se conecta diretamente à transformação do ambiente profissional impulsionado por IA, movimento que já analisamos em [LinkedIn deixa de ser rede de currículos e vira plataforma de distribuição B2B impulsionada por IA](https://noticiatech.com.br/marketing/linkedin-deixa-de-ser-rede-de-curr%C3%ADculos-e-vira-plataforma-de-distribui%C3%A7%C3%A3o-b2b-impulsionada-por-ia/).
+Esse avanço se conecta diretamente à transformação do ambiente profissional impulsionado por IA, movimento que já analisamos em [LinkedIn deixa de ser rede de currículos e vira plataforma de distribuição B2B impulsionada por IA](https://noticiatech.com.br/negocios/linkedin-deixa-de-ser-rede-de-curr%C3%ADculos-e-vira-plataforma-de-distribui%C3%A7%C3%A3o-b2b-impulsionada-por-ia/).
 
 ### O Google tenta preservar o domínio da própria internet
 

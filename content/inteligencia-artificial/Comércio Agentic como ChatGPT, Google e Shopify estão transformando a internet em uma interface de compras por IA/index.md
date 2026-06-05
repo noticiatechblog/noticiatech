@@ -68,7 +68,7 @@ O impacto disso pode redefinir completamente:
 
 Esse avanço conversa diretamente com outras transformações recentes da economia digital já analisadas pelo **Notícia Tech**:
 
-[LinkedIn deixa de ser rede de currículos e vira plataforma de distribuição B2B impulsionada por IA](https://noticiatech.com.br/marketing/linkedin-deixa-de-ser-rede-de-curr%C3%ADculos-e-vira-plataforma-de-distribui%C3%A7%C3%A3o-b2b-impulsionada-por-ia/)
+[LinkedIn deixa de ser rede de currículos e vira plataforma de distribuição B2B impulsionada por IA](https://noticiatech.com.br/negocios/linkedin-deixa-de-ser-rede-de-curr%C3%ADculos-e-vira-plataforma-de-distribui%C3%A7%C3%A3o-b2b-impulsionada-por-ia/)
 ## OpenAI, Google e Microsoft iniciam a guerra pela interface de compras da IA
 
 ![Disputa entre OpenAI, Google e Microsoft pela nova camada do comércio digital baseado em IA](imagem2.webp)

@@ -4,7 +4,7 @@ date: 2026-05-24T06:10:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "A ascensão dos motores de busca baseados em IA está mudando radicalmente o tráfego da web, pressionando publishers, redefinindo SEO e criando uma nova disputa pela atenção digital em 2026."
 categories:
-  - "Marketing"
+  - "Inteligência Artificial"
 cover:
   image: "capa.webp"
   alt: "Motores de busca com IA transformando o ecossistema da web e ameaçando publishers digitais"
@@ -29,7 +29,7 @@ Essa transformação já está obrigando empresas de mídia, criadores independe
 
 O movimento possui relação direta com a expansão do chamado “Search Everywhere Optimization”, conceito que mostra como marcas estão disputando atenção não apenas no Google tradicional, mas também em assistentes inteligentes, interfaces conversacionais e redes sociais movidas por IA.
 
-[Search Everywhere Optimization: por que marcas estão abandonando o SEO tradicional para disputar atenção em IA, redes sociais e assistentes inteligentes](https://noticiatech.com.br/marketing/search-everywhere-optimization-por-que-marcas-est%C3%A3o-abandonando-o-seo-tradicional-para-disputar-aten%C3%A7%C3%A3o-em-ia-redes-sociais-e-assistentes-inteligentes/)
+[Search Everywhere Optimization: por que marcas estão abandonando o SEO tradicional para disputar atenção em IA, redes sociais e assistentes inteligentes](https://noticiatech.com.br/inteligencia-artificial/search-everywhere-optimization-por-que-marcas-est%C3%A3o-abandonando-o-seo-tradicional-para-disputar-aten%C3%A7%C3%A3o-em-ia-redes-sociais-e-assistentes-inteligentes/)
 
 A mudança também amplia a importância do chamado SEO semântico, onde contexto, autoridade editorial, profundidade analítica e confiabilidade passam a valer mais do que simples palavras-chave isoladas.
 

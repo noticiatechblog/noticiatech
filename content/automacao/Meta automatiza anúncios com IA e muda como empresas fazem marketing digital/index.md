@@ -2,7 +2,7 @@
 title: "Meta automatiza anúncios com IA e redefine o marketing digital para empresas"
 description: "A Meta está usando inteligência artificial para automatizar campanhas e reduzir segmentação manual, mudando a lógica da publicidade digital para empresas."
 date: 2026-04-18
-categories: ["marketing"]
+categories: ["automacao"]
 draft: false
 
 cover:

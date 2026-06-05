@@ -4,7 +4,7 @@ date: 2026-05-17T06:05:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "Com AI Overviews, queda do alcance orgânico e mudanças nas plataformas digitais, empresas começam a reconstruir audiência própria através de newsletters, comunidades e canais diretos de distribuição."
 categories:
-  - "Marketing"
+  - "Negócios"
 cover:
   image: "capa.webp"
   alt: "Executivos analisando métricas de newsletters e audiência própria em ambiente corporativo moderno"
@@ -40,7 +40,7 @@ Isso cria um impacto direto sobre:
 
 O próprio Notícia Tech já analisou anteriormente como GEO e busca por IA começam a redefinir o SEO tradicional:
 
-[GEO está substituindo o SEO: como a busca por IA pode mudar o tráfego da internet](https://noticiatech.com.br/marketing/geo-est%C3%A1-substituindo-o-seo-como-a-busca-por-ia-pode-mudar-o-tr%C3%A1fego-da-internet/)
+[GEO está substituindo o SEO: como a busca por IA pode mudar o tráfego da internet](https://noticiatech.com.br/inteligencia-artificial/geo-est%C3%A1-substituindo-o-seo-como-a-busca-por-ia-pode-mudar-o-tr%C3%A1fego-da-internet/)
 
 Agora, empresas começam a entender que depender exclusivamente de plataformas externas pode representar um risco estratégico cada vez maior.
 
@@ -149,7 +149,7 @@ Empresas começam a perceber que:
 
 Esse cenário também se conecta ao crescimento da IA aplicada ao marketing que o Notícia Tech já analisou anteriormente:
 
-[IA já impacta vendas e marketing e redefine estratégias de crescimento para empresas](https://noticiatech.com.br/marketing/ia-impacta-vendas-marketing-estrategias-crescimento/)
+[IA já impacta vendas e marketing e redefine estratégias de crescimento para empresas](https://noticiatech.com.br/negocios/ia-impacta-vendas-marketing-estrategias-crescimento/)
 
 Com IA generativa aumentando a produção massiva de conteúdo, distribuição e retenção passam a se tornar diferenciais ainda mais importantes.
 

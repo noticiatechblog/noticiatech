@@ -31,7 +31,7 @@ Esse movimento também amplia preocupações ligadas à governança de dados, co
 
 Empresas que aceleraram a adoção sem planejamento agora começam a perceber que produtividade real depende menos da ferramenta e mais da organização estrutural interna.
 
-O movimento acompanha uma transformação mais ampla do mercado corporativo, especialmente após plataformas digitais passarem a disputar atenção e distribuição automatizada de conteúdo corporativo, como mostrado na análise sobre o [LinkedIn deixa de ser rede de currículos e vira plataforma de distribuição B2B impulsionada por IA](https://noticiatech.com.br/marketing/linkedin-deixa-de-ser-rede-de-curr%C3%ADculos-e-vira-plataforma-de-distribui%C3%A7%C3%A3o-b2b-impulsionada-por-ia/).
+O movimento acompanha uma transformação mais ampla do mercado corporativo, especialmente após plataformas digitais passarem a disputar atenção e distribuição automatizada de conteúdo corporativo, como mostrado na análise sobre o [LinkedIn deixa de ser rede de currículos e vira plataforma de distribuição B2B impulsionada por IA](https://noticiatech.com.br/negocios/linkedin-deixa-de-ser-rede-de-curr%C3%ADculos-e-vira-plataforma-de-distribui%C3%A7%C3%A3o-b2b-impulsionada-por-ia/).
 
 ### O excesso de ferramentas virou um novo problema corporativo
 

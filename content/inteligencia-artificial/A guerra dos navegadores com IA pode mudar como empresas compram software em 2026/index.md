@@ -155,7 +155,7 @@ O objetivo não é apenas responder perguntas.
 
 Essa transformação também se conecta à nova lógica de GEO e descoberta algorítmica baseada em IA:
 
-- [GEO está substituindo o SEO: como a busca por IA pode mudar o tráfego da internet](https://noticiatech.com.br/marketing/geo-est%C3%A1-substituindo-o-seo-como-a-busca-por-ia-pode-mudar-o-tr%C3%A1fego-da-internet/)
+- [GEO está substituindo o SEO: como a busca por IA pode mudar o tráfego da internet](https://noticiatech.com.br/inteligencia-artificial/geo-est%C3%A1-substituindo-o-seo-como-a-busca-por-ia-pode-mudar-o-tr%C3%A1fego-da-internet/)
 - [Google integra IA diretamente no buscador e muda a forma como empresas aparecem online](https://noticiatech.com.br/inteligencia-artificial/google-integra-ia-diretamente-no-buscador-e-muda-a-forma-como-empresas-aparecem-online/)
 
 ## A próxima grande disputa da IA pode definir quem controla a interface principal da economia digital

@@ -61,7 +61,7 @@ Com agentes inteligentes, parte dessas interações poderá ocorrer sem navegaç
 
 O usuário simplesmente descreve um objetivo e a IA executa etapas em seu nome.
 
-Esse cenário se conecta diretamente às mudanças discutidas em [AI Search Engines começam a substituir sites tradicionais e criam nova crise silenciosa para publishers digitais](https://noticiatech.com.br/marketing/ai-search-engines-come%C3%A7am-a-substituir-sites-tradicionais-e-criam-nova-crise-silenciosa-para-publishers-digitais/).
+Esse cenário se conecta diretamente às mudanças discutidas em [AI Search Engines começam a substituir sites tradicionais e criam nova crise silenciosa para publishers digitais](https://noticiatech.com.br/inteligencia-artificial/ai-search-engines-come%C3%A7am-a-substituir-sites-tradicionais-e-criam-nova-crise-silenciosa-para-publishers-digitais/).
 
 ### Empresas precisarão ser compreendidas por IA
 

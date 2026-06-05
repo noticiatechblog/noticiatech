@@ -35,8 +35,8 @@ ignoreLogs = ['warning-goldmark-raw-html']
   comments = true
   
   env = "production"
-  description = "Portal de notícias, análises e aplicações de inteligência artificial, automação, marketing e negócios."
-  keywords = ["IA", "Automação", "Marketing", "Negócios", "Tecnologia"]
+  description = "Portal de notícias, análises e aplicações de inteligência artificial, automação, ferramentas e negócios."
+  keywords = ["IA", "Automação", "Ferramentas", "Negócios", "Tecnologia"]
 
   ShowSearch = false
   ShowReadingTime = true
@@ -53,7 +53,7 @@ ignoreLogs = ['warning-goldmark-raw-html']
   ShowMenuItems = 4
 
   # POSTS NA HOME
-  mainSections = ["inteligencia-artificial", "automacao", "marketing", "negocios"]
+  mainSections = ["inteligencia-artificial", "automacao", "ferramentas", "negocios"]
 
   # CSS customizado
   customCSS = ["css/extended/custom.css"]
@@ -93,9 +93,9 @@ identifier = "automacao"
 weight = 3
 
 [[menu.main]]
-name = "Marketing"
-url = "marketing/"
-identifier = "marketing"
+name = "Ferramentas"
+url = "ferramentas/"
+identifier = "ferramentas"
 weight = 4
 
 [[menu.main]]

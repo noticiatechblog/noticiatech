@@ -76,7 +76,7 @@ Isso explica por que o mercado passou a chamar essa nova fase de **Agentic AI**.
 Grandes empresas estão criando equipes inteiras dedicadas exclusivamente à governança desses agentes.
 
 O fenômeno também fortalece plataformas de produtividade corporativa baseadas em IA, como já discutido em:
-[LinkedIn deixa de ser rede de currículos e vira plataforma de distribuição B2B impulsionada por IA](https://noticiatech.com.br/marketing/linkedin-deixa-de-ser-rede-de-curr%C3%ADculos-e-vira-plataforma-de-distribui%C3%A7%C3%A3o-b2b-impulsionada-por-ia/)
+[LinkedIn deixa de ser rede de currículos e vira plataforma de distribuição B2B impulsionada por IA](https://noticiatech.com.br/negocios/linkedin-deixa-de-ser-rede-de-curr%C3%ADculos-e-vira-plataforma-de-distribui%C3%A7%C3%A3o-b2b-impulsionada-por-ia/)
 
 ### O mercado SaaS entra em uma nova corrida tecnológica
 

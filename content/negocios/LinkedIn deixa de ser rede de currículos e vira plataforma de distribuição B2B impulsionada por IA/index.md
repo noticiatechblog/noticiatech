@@ -4,7 +4,7 @@ date: 2026-05-18T06:10:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "O LinkedIn está deixando de funcionar apenas como uma rede profissional e começa a se consolidar como uma plataforma estratégica de distribuição B2B impulsionada por inteligência artificial, autoridade digital e descoberta algorítmica."
 categories:
-  - "Marketing"
+  - "Negócios"
 cover:
   image: "capa.webp"
   alt: "Executivo analisando crescimento de autoridade no LinkedIn com inteligência artificial e distribuição B2B"
@@ -55,7 +55,7 @@ agora começam a usar o LinkedIn como infraestrutura de:
 
 Esse movimento conversa diretamente com a transformação já observada em conteúdos sobre GEO e descoberta algorítmica publicados anteriormente pelo Notícia Tech:
 
-- [GEO está substituindo o SEO: como a busca por IA pode mudar o tráfego da internet](https://noticiatech.com.br/marketing/geo-est%C3%A1-substituindo-o-seo-como-a-busca-por-ia-pode-mudar-o-tr%C3%A1fego-da-internet/)
+- [GEO está substituindo o SEO: como a busca por IA pode mudar o tráfego da internet](https://noticiatech.com.br/inteligencia-artificial/geo-est%C3%A1-substituindo-o-seo-como-a-busca-por-ia-pode-mudar-o-tr%C3%A1fego-da-internet/)
 - [Google integra IA diretamente no buscador e muda a forma como empresas aparecem online](https://noticiatech.com.br/inteligencia-artificial/google-integra-ia-diretamente-no-buscador-e-muda-a-forma-como-empresas-aparecem-online/)
 
 ### O crescimento do conteúdo executivo está mudando o marketing B2B
@@ -85,7 +85,7 @@ Isso acontece porque algoritmos de IA valorizam:
 
 O próprio crescimento das newsletters premium reforça essa mudança estrutural da internet corporativa:
 
-- [O crescimento das newsletters está criando uma nova guerra por audiência própria](https://noticiatech.com.br/marketing/o-crescimento-das-newsletters-est%C3%A1-criando-uma-nova-guerra-por-audi%C3%AAncia-pr%C3%B3pria/)
+- [O crescimento das newsletters está criando uma nova guerra por audiência própria](https://noticiatech.com.br/negocios/o-crescimento-das-newsletters-est%C3%A1-criando-uma-nova-guerra-por-audi%C3%AAncia-pr%C3%B3pria/)
 
 ## A inteligência artificial está transformando o LinkedIn em um sistema de recomendação profissional
 

@@ -67,7 +67,7 @@ Ferramentas modernas conseguem analisar comportamento de usuários, gerar textos
 
 Esse movimento criou uma nova disputa conhecida como **Search Everywhere Optimization**, onde marcas tentam aparecer não apenas no Google, mas também em assistentes de IA, buscas conversacionais e plataformas sociais.
 
-[**Search Everywhere Optimization: por que marcas estão abandonando o SEO tradicional para disputar atenção em IA, redes sociais e assistentes inteligentes**](https://noticiatech.com.br/marketing/search-everywhere-optimization-por-que-marcas-est%C3%A3o-abandonando-o-seo-tradicional-para-disputar-aten%C3%A7%C3%A3o-em-ia-redes-sociais-e-assistentes-inteligentes/)
+[**Search Everywhere Optimization: por que marcas estão abandonando o SEO tradicional para disputar atenção em IA, redes sociais e assistentes inteligentes**](https://noticiatech.com.br/inteligencia-artificial/search-everywhere-optimization-por-que-marcas-est%C3%A3o-abandonando-o-seo-tradicional-para-disputar-aten%C3%A7%C3%A3o-em-ia-redes-sociais-e-assistentes-inteligentes/)
 
 ### Pequenas empresas conseguem competir usando automação inteligente
 
@@ -90,7 +90,7 @@ Além disso, a IA também começou a mudar a forma como plataformas distribuem c
 
 O próprio **LinkedIn**, por exemplo, está se transformando em um ecossistema de distribuição inteligente voltado para negócios, criadores e empresas B2B.
 
-[**LinkedIn deixa de ser rede de currículos e vira plataforma de distribuição B2B impulsionada por IA**](https://noticiatech.com.br/marketing/linkedin-deixa-de-ser-rede-de-curr%C3%ADculos-e-vira-plataforma-de-distribui%C3%A7%C3%A3o-b2b-impulsionada-por-ia/)
+[**LinkedIn deixa de ser rede de currículos e vira plataforma de distribuição B2B impulsionada por IA**](https://noticiatech.com.br/negocios/linkedin-deixa-de-ser-rede-de-curr%C3%ADculos-e-vira-plataforma-de-distribui%C3%A7%C3%A3o-b2b-impulsionada-por-ia/)
 
 ### Oportunidade comercial para quem entrar cedo
 
