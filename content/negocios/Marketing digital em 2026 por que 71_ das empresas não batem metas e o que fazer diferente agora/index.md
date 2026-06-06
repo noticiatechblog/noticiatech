@@ -161,3 +161,5 @@ O marketing digital de 2026 não é mais sobre volume de publicações, seguidor
 As empresas que entenderem isso agora vão sair na frente.
 
 As que continuarem produzindo por obrigação vão continuar errando as metas — mesmo com todas as ferramentas do mundo à disposição.
+
+---
