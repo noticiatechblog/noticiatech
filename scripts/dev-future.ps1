@@ -1,7 +1,8 @@
 param(
   [int]$Port = 1313,
   [switch]$Drafts,
-  [switch]$Network
+  [switch]$Network,
+  [string]$FixedHost = "192.168.55.19"
 )
 
 $ErrorActionPreference = "Stop"
@@ -11,14 +12,16 @@ $baseUrl = "http://localhost:$Port/"
 $networkUrl = $null
 
 if ($Network) {
-  $wifiIp = Get-NetIPAddress -AddressFamily IPv4 |
-    Where-Object {
-      $_.IPAddress -notlike "127.*" -and
-      $_.IPAddress -notlike "169.254.*" -and
-      $_.InterfaceAlias -match "Wi-Fi|Wireless|WLAN|Ethernet"
-    } |
-    Sort-Object { if ($_.InterfaceAlias -match "Wi-Fi|Wireless|WLAN") { 0 } else { 1 } } |
-    Select-Object -First 1 -ExpandProperty IPAddress
+  $wifiIp = if ($FixedHost) { $FixedHost } else {
+    Get-NetIPAddress -AddressFamily IPv4 |
+      Where-Object {
+        $_.IPAddress -notlike "127.*" -and
+        $_.IPAddress -notlike "169.254.*" -and
+        $_.InterfaceAlias -match "Wi-Fi|Wireless|WLAN|Ethernet"
+      } |
+      Sort-Object { if ($_.InterfaceAlias -match "Wi-Fi|Wireless|WLAN") { 0 } else { 1 } } |
+      Select-Object -First 1 -ExpandProperty IPAddress
+  }
 
   if (-not $wifiIp) {
     throw "Nao encontrei um IP da rede local. Confira se o Wi-Fi/Ethernet esta conectado."
@@ -26,6 +29,12 @@ if ($Network) {
 
   $bindAddress = "0.0.0.0"
   $baseUrl = "http://${wifiIp}:$Port/"
+  $networkUrl = $baseUrl
+}
+
+if ($FixedHost -and -not $Network) {
+  $bindAddress = "0.0.0.0"
+  $baseUrl = "http://${FixedHost}:$Port/"
   $networkUrl = $baseUrl
 }
 
