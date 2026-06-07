@@ -1,0 +1,140 @@
+baseURL = "https://noticiatech.com.br/"
+languageCode = "pt-br"
+relativeURLs = false
+canonifyURLs = true
+defaultContentLanguage = "pt-br"
+title = "Notícia Tech | IA e Automação para Negócios"
+theme = "PaperMod"
+
+enableRobotsTXT = true
+
+# ===== PUBLICAÇÃO =====
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+# ===== CORREÇÃO DO HTML NOS ARTIGOS =====
+[markup.goldmark.renderer]
+  unsafe = true
+
+# ===== IGNORAR WARNINGS DO LOG =====
+ignoreLogs = ['warning-goldmark-raw-html']
+
+# ===== CONFIGURAÇÕES GERAIS =====
+[pagination]
+  pagerSize = 10
+
+# ===== SITEMAP =====
+[sitemap]
+  changefreq = "daily"
+  priority = 0.8
+  filename = "sitemap.xml"
+
+# ===== PARÂMETROS DO TEMA =====
+[params]
+  comments = true
+  
+  env = "production"
+  description = "Portal de notícias, análises e aplicações de inteligência artificial, automação, ferramentas e negócios."
+  keywords = ["IA", "Automação", "Ferramentas", "Negócios", "Tecnologia"]
+
+  ShowSearch = false
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = false
+  hideFooter = false
+  ShowPostCover = true
+  ShowPostCoverInList = true
+
+  defaultTheme = "auto"
+  disableThemeToggle = false
+
+  ShowMenuItems = 4
+
+  # POSTS NA HOME
+  mainSections = ["inteligencia-artificial", "automacao", "ferramentas", "negocios"]
+
+  # CSS customizado
+  customCSS = ["css/extended/custom.css"]
+
+# ===== FAVICON =====
+[params.assets]
+  favicon = "/favicon.ico"
+  favicon16x16 = "/favicon-16x16.png"
+  favicon32x32 = "/favicon-32x32.png"
+  apple_touch_icon = "/apple-touch-icon.png"
+
+# ===== LOGO =====
+[params.label]
+  text = ""
+  icon = "images/logo.png"
+  iconHeight = 40
+
+# ===== MENU PRINCIPAL =====
+[menu]
+
+[[menu.main]]
+name = "Início"
+url = "/"
+identifier = "inicio"
+weight = 1
+
+[[menu.main]]
+name = "IA"
+url = "inteligencia-artificial/"
+identifier = "inteligencia-artificial"
+weight = 2
+
+[[menu.main]]
+name = "Automação"
+url = "automacao/"
+identifier = "automacao"
+weight = 3
+
+[[menu.main]]
+name = "Ferramentas"
+url = "ferramentas/"
+identifier = "ferramentas"
+weight = 4
+
+[[menu.main]]
+name = "Negócios"
+url = "negocios/"
+identifier = "negocios"
+weight = 5
+
+# ===== OUTPUTS =====
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+# ===== TAXONOMIAS =====
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+# ===== MENU FOOTER =====
+[[menu.footer]]
+name = "Sobre"
+url = "/sobre/"
+weight = 1
+
+[[menu.footer]]
+name = "Contato"
+url = "/contato/"
+weight = 2
+
+[[menu.footer]]
+name = "Política de Privacidade"
+url = "/politica-de-privacidade/"
+weight = 3
+
+[[menu.footer]]
+name = "Termos de Uso"
+url = "/termos-de-uso/"
+weight = 4
+
+[[menu.footer]]
+name = "Disclaimer"
+url = "/disclaimer/"
+weight = 5

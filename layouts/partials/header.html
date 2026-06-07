@@ -1,0 +1,329 @@
+<header class="header">
+    <nav class="header-nav">
+        <div class="logo">
+            {{- $label_text := (site.Params.label.text | default site.Title) }}
+
+            {{- if site.Title }}
+
+            <a href="{{ "" | absLangURL }}"
+               accesskey="h"
+               title="{{ $label_text }} (Alt + H)">
+
+                {{- if site.Params.label.icon }}
+
+                {{- $img := resources.Get site.Params.label.icon }}
+
+                {{- if $img }}
+
+                    {{- $processableFormats := (slice "jpg" "jpeg" "png" "tif" "bmp" "gif") -}}
+
+                    {{- if hugo.IsExtended -}}
+                        {{- $processableFormats = $processableFormats | append "webp" -}}
+                    {{- end -}}
+
+                    {{- $prod := (hugo.IsProduction | or (eq site.Params.env "production")) }}
+
+                    {{- if and (in $processableFormats $img.MediaType.SubType) (eq $prod true)}}
+
+                        {{- if site.Params.label.iconHeight }}
+                            {{- $img = $img.Resize (printf "x%d" site.Params.label.iconHeight) }}
+                        {{ else }}
+                            {{- $img = $img.Resize "x30" }}
+                        {{- end }}
+
+                    {{- end }}
+
+                    <img
+                        src="{{ $img.Permalink }}"
+                        alt="Notícia Tech"
+                        aria-label="logo"
+                        width="{{ $img.Width }}"
+                        height="{{ $img.Height }}">
+
+                {{- else }}
+
+                    <img
+                        src="{{- site.Params.label.icon | absURL -}}"
+                        alt="Notícia Tech"
+                        aria-label="logo"
+                        width="512"
+                        height="180">
+
+                {{- end -}}
+
+                {{- else if hasPrefix site.Params.label.iconSVG "<svg" }}
+
+                    {{ site.Params.label.iconSVG | safeHTML }}
+
+                {{- end -}}
+
+                {{- $label_text -}}
+
+            </a>
+
+            {{- end }}
+
+            {{- $searchToggleEnabled := (not site.Params.disableSearchToggle) }}
+
+            {{- $lsenabled := (or $searchToggleEnabled
+                (not site.Params.disableThemeToggle)
+                (and (not site.Params.disableLangToggle) (hugo.IsMultilingual))) }}
+
+            {{- if $lsenabled }}
+
+            <div class="logo-switches">
+
+                {{- if $searchToggleEnabled }}
+
+                <a href="{{ "search/" | absLangURL }}"
+                   class="search-toggle"
+                   accesskey="/"
+                   title="Pesquisar (Alt + /)"
+                   aria-label="Pesquisar">
+
+                    <svg xmlns="http://www.w3.org/2000/svg"
+                         width="18"
+                         height="18"
+                         viewBox="0 0 24 24"
+                         fill="none"
+                         stroke="currentColor"
+                         stroke-width="2"
+                         stroke-linecap="round"
+                         stroke-linejoin="round">
+
+                        <circle cx="11" cy="11" r="8"></circle>
+                        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+
+                    </svg>
+
+                </a>
+
+                {{- end }}
+
+                {{- if (not site.Params.disableThemeToggle) }}
+
+                <button id="theme-toggle"
+                        class="theme-toggle"
+                        accesskey="t"
+                        title="(Alt + T)"
+                        aria-label="Toggle theme">
+
+                    <svg class="moon"
+                         xmlns="http://www.w3.org/2000/svg"
+                         width="18"
+                         height="18"
+                         viewBox="0 0 24 24"
+                         fill="none"
+                         stroke="currentColor"
+                         stroke-width="2"
+                         stroke-linecap="round"
+                         stroke-linejoin="round">
+
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+
+                    </svg>
+
+                    <svg class="sun"
+                         xmlns="http://www.w3.org/2000/svg"
+                         width="18"
+                         height="18"
+                         viewBox="0 0 24 24"
+                         fill="none"
+                         stroke="currentColor"
+                         stroke-width="2"
+                         stroke-linecap="round"
+                         stroke-linejoin="round">
+
+                        <circle cx="12" cy="12" r="5"></circle>
+
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+
+                    </svg>
+
+                </button>
+
+                {{- end }}
+
+                {{- if (not site.Params.disableLangToggle) }}
+
+{{- $separator := or $label_text (not site.Params.disableThemeToggle) }}
+
+{{- if $separator }}
+    <span class="lang-separator">|</span>
+{{ end }}
+
+<ul class="lang-menu">
+
+    <li>
+    <a href="/"
+       class="lang-link{{ if eq .Lang "pt-br" }} current{{ end }}"
+       title="Versão em Português"
+       aria-label="Português">
+        &#127463;&#127479;
+    </a>
+</li>
+
+<li>
+    <a href="/en/"
+       class="lang-link{{ if eq .Lang "en" }} current{{ end }}"
+       title="English Version"
+       aria-label="English">
+        &#127482;&#127480;
+    </a>
+</li>
+</ul>
+
+{{- end }}
+
+
+            </div>
+
+            {{- end }}
+
+        </div>
+
+        {{- $currentPage := . }}
+        {{- $activeCategories := slice }}
+        {{- $activeCategoryKeys := slice }}
+        {{- if $currentPage.IsPage }}
+            {{- with $currentPage.Params.categories }}
+                {{- if reflect.IsSlice . }}
+                    {{- range . }}
+                        {{- $activeCategories = $activeCategories | append . }}
+                    {{- end }}
+                {{- else }}
+                    {{- $activeCategories = $activeCategories | append . }}
+                {{- end }}
+            {{- end }}
+            {{- with $currentPage.Params.category }}
+                {{- if reflect.IsSlice . }}
+                    {{- range . }}
+                        {{- $activeCategories = $activeCategories | append . }}
+                    {{- end }}
+                {{- else }}
+                    {{- $activeCategories = $activeCategories | append . }}
+                {{- end }}
+            {{- end }}
+            {{- range $activeCategories }}
+                {{- $category_key := printf "%v" . | urlize }}
+                {{- $category_key_normalized := $category_key }}
+                {{- $category_key_normalized = replace $category_key_normalized "á" "a" }}
+                {{- $category_key_normalized = replace $category_key_normalized "à" "a" }}
+                {{- $category_key_normalized = replace $category_key_normalized "â" "a" }}
+                {{- $category_key_normalized = replace $category_key_normalized "ã" "a" }}
+                {{- $category_key_normalized = replace $category_key_normalized "é" "e" }}
+                {{- $category_key_normalized = replace $category_key_normalized "ê" "e" }}
+                {{- $category_key_normalized = replace $category_key_normalized "í" "i" }}
+                {{- $category_key_normalized = replace $category_key_normalized "ó" "o" }}
+                {{- $category_key_normalized = replace $category_key_normalized "ô" "o" }}
+                {{- $category_key_normalized = replace $category_key_normalized "õ" "o" }}
+                {{- $category_key_normalized = replace $category_key_normalized "ú" "u" }}
+                {{- $category_key_normalized = replace $category_key_normalized "ç" "c" }}
+                {{- $activeCategoryKeys = $activeCategoryKeys | append $category_key $category_key_normalized }}
+                {{- if and (in $category_key "intelig") (in $category_key "artificial") }}
+                    {{- $activeCategoryKeys = $activeCategoryKeys | append "inteligencia-artificial" }}
+                {{- end }}
+                {{- if in $category_key "automa" }}
+                    {{- $activeCategoryKeys = $activeCategoryKeys | append "automacao" }}
+                {{- end }}
+                {{- if in $category_key "neg" }}
+                    {{- $activeCategoryKeys = $activeCategoryKeys | append "negocios" }}
+                {{- end }}
+                {{- if in $category_key "ferrament" }}
+                    {{- $activeCategoryKeys = $activeCategoryKeys | append "ferramentas" }}
+                {{- end }}
+            {{- end }}
+        {{- end }}
+
+        <ul id="menu" class="menu">
+
+            {{- range site.Menus.main }}
+
+            {{- $menu_item_url := (cond
+                (strings.HasSuffix .URL "/")
+                .URL
+                (printf "%s/" .URL)) | absLangURL }}
+
+            {{- $page_url := $currentPage.Permalink | absLangURL }}
+
+            {{- $is_search := eq (site.GetPage .KeyName).Layout `search` }}
+            {{- $is_active := eq $menu_item_url $page_url }}
+            {{- $menu_item_key := (strings.TrimSuffix "/" (strings.TrimPrefix "/" .URL)) | urlize }}
+            {{- $menu_keys := slice (.Name | urlize) (.Identifier | urlize) $menu_item_key }}
+
+            {{- if and (not $is_active) $activeCategoryKeys }}
+                {{- range $menu_keys }}
+                    {{- if in $activeCategoryKeys . }}
+                        {{- $is_active = true }}
+                    {{- end }}
+                {{- end }}
+            {{- end }}
+
+            <li>
+
+                <a href="{{ .URL | absLangURL }}"
+                   title="{{ .Title | default .Name }}
+                   {{- cond $is_search
+                   (" (Alt + /)" | safeHTMLAttr)
+                   ("" | safeHTMLAttr ) }}"
+                   {{- cond $is_search
+                   (" accesskey=/" | safeHTMLAttr)
+                   ("" | safeHTMLAttr ) }}>
+
+                    <span
+                        {{- if $is_active }}
+                        class="active"
+                        {{- end }}>
+
+                        {{- .Pre }}
+
+                        {{- .Name -}}
+
+                        {{ .Post -}}
+
+                    </span>
+
+                    {{- if (findRE "://" .URL) }}
+
+                    &nbsp;
+
+                    <svg fill="none"
+                         shape-rendering="geometricPrecision"
+                         stroke="currentColor"
+                         stroke-linecap="round"
+                         stroke-linejoin="round"
+                         stroke-width="2.5"
+                         viewBox="0 0 24 24"
+                         height="12"
+                         width="12">
+
+                        <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"></path>
+
+                        <path d="M15 3h6v6"></path>
+
+                        <path d="M10 14L21 3"></path>
+
+                    </svg>
+
+                    {{- end }}
+
+                </a>
+
+            </li>
+
+            {{- end }}
+
+        </ul>
+
+    </nav>
+</header>

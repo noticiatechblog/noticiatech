@@ -1,16 +1,10 @@
 <div class="footer-links">
-  <div>
-    <a href="/sobre/">Sobre</a> &middot;
-    <a href="/contato/">Contato</a> &middot;
-    <a href="/politica-de-privacidade/">Pol&iacute;tica de Privacidade</a>
-  </div>
-
-  <div>
-    <a href="/termos-de-uso/">Termos de Uso</a> &middot;
-    <a href="/disclaimer/">Disclaimer</a>
-  </div>
+  {{ $items := site.Menus.footer }}
+  {{ range $index, $item := $items }}
+    <a href="{{ $item.URL | absLangURL }}">{{ $item.Name }}</a>{{ if lt $index (sub (len $items) 1) }} &middot; {{ end }}
+  {{ end }}
 </div>
 
 <div class="copyright">
-  &copy; 2026 Not&iacute;cia Tech. Todos os direitos reservados.
+  &copy; 2026 Not&iacute;cia Tech. {{ if eq .Site.Language.Lang "en" }}All rights reserved.{{ else }}Todos os direitos reservados.{{ end }}
 </div>

@@ -30,6 +30,28 @@ ignoreLogs = ['warning-goldmark-raw-html']
   priority = 0.8
   filename = "sitemap.xml"
 
+# ===== IDIOMAS =====
+[languages]
+  [languages.pt-br]
+    languageCode = "pt-BR"
+    languageName = "Português"
+    weight = 1
+    contentDir = "content"
+    [languages.pt-br.params]
+      description = "Portal de notícias, análises e aplicações de inteligência artificial, automação, ferramentas e negócios."
+      languageAltTitle = "Versão em português"
+      mainSections = ["inteligencia-artificial", "automacao", "ferramentas", "negocios"]
+
+  [languages.en]
+    languageCode = "en"
+    languageName = "English"
+    weight = 2
+    contentDir = "content/en"
+    [languages.en.params]
+      description = "News, analysis and AI applications for business, automation, tools and technology."
+      languageAltTitle = "English version"
+      mainSections = ["artificial-intelligence", "automation", "tools", "business"]
+
 # ===== PARÂMETROS DO TEMA =====
 [params]
   comments = true
@@ -51,9 +73,7 @@ ignoreLogs = ['warning-goldmark-raw-html']
   disableThemeToggle = false
 
   ShowMenuItems = 4
-
-  # POSTS NA HOME
-  mainSections = ["inteligencia-artificial", "automacao", "ferramentas", "negocios"]
+  displayFullLangName = true
 
   # CSS customizado
   customCSS = ["css/extended/custom.css"]
@@ -102,6 +122,62 @@ weight = 4
 name = "Negócios"
 url = "negocios/"
 identifier = "negocios"
+weight = 5
+
+[languages.en.menu]
+[[languages.en.menu.main]]
+name = "Home"
+url = "/"
+identifier = "home"
+weight = 1
+
+[[languages.en.menu.main]]
+name = "AI"
+url = "artificial-intelligence/"
+identifier = "artificial-intelligence"
+weight = 2
+
+[[languages.en.menu.main]]
+name = "Automation"
+url = "automation/"
+identifier = "automation"
+weight = 3
+
+[[languages.en.menu.main]]
+name = "Tools"
+url = "tools/"
+identifier = "tools"
+weight = 4
+
+[[languages.en.menu.main]]
+name = "Business"
+url = "business/"
+identifier = "business"
+weight = 5
+
+[[languages.en.menu.footer]]
+name = "About"
+url = "/about/"
+weight = 1
+
+[[languages.en.menu.footer]]
+name = "Contact"
+url = "/contact/"
+weight = 2
+
+[[languages.en.menu.footer]]
+name = "Privacy Policy"
+url = "/privacy-policy/"
+weight = 3
+
+[[languages.en.menu.footer]]
+name = "Terms of Use"
+url = "/terms-of-use/"
+weight = 4
+
+[[languages.en.menu.footer]]
+name = "Disclaimer"
+url = "/disclaimer/"
 weight = 5
 
 # ===== OUTPUTS =====
