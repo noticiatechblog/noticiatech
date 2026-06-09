@@ -9,6 +9,7 @@ cover:
   image: "capa.webp"
   alt: "Sam Altman diante de interfaces corporativas de inteligência artificial e agentes autônomos operando empresas"
   caption: "A OpenAI quer deixar de ser apenas uma ferramenta de IA para se tornar a nova camada operacional invisível das empresas."
+
 ---
 
 *O mercado corporativo de inteligência artificial está entrando em uma nova fase. Depois da corrida inicial por chatbots e copilotos, gigantes da tecnologia agora disputam algo muito maior: transformar a IA na infraestrutura operacional das empresas. No centro desse movimento está **Sam Altman**, CEO da **OpenAI**, que vem acelerando uma estratégia capaz de redefinir como softwares corporativos funcionam, como funcionários trabalham e como decisões empresariais serão tomadas nos próximos anos.*
