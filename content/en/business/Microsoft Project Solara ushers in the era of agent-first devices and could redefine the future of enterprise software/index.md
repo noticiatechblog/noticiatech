@@ -2,7 +2,7 @@
 title: "Microsoft Project Solara ushers in the era of agent-first devices and could redefine the future of enterprise software"
 slug: "microsoft-project-solara-agent-first-devices-enterprise-software"
 translationKey: "microsoft-project-solara-dispositivos-agent-first-software-corporativo"
-date: 2026-06-09T00:30:00-03:00
+date: 2026-06-09T00:20:00-03:00
 author: "Aluisio Soares, founder of Notícia Tech"
 description: "Microsoft's Project Solara signals a structural shift in enterprise computing by replacing traditional applications with cloud-connected AI agents."
 categories:
