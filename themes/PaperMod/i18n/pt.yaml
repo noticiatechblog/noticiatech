@@ -31,3 +31,9 @@
 
 - id: code_copied
   translation: "copiado!"
+
+- id: site_notice_title
+  translation: "🚧 Estamos melhorando o Notícia Tech"
+
+- id: site_notice_text
+  translation: "Estamos passando por uma fase de otimização e atualização da plataforma para oferecer uma experiência ainda melhor. Durante esse período, alguns links internos podem não funcionar corretamente. Pedimos desculpas pelo transtorno e agradecemos sua compreensão."

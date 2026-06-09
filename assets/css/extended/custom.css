@@ -1310,3 +1310,22 @@ img {
     align-items: center;
 }
 
+.site-notice {
+    margin: 20px auto;
+    padding: 16px 20px;
+    max-width: 900px;
+    border-radius: 12px;
+    background: var(--entry);
+    border: 1px solid var(--border);
+    text-align: left;
+}
+
+.site-notice strong {
+    display: block;
+    margin-bottom: 8px;
+}
+
+.site-notice p {
+    margin: 0;
+    line-height: 1.6;
+}
