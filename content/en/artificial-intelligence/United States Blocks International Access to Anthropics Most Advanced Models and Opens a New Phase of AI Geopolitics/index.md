@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "United States Blocks International Access to Anthropic's Most Advanced Models and Opens a New Phase of AI Geopolitics"
 slug: "us-blocks-anthropic-models-ai-geopolitics"
