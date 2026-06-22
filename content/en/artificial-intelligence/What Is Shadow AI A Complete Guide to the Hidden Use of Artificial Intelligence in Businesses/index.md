@@ -2,7 +2,7 @@
 title: "What Is Shadow AI A Complete Guide to the Hidden Use of Artificial Intelligence in Businesses"
 slug: "what-is-shadow-ai-complete-guide"
 translationKey: "o-que-e-shadow-ai-guia-completo"
-date: 2026-06-22T00:30:00-03:00
+date: 2026-06-22T00:20:00-03:00
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Learn what Shadow AI is, how unauthorized use of artificial intelligence happens inside organizations, the security, compliance and governance risks involved, and how companies are responding to this growing phenomenon."
 categories:
