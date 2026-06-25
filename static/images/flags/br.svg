@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700" role="img" aria-label="Brasil">
+  <rect width="1000" height="700" fill="#009b3a"/>
+  <path d="M500 85 920 350 500 615 80 350z" fill="#ffdf00"/>
+  <circle cx="500" cy="350" r="170" fill="#002776"/>
+  <path d="M346 308c103-20 216-1 312 54" fill="none" stroke="#fff" stroke-width="34"/>
+</svg>

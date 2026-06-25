@@ -1310,6 +1310,43 @@ img {
     align-items: center;
 }
 
+.lang-link {
+    gap: 0 !important;
+    min-width: 30px !important;
+    min-height: 24px !important;
+}
+
+.lang-flag {
+    display: block !important;
+    flex: 0 0 auto !important;
+    width: auto !important;
+    max-width: none !important;
+    overflow: visible !important;
+    border-radius: 2px !important;
+    object-fit: contain !important;
+    box-shadow: 0 0 0 1px rgba(15, 23, 42, 0.22) !important;
+}
+
+.lang-flag-br {
+    height: 18px !important;
+}
+
+.lang-flag-us {
+    height: 14px !important;
+}
+
+.lang-code {
+    position: absolute !important;
+    width: 1px !important;
+    height: 1px !important;
+    padding: 0 !important;
+    margin: -1px !important;
+    overflow: hidden !important;
+    clip: rect(0, 0, 0, 0) !important;
+    white-space: nowrap !important;
+    border: 0 !important;
+}
+
 .site-notice {
     margin: 20px auto;
     padding: 16px 20px;
