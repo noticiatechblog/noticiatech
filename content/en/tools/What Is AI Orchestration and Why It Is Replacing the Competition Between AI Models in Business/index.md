@@ -2,7 +2,7 @@
 title: "What Is AI Orchestration and Why It Is Replacing the Competition Between AI Models in Business"
 slug: "what-is-ai-orchestration-replacing-ai-model-competition-business"
 
-date: 2026-07-07T08:20:00-03:00
+date: 2026-07-07T00:20:00-03:00
 draft: false
 
 author: "By Aluisio Soares, Founder of Notícia Tech"
