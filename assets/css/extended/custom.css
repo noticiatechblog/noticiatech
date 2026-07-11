@@ -496,7 +496,7 @@ body {
 /* ============================= */
 
 .post-title {
-    font-size: 30px;
+    font-size: 46px;
 
     line-height: 1.02;
 
@@ -590,7 +590,7 @@ body {
 
     margin-bottom: 10px;
 
-    font-size: 12px;
+    font-size: 21px;
 
     font-weight: 800;
 
@@ -1455,4 +1455,16 @@ img {
 .site-notice p {
     margin: 0;
     line-height: 1.6;
+}
+
+/* ============================= */
+/* DESCRIÇÃO DO ARTIGO (DECK) */
+/* ============================= */
+
+.post-description {
+    font-size: 20px;
+    line-height: 1.7;
+    font-weight: 500;
+    color: var(--secondary);
+    margin-top: 12px;
 }
