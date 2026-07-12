@@ -2,7 +2,7 @@
 title: "What Is Claude Code and How Anthropic's Tool Is Changing AI Software Development"
 slug: "what-is-claude-code-ai-software-development"
 translationKey: "o-que-e-claude-code-desenvolvimento-software-ia"
-date: 2026-07-13T00:30:00-03:00
+date: 2026-07-12T00:20:00-03:00
 draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Learn what Claude Code is, how Anthropic's AI-powered development tool works, its real-world use cases, benefits, limitations, and why it may reshape enterprise software development."
