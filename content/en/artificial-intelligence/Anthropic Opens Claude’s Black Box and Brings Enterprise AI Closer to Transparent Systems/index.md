@@ -2,7 +2,7 @@
 title: "Anthropic Opens Claude’s Black Box and Brings Enterprise AI Closer to Transparent Systems"
 slug: "anthropic-opens-claude-black-box-transparent-enterprise-ai"
 translationKey: "anthropic-caixa-preta-claude-ia-transparente-empresas"
-date: 2026-07-13T00:30:00-03:00
+date: 2026-07-12T00:30:00-03:00
 draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Anthropic's latest research reveals how Claude organizes information internally, marking a significant step toward greater transparency, trust and enterprise-ready artificial intelligence."
