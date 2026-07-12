@@ -39,14 +39,6 @@ faq:
 
 *A corrida pela liderança em inteligência artificial deixou de ser medida apenas pela evolução dos modelos e pelo investimento em infraestrutura. O conflito entre **Apple** e **OpenAI** mostra que o ativo mais disputado do mercado passou a ser o conhecimento acumulado pelos profissionais responsáveis por desenvolver a próxima geração de sistemas inteligentes.*
 
-# Apple processa OpenAI por disputa de talentos e caso pode mudar a corrida da inteligência artificial
-
-A disputa judicial entre **Apple** e **OpenAI** marca uma mudança importante na dinâmica competitiva da inteligência artificial. Em vez de anunciar um novo modelo de IA ou uma infraestrutura mais robusta, duas das empresas mais influentes do setor passaram a disputar espaço nos tribunais.
-
-Segundo informações publicadas pela imprensa internacional, a **Apple** questiona a contratação de profissionais ligados a projetos estratégicos pela **OpenAI**, levantando discussões sobre confidencialidade, propriedade intelectual e transferência de conhecimento técnico.
-
-Mais do que um conflito jurídico, o caso evidencia que a corrida pela liderança em IA entrou em uma nova fase, em que pessoas altamente qualificadas passaram a representar um dos ativos mais valiosos da indústria.
-
 ## A disputa por talentos redefine a vantagem competitiva das Big Techs
 
 ![Especialistas em inteligência artificial trabalhando em ambiente corporativo.](imagem-1.webp)

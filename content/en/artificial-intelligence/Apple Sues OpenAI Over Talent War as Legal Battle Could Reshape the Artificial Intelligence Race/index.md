@@ -40,14 +40,6 @@ faq:
 
 *The race for leadership in artificial intelligence is no longer defined solely by model performance or computing infrastructure. The conflict between **Apple** and **OpenAI** demonstrates that the industry's most valuable asset is increasingly the expertise accumulated by the engineers building the next generation of intelligent systems.*
 
-# Apple Sues OpenAI Over Talent Dispute as Legal Battle Could Reshape the Artificial Intelligence Race
-
-The legal confrontation between **Apple** and **OpenAI** represents a significant shift in the competitive dynamics of artificial intelligence. Instead of unveiling another breakthrough AI model or investing in larger computing infrastructure, two of the industry's most influential companies are now competing in court.
-
-According to international media reports, **Apple** is challenging OpenAI's recruitment of employees involved in strategic internal projects, raising questions surrounding confidentiality, intellectual property and the transfer of proprietary technical knowledge.
-
-More than a legal dispute, the case illustrates how the race for AI leadership has entered a new stage, one in which highly specialized professionals have become one of the industry's most valuable competitive assets.
-
 ## The competition for talent is redefining Big Tech's competitive advantage
 
 ![Artificial intelligence specialists collaborating in a corporate environment.](imagem-1.webp)
