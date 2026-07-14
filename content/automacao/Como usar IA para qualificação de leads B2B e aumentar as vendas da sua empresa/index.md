@@ -38,7 +38,7 @@ faq:
 
 ![Qualificação inteligente de leads](imagem-1.webp)
 
-*Imagem: plataformas de IA analisam milhares de sinais para identificar oportunidades comerciais com maior potencial de conversão.*
+*Plataformas de IA analisam milhares de sinais para identificar oportunidades comerciais com maior potencial de conversão.*
 
 A qualificação de leads consiste em identificar quais contatos possuem maior probabilidade de se tornarem clientes.
 
@@ -75,7 +75,7 @@ https://noticiatech.com.br/ferramentas/como-implementar-crm-com-ia-empresas-guia
 
 ![Automação comercial com IA](imagem-2.webp)
 
-*Imagem: automação comercial utilizando IA para acelerar a geração de oportunidades e reduzir tarefas repetitivas.*
+*Automação comercial utilizando IA para acelerar a geração de oportunidades e reduzir tarefas repetitivas.*
 
 A principal vantagem da **IA** não está apenas em encontrar bons leads, mas em acelerar todo o ciclo comercial.
 
@@ -111,7 +111,7 @@ Além disso, a evolução dos **Agentes de IA** tende a ampliar ainda mais esse 
 
 ![Benefícios da IA para equipes comerciais](imagem-3.webp)
 
-*Imagem: inteligência artificial aumentando a eficiência da equipe comercial por meio da automação da qualificação de leads.*
+*Inteligência artificial aumentando a eficiência da equipe comercial por meio da automação da qualificação de leads.*
 
 À medida que as empresas ampliam suas operações comerciais, cresce também a dificuldade de analisar manualmente todos os contatos gerados por campanhas de marketing, eventos e canais digitais.
 
