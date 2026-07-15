@@ -88,7 +88,7 @@ This trend also reinforces concepts previously discussed by **Notícia Tech** re
 
 Read also:
 
-/en/automation/what-is-ai-process-automation-business-process-automation-ai/
+[What Is AI Process Automation? How Artificial Intelligence Is Transforming Business Process Automation](https://noticiatech.com.br/en/automation/what-is-ai-process-automation-business-process-automation-ai/)
 
 ## How Businesses Are Automating Entire Processes
 

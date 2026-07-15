@@ -88,7 +88,7 @@ Esse movimento também reforça tendências apresentadas anteriormente pelo **No
 
 Leia também:
 
-- /automacao/o-que-e-ai-process-automation-automacao-processos-inteligencia-artificial/
+[O que é AI Process Automation? Como a Inteligência Artificial está transformando a automação de processos](https://noticiatech.com.br/automacao/o-que-e-ai-process-automation-automacao-processos-inteligencia-artificial/)
 
 ## Como empresas estão automatizando processos inteiros
 
