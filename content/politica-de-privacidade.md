@@ -1,6 +1,8 @@
 ---
 title: "Política de Privacidade"
 date: 2026-01-01
+slug: "politica-de-privacidade"
+translationKey: "privacy-policy"
 draft: false
 ---
 

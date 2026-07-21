@@ -1,6 +1,8 @@
 ---
 title: "Contato"
 date: 2026-01-01
+slug: "contato"
+translationKey: "contact"
 draft: false
 ---
 

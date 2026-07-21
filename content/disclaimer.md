@@ -1,6 +1,8 @@
 ---
 title: "Disclaimer"
 date: 2026-01-01
+slug: "disclaimer"
+translationKey: "disclaimer"
 draft: false
 ---
 

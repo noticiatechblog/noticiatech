@@ -9,6 +9,7 @@
 
 .post-description {
     margin-top: 10px;
+    color: var(--content);
 }
 
 .post-meta {

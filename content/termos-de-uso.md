@@ -1,6 +1,8 @@
 ---
 title: "Termos de Uso"
 date: 2026-01-01
+slug: "termos-de-uso"
+translationKey: "terms-of-use"
 draft: false
 ---
 
