@@ -86,9 +86,7 @@ Traditional benchmark comparisons are becoming less important.
 
 Organizations increasingly evaluate which AI platform integrates most effectively into everyday business operations.
 
-This evolution complements the rise of persistent AI memory, previously explored by Notícia Tech:
-
-https://noticiatech.com.br/en/artificial-intelligence/persistent-memory-chatgpt-gemini-claude-enterprise-ai/
+[This evolution complements the rise of persistent AI memory, previously explored by Notícia Tech](https://noticiatech.com.br/en/artificial-intelligence/persistent-memory-chatgpt-gemini-claude-enterprise-ai/)
 
 ### The competitive focus shifts toward workflow execution
 
@@ -114,9 +112,7 @@ Over the next few years, competitive advantage will no longer depend solely on h
 
 Instead, success will be determined by how effectively AI agents integrate with existing enterprise systems such as **CRM**, **ERP**, collaboration platforms and productivity software.
 
-This trend also reinforces the growing importance of AI orchestration, previously explored by Notícia Tech:
-
-https://noticiatech.com.br/en/tools/what-is-ai-orchestration-replacing-ai-model-competition-business/
+[This trend also reinforces the growing importance of AI orchestration, previously explored by Notícia Tech](https://noticiatech.com.br/en/tools/what-is-ai-orchestration-replacing-ai-model-competition-business/)
 
 ### The role of professionals is also evolving
 
