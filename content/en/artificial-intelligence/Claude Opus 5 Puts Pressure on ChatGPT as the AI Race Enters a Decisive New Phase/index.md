@@ -2,7 +2,7 @@
 title: "Claude Opus 5 Puts Pressure on ChatGPT as the AI Race Enters a Decisive New Phase"
 slug: "claude-opus-5-puts-pressure-on-chatgpt-ai-race"
 translationKey: "claude-opus-5-pressiona-chatgpt-guerra-ia"
-date: 2026-07-26T00:30:00-03:00
+date: 2026-07-25T00:30:00-03:00
 draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Claude Opus 5 intensifies the competition between Anthropic, OpenAI and Google with stronger AI agents, coding capabilities and lower enterprise costs."
