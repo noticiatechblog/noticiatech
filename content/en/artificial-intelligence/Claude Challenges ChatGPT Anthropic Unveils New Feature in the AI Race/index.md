@@ -112,9 +112,7 @@ Industry analysts believe the future will not be dominated by a single AI compan
 
 Much like cloud computing, different vendors are expected to lead specific segments depending on their technological strengths and enterprise focus.
 
-To learn more about how AI is transforming enterprise automation, also read:
-
-https://noticiatech.com.br/en/tools/why-ai-process-automation-is-replacing-traditional-business-automation/
+[To learn more about how AI is transforming enterprise automation, also read.](https://noticiatech.com.br/en/tools/why-ai-process-automation-is-replacing-traditional-business-automation/)
 
 ## A new chapter begins in the battle between Claude, ChatGPT and Gemini
 
