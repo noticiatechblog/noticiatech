@@ -2,7 +2,7 @@
 title: "What Is AI Orchestration and Why It Will Become Essential for Businesses Using AI Agents"
 slug: "what-is-ai-orchestration-business-ai-agents"
 translationKey: "o-que-e-ai-orchestration-agentes-ia-empresas"
-date: 2026-07-30T00:30:00-03:00
+date: 2026-07-30T00:20:00-03:00
 draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Learn what AI Orchestration is, how it connects AI agents, MCP, RAG and workflows, and why it is becoming the foundation of enterprise artificial intelligence."
