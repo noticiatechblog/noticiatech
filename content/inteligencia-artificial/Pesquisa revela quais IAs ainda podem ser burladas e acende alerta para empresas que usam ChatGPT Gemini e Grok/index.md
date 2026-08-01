@@ -3,7 +3,7 @@ title: "Pesquisa aponta quais IAs ainda podem ser burladas e acende alerta para 
 slug: "pesquisa-ias-burladas-chatgpt-gemini-grok-seguranca"
 translationKey: "pesquisa-ias-burladas-chatgpt-gemini-grok-seguranca"
 date: 2026-07-31T00:20:00-03:00
-author: "Aluisio Soares"
+author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "Novo estudo mostra que ChatGPT, Gemini, Grok e outros modelos de IA ainda podem ser manipulados por técnicas de jailbreak. Entenda os riscos para empresas e o que muda na segurança da inteligência artificial."
 
 categories:
