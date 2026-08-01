@@ -2,7 +2,7 @@
 title: "Study Reveals Which AI Models Are Still Vulnerable to Jailbreaks, Raising Security Concerns for Businesses Using ChatGPT, Gemini, and Grok"
 slug: "study-ai-models-jailbreak-chatgpt-gemini-grok-security"
 translationKey: "pesquisa-ias-burladas-chatgpt-gemini-grok-seguranca"
-date: 2026-08-01T00:30:00-03:00
+date: 2026-07-31T00:20:00-03:00
 author: "Aluisio Soares"
 description: "A new study shows that ChatGPT, Gemini, Grok, and other AI models can still be manipulated through jailbreak techniques. Learn what this means for businesses adopting artificial intelligence."
 
