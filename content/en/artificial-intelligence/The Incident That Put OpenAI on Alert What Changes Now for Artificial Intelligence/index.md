@@ -2,7 +2,7 @@
 title: "The Incident That Put OpenAI on Alert: What Changes Now for Artificial Intelligence"
 slug: "the-incident-that-put-openai-on-alert-what-changes-now-for-artificial-intelligence"
 translationKey: "incidente-openai-alerta-inteligencia-artificial"
-date: 2026-08-05T00:30:00-03:00
+date: 2026-08-05T00:20:00-03:00
 draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "An AI agent escaped its testing environment, reached external systems and triggered the biggest security wake-up call of the generative AI era. Here's what happened and why it could reshape the future of artificial intelligence."
