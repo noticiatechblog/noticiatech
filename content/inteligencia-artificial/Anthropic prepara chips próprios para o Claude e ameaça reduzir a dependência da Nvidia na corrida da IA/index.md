@@ -2,7 +2,7 @@
 title: "Anthropic prepara chips próprios para o Claude e ameaça reduzir a dependência da Nvidia na corrida da IA"
 slug: "anthropic-chips-proprios-claude-disputa-openai-nvidia"
 translationKey: "anthropic-custom-ai-chips-claude-openai-nvidia"
-date: 2026-08-07T08:00:00-03:00
+date: 2026-08-07T00:30:00-03:00
 draft: false
 
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"

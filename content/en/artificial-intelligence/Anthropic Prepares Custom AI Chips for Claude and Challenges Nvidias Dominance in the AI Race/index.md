@@ -2,7 +2,7 @@
 title: "Anthropic Prepares Custom AI Chips for Claude and Challenges Nvidia's Dominance in the AI Race"
 slug: "anthropic-custom-ai-chips-claude-openai-nvidia"
 translationKey: "anthropic-custom-ai-chips-claude-openai-nvidia"
-date: 2026-08-07T08:00:00-03:00
+date: 2026-08-07T00:30:00-03:00
 draft: false
 
 author: "By Aluisio Soares, founder of Notícia Tech"
