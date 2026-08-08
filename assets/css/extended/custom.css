@@ -923,16 +923,24 @@ img {
     }
 
     .logo {
-        flex-wrap: nowrap;
-    }
-
-    .logo img {
-    width: 160px;
-    height: 50px;
-    max-width: 100%;
+    flex: 1;
+    min-width: 0;
+    flex-wrap: nowrap;
 }
-    .logo a {
+
+.logo img {
+    width: 180px;
+    height: auto;
+    max-width: none;
+}
+
+.logo a {
     flex-shrink: 0;
+}
+
+.logo-switches {
+    gap: 3px;
+    margin-left: 4px;
 }
     .search-toggle,
     #theme-toggle {
