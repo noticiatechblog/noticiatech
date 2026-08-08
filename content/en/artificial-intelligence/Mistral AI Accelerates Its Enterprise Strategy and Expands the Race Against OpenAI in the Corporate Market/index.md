@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Mistral AI is expanding its enterprise strategy with an integrated platform for AI agents, automation, and productivity, intensifying competition with OpenAI, Anthropic, and Google in the enterprise AI market."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Mistral AI expands its enterprise platform and strengthens competition in the artificial intelligence market."

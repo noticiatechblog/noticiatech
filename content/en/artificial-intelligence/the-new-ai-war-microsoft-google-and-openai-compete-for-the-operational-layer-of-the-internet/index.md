@@ -7,7 +7,7 @@ description: 'The dispute between Microsoft, Google and OpenAI is leaving chatbo
   behind and moving into new territory: control of the internet''s operational layer
   through autonomous agents and AI ecosystems.'
 categories:
-- Inteligência Artificial
+  - "artificial-intelligence"
 cover:
   image: capa.webp
   alt: Executives and artificial intelligence systems representing the dispute between

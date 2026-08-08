@@ -6,7 +6,7 @@ date: 2026-06-16T00:20:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "O crescimento da Inteligência Artificial está criando uma nova corrida global por energia, data centers e infraestrutura. Entenda por que Google, Microsoft, OpenAI e Amazon estão olhando para a energia nuclear e quais os impactos para empresas e mercados."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Data center de Inteligência Artificial iluminado por infraestrutura energética de grande escala"

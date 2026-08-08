@@ -2,7 +2,8 @@
 title: "Meta automatiza anúncios com IA e redefine o marketing digital para empresas"
 description: "A Meta está usando inteligência artificial para automatizar campanhas e reduzir segmentação manual, mudando a lógica da publicidade digital para empresas."
 date: 2026-04-18
-categories: ["automacao"]
+categories:
+  - "automacao"
 draft: false
 
 cover:
@@ -69,7 +70,7 @@ Empresas menores conseguem competir sem estruturas complexas de tráfego pago.
 
 ## O objetivo estratégico da Meta
 
-![Meta escritório](meta-office.webp)
+![Meta escritório](meta-office.png)
 
 A estratégia da Meta é simplificar a entrada de novos anunciantes em seu ecossistema.
 

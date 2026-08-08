@@ -9,7 +9,7 @@ description: Companies accelerate the adoption of AI governance to reduce risks,
   environment.
 author: By Aluisio Soares, founder of Blog Notícia Tech
 categories:
-- IA
+  - "artificial-intelligence"
 cover:
   image: capa.webp
   alt: AI governance in the corporate environment

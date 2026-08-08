@@ -6,7 +6,7 @@ date: 2026-06-14T00:30:00-03:00
 author: "Aluisio Soares, founder of Notícia Tech"
 description: "Discover whether n8n is worth it in 2026, how the automation platform works, its differences from Zapier and Make, pricing, advantages, and AI agent use cases."
 categories:
-  - Tools
+  - "tools"
 cover:
   image: "capa.webp"
   alt: "n8n dashboard connected to AI agents and enterprise automation workflows"

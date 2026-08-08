@@ -6,7 +6,7 @@ date: 2026-08-02T00:20:00-03:00
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "OpenAI has confirmed it is developing a new family of ChatGPT-powered devices. Discover why the company wants to control hardware as well as software, and how this strategy could challenge Apple and Google."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Concept artwork of an OpenAI device powered by ChatGPT"

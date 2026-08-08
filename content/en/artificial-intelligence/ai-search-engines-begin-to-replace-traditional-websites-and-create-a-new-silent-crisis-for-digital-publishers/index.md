@@ -7,7 +7,7 @@ description: The rise of AI-based search engines is radically changing web traff
   putting pressure on publishers, redefining SEO and creating a new fight for digital
   attention in 2026.
 categories:
-- Inteligência Artificial
+  - "artificial-intelligence"
 cover:
   image: capa.webp
   alt: AI search engines transforming the web ecosystem and threatening digital publishers
@@ -66,7 +66,7 @@ In practice, these platforms want to become permanent intermediaries between use
 
 This movement has a strong connection with the race for smart browsers, a trend previously analyzed by **Notícia Tech**.
 
-[Google, OpenAI and Perplexity accelerate the race for AI browsers and threaten the traditional web economy](https://noticiatech.com.br/inteligencia-artificial/google-openai-e-perplexity-aceleram-riedade-pelos-navegadores-com-ia-e-amea%C3%A7am-a-economia-tradicional-da-web/)
+[Google, OpenAI and Perplexity accelerate the race for AI browsers and threaten the traditional web economy](https://noticiatech.com.br/inteligencia-artificial/google-openai-e-perplexity-aceleram-corrida-pelos-navegadores-com-ia-e-amea?am-a-economia-tradicional-da-web/)
 
 The strategic logic is clear:
 

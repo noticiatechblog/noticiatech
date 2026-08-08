@@ -10,8 +10,7 @@ author: "By Aluisio Soares, founder of Notícia Tech"
 description: "The legal dispute between Apple and OpenAI signals a new phase in artificial intelligence, where talent, intellectual property and corporate strategy are becoming the defining competitive advantages for major technology companies."
 
 categories:
-  - "Artificial Intelligence"
-
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Apple and OpenAI enter a legal dispute over artificial intelligence talent."

@@ -7,7 +7,7 @@ description: Small Brazilian companies are silently adopting automation and arti
   intelligence to reduce costs, speed up operations and increase competitiveness in
   2026.
 categories:
-- automation
+  - "automation"
 cover:
   image: capa.webp
   alt: Businessman observing automation and artificial intelligence panels in modern
@@ -136,7 +136,7 @@ This scenario is already beginning to worry executives and managers in several s
 
 - [Companies postpone investments in AI and lose competitiveness](https://noticiatech.com.br/negocios/empresas-adiam-investimentos-ia-perdem-competitividade/)
 - [Anthropic quadruples revenue with AI and sends a message to the market: companies that delay may be left behind](https://noticiatech.com.br/inteligencia-artificial/anthropic-quadruplica-receita-com-ia-e-envia-recado-ao-mercado-empresas-que-demorarem-podem-ficar-para-tr%C3%A1s/)
-- [Why companies are redesigning internal processes with AI and not just automating tasks](https://noticiatech.com.br/negocios/por-que-empresas-est%C3%A3o-redesenhando-processos-internos-com-ia-e-n%C3%A3o-sobre-automatizando-trabalhos/)
+- [Why companies are redesigning internal processes with AI and not just automating tasks](https://noticiatech.com.br/negocios/por-que-empresas-est?o-redesenhando-processos-internos-com-ia-e-n?o-apenas-automatizando-tarefas/)
 
 In the coming years, the discussion will likely stop being “is it worth using AI?” to transform into “how to survive without intelligent automation?”.
 

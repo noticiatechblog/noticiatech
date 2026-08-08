@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Learn how RAG, MCP, AI Agents, and AI Orchestration work together to build a modern Enterprise AI architecture and understand when to adopt each technology."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Diagram illustrating a modern enterprise AI architecture with RAG, MCP, AI agents, and orchestration."

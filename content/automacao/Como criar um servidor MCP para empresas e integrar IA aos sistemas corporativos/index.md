@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Aprenda como criar um servidor MCP para integrar ChatGPT, Claude, Gemini e outros modelos de IA a sistemas corporativos utilizando uma arquitetura escalável, segura e preparada para automação empresarial."
 categories:
-  - "Automação"
+  - "automacao"
 cover:
   image: "capa.webp"
   alt: "Arquitetura de servidor MCP conectando inteligência artificial a sistemas corporativos"

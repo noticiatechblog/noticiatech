@@ -5,7 +5,7 @@ description: VTEX presented its new architecture with integrated artificial inte
   automating sales, service and after-sales in digital operations.
 date: 2026-04-18
 categories:
-- business
+  - "business"
 draft: false
 cover:
   image: capa.webp

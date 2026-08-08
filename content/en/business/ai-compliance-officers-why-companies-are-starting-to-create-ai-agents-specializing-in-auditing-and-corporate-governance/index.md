@@ -7,7 +7,7 @@ description: Companies are beginning to use AI agents specialized in compliance,
   and governance to reduce regulatory risks, monitor operations and prepare businesses
   for the new artificial intelligence economy.
 categories:
-- business
+  - "business"
 cover:
   image: capa.webp
   alt: Executives analyzing compliance dashboards with corporate AI agents

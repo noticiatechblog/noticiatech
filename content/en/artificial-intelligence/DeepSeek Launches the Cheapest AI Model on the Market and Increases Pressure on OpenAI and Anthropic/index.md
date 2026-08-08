@@ -7,8 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "DeepSeek has introduced a new artificial intelligence model that, according to recent market analysis, offers the lowest operating cost among leading commercial large language models. Here's what this could mean for OpenAI, Anthropic, Google, and the enterprise AI market."
 categories:
-  - "Artificial Intelligence"
-
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Editorial illustration showing the competition between DeepSeek, OpenAI, and Anthropic in the artificial intelligence market."

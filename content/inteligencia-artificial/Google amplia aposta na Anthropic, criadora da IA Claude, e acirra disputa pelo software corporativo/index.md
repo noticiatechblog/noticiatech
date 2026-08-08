@@ -4,7 +4,7 @@ description: "Novo investimento do Google na Anthropic reforça a disputa global
 date: 2026-05-02T08:10:00-03:00
 draft: false
 categories:
-  - inteligencia-artificial
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Infraestrutura corporativa de inteligência artificial em ambiente empresarial"

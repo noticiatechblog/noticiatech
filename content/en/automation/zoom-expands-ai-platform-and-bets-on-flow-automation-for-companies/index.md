@@ -5,7 +5,7 @@ description: Zoom expands its artificial intelligence platform with autonomous a
 slug: zoom-expands-ai-platform-and-bets-on-flow-automation-for-companies
 date: 2026-04-26 14:00:00-03:00
 categories:
-- automation
+  - "automation"
 draft: false
 cover:
   image: capa.webp

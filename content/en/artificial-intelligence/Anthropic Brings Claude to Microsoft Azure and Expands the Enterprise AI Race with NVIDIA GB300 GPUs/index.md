@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "The arrival of Claude models on Microsoft Azure powered by NVIDIA GB300 GPUs strengthens the competition among AI giants and gives businesses more options for enterprise artificial intelligence applications."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Anthropic integrates Claude models into Microsoft Azure powered by NVIDIA GB300 infrastructure."

@@ -5,7 +5,7 @@ date: 2026-06-07T00:30:00-03:00
 author: "Aluisio Soares, founder of Notícia Tech"
 description: "A complete review of Perplexity Pro in 2026. Discover its features, pricing, advantages, limitations, and whether the platform is worth the investment for businesses, professionals, and content creators."
 categories:
-  - Tools
+  - "tools"
 cover:
   image: "capa.webp"
   alt: "Perplexity Pro in a corporate artificial intelligence environment"

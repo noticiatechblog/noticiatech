@@ -3,7 +3,8 @@ title: "Google aposta em agentes de IA para empresas e acelera nova fase da auto
 description: "Google coloca agentes de IA no centro da estratégia empresarial com Gemini Enterprise e reforça nova corrida pela automação inteligente nos negócios."
 slug: "google-aposta-em-agentes-de-ia-para-empresas"
 date: 2026-04-26T15:00:00-03:00
-categories: ["ia"]
+categories:
+  - "inteligencia-artificial"
 draft: false
 
 cover:

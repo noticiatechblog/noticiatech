@@ -7,7 +7,7 @@ description: With Project Kuiper, Amazon officially enters the satellite interne
   race and challenges Starlink's leadership in a strategic market that could redefine
   global connectivity.
 categories:
-- business
+  - "business"
 cover:
   image: capa.webp
   alt: Amazon's Project Kuiper satellite orbiting Earth

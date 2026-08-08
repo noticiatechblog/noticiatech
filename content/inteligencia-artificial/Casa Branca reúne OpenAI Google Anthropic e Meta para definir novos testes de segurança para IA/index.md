@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "A Casa Branca reúne OpenAI, Google, Anthropic e Meta para definir um novo padrão de testes de segurança para inteligência artificial. Entenda o impacto para empresas e para o mercado global."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Representação da Casa Branca ao lado dos logotipos da OpenAI, Google, Anthropic e Meta simbolizando novas diretrizes de segurança para inteligência artificial."

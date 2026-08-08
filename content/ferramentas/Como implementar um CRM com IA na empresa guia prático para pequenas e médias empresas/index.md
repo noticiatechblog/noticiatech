@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Aprenda como implementar um CRM com IA de forma estratégica, reduzir falhas na implantação e acelerar vendas, atendimento e produtividade em pequenas e médias empresas."
 categories:
-  - "Ferramentas"
+  - "ferramentas"
 cover:
   image: "capa.webp"
   alt: "Implementação estratégica de CRM com Inteligência Artificial em empresas"

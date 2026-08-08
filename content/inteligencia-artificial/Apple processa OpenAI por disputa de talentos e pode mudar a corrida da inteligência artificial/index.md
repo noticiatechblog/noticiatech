@@ -10,8 +10,7 @@ author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "A disputa judicial entre Apple e OpenAI revela uma nova fase da inteligência artificial, em que talento, propriedade intelectual e estratégia corporativa passam a definir a vantagem competitiva das Big Techs."
 
 categories:
-  - "Inteligência Artificial"
-
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Apple e OpenAI entram em disputa judicial por talentos de inteligência artificial."

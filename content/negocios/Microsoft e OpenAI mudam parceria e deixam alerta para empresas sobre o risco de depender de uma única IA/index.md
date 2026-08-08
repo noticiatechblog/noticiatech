@@ -4,8 +4,7 @@ date: 2026-05-04T07:55:00-03:00
 draft: false
 description: "Mudança no acordo entre Microsoft e OpenAI reforça um novo cenário para empresas. A IA corporativa entra na era multicloud e exige estratégia mais flexível."
 categories:
-  - Negócios
-
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "Microsoft e OpenAI redefinem parceria e inauguram nova fase da IA corporativa"

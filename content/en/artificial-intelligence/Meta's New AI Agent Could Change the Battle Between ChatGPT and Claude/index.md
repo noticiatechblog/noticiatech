@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Meta has unveiled a new AI coding agent, officially entering the competition with ChatGPT, Claude and Chinese AI models. Here's why this move could reshape the future of AI-assisted software development."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Meta's new AI coding agent challenges ChatGPT and Claude"

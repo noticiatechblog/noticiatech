@@ -6,7 +6,7 @@ date: 2026-06-17T00:20:00-03:00
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Learn how MCP works and why the protocol is becoming a key standard for connecting AI agents to enterprise systems, databases, CRMs, and business applications."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "MCP architecture connecting AI agents to enterprise systems"

@@ -7,7 +7,7 @@ description: Small businesses are adopting AI tools to automate service, marketi
   and operations without relying on technical teams. Understand which solutions really
   generate efficiency and competitive advantage.
 categories:
-- business
+  - "business"
 cover:
   image: capa.webp
   alt: Businessman using artificial intelligence tools to automate operations of a

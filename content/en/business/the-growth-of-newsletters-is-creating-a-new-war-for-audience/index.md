@@ -6,7 +6,7 @@ description: With AI Overviews, a drop in organic reach and changes in digital p
   companies are starting to rebuild their own audience through newsletters, communities
   and direct distribution channels.
 categories:
-- business
+  - "business"
 cover:
   image: capa.webp
   alt: Executives analyzing newsletter metrics and their own audience in a modern

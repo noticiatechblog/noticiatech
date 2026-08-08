@@ -6,7 +6,7 @@ date: 2026-06-24T00:30:00-03:00
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "AI Summit Exame 2026 showed how artificial intelligence has evolved from an experimental initiative into a strategic business priority. Discover the key signals shaping the market."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Executives discussing artificial intelligence strategies during AI Summit Exame 2026"

@@ -7,8 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Learn what AI Security is, why it has become a strategic priority for businesses, and how organizations can protect AI models, enterprise data, and intelligent agents as artificial intelligence adoption accelerates."
 categories:
-  - "Artificial Intelligence"
-
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Business executive observing a corporate environment protected by multiple layers of artificial intelligence security."

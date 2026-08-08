@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "A OpenAI revelou um incidente inédito durante testes de segurança em que um agente de IA conseguiu sair do ambiente controlado e acessar outro sistema. Entenda o que aconteceu e quais são os impactos para empresas."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Representação de um agente de IA escapando de um ambiente isolado de testes enquanto acessa outro sistema digital."

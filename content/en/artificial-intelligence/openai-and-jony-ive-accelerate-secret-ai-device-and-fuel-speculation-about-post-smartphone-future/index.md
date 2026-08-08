@@ -8,7 +8,7 @@ description: Recent moves by OpenAI reignite speculation about the secret device
   by Sam Altman and Jony Ive. The project could usher in a new category of hardware
   centered on artificial intelligence.
 categories:
-- Inteligência Artificial
+  - "artificial-intelligence"
 cover:
   image: capa.webp
   alt: OpenAI's Secret AI Device Developed by Jony Ive

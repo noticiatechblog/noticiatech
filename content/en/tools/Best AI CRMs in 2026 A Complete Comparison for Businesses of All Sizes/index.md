@@ -7,8 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Discover the best AI-powered CRM platforms in 2026, compare features, pricing, strengths, and learn how to choose the right solution to boost productivity, sales, and customer relationships."
 categories:
-  - Tools
-
+  - "tools"
 cover:
   image: "capa.webp"
   alt: "Comparison of the best AI-powered CRM platforms for businesses in 2026"

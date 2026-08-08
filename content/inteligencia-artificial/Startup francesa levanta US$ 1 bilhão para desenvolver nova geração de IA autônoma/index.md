@@ -4,7 +4,7 @@ date: 2026-04-29T23:50:00-03:00
 draft: false
 description: "A startup francesa AMI levantou US$ 1 bilhão para acelerar sistemas de inteligência artificial autônoma, sinalizando uma nova fase da automação empresarial."
 categories:
-  - IA
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Infraestrutura de inteligência artificial e automação empresarial"

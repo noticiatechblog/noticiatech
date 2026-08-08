@@ -7,8 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "O crescimento dos agentes de IA da OpenAI para 10 milhões de usuários sinaliza uma mudança estratégica que pode reduzir a dependência de softwares tradicionais nas empresas e acelerar uma nova fase da transformação digital."
 categories:
-  - Inteligência Artificial
-
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Executivos analisando agentes de IA da OpenAI em ambiente corporativo moderno"

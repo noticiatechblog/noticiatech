@@ -8,7 +8,7 @@ description: Alphabet's new billion-dollar fundraising shows that the dispute fo
   artificial intelligence is no longer just a race for models and has become a battle
   for infrastructure, energy and computing capacity.
 categories:
-- business
+  - "business"
 cover:
   image: capa.webp
   alt: Sundar Pichai CEO of Google and Alphabet

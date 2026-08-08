@@ -2,7 +2,8 @@
 title: "Klarna e a automação do suporte: o que aconteceu quando a IA assumiu o atendimento"
 description: "A Klarna reduziu custos e acelerou o suporte ao cliente com inteligência artificial, mas enfrentou limitações que expõem um ponto crítico da automação empresarial."
 date: 2026-04-18
-categories: ["automacao"]
+categories:
+  - "automacao"
 draft: false
 
 cover:

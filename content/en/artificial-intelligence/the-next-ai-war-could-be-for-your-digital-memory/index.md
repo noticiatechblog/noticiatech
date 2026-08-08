@@ -7,7 +7,7 @@ description: 'ChatGPT, Gemini and Meta AI are competing for a new technological 
   systems capable of remembering users'' preferences, habits and context to create
   increasingly personalized assistants.'
 categories:
-- Inteligência Artificial
+  - "artificial-intelligence"
 cover:
   image: capa.webp
   alt: Representation of the dispute between large AI companies for users' digital

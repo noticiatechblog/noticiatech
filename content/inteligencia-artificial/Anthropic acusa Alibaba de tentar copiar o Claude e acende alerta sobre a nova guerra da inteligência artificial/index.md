@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "A acusação da Anthropic contra o Alibaba marca uma nova fase da disputa global por modelos de inteligência artificial e pode redefinir como empresas protegem seus ativos tecnológicos."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Anthropic acusa Alibaba de tentar copiar o modelo Claude por meio de distilação de inteligência artificial."

@@ -6,7 +6,7 @@ date: 2026-06-10T00:30:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "A Meta está ampliando o uso de inteligência artificial para automatizar campanhas publicitárias. O movimento pode reduzir custos, transformar o papel das agências e redefinir o futuro do marketing digital."
 categories:
-  - "Negócios"
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "Sistema de inteligência artificial da Meta automatizando campanhas de marketing digital"

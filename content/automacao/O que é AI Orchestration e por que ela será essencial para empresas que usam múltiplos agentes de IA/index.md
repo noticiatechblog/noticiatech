@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Entenda o que é AI Orchestration, como funciona a orquestração de agentes de inteligência artificial, por que ela está substituindo integrações tradicionais e quais os impactos para empresas que utilizam múltiplos modelos de IA."
 categories:
-  - Automação
+  - "automacao"
 cover:
   image: "capa.webp"
   alt: "Fluxo de AI Orchestration conectando diversos agentes de inteligência artificial em ambiente corporativo."

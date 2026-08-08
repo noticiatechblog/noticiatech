@@ -6,7 +6,7 @@ date: 2026-06-15T00:20:00-03:00
 author: "Aluisio Soares, founder of Notícia Tech"
 description: "Learn what RAG is, how Retrieval-Augmented Generation works, its advantages, enterprise use cases, and why it has become one of the most important infrastructure layers for AI agents."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "RAG architecture connecting AI models to enterprise knowledge bases"

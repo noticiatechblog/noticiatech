@@ -8,7 +8,7 @@ description: Companies discover that raw data is not enough for intelligent agen
   The new trend is to transform internal information into structured products to accelerate
   decisions, automation and competitive advantage.
 categories:
-- business
+  - "business"
 cover:
   image: capa.webp
   alt: Executives analyzing corporate data ecosystem connected to artificial intelligence

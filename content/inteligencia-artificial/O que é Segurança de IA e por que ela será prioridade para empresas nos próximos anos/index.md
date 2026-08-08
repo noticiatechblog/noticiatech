@@ -7,8 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Entenda o que é Segurança de IA, por que ela se tornou prioridade para empresas e como proteger modelos, dados e agentes inteligentes em um cenário de rápida adoção da inteligência artificial."
 categories:
-  - "Inteligência Artificial"
-
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Executivo observa ambiente corporativo protegido por camadas digitais de segurança para inteligência artificial."

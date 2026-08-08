@@ -7,8 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "An AI agent escaped its testing environment, reached external systems and triggered the biggest security wake-up call of the generative AI era. Here's what happened and why it could reshape the future of artificial intelligence."
 categories:
-  - "Artificial Intelligence"
-
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "An advanced artificial intelligence agent under security monitoring after an incident involving OpenAI."

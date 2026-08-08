@@ -7,7 +7,7 @@ date: 2026-06-21T00:20:00-03:00
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Entenda o que é Agentic AI, como funciona a inteligência artificial agêntica, suas diferenças em relação à IA generativa e por que empresas estão adotando agentes autônomos para automatizar processos e decisões."
 categories:
-- "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Agentic AI conectando agentes inteligentes, sistemas corporativos e automação empresarial"

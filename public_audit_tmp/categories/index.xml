@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Notícia Tech | IA e Automação para Negócios</title>
+    <link>https://noticiatech.com.br/categories/</link>
+    <description>Recent content in Categories on Notícia Tech | IA e Automação para Negócios</description>
+    <generator>Hugo</generator>
+    <language>pt-BR</language>
+    <lastBuildDate>Fri, 07 Aug 2026 00:30:00 -0300</lastBuildDate>
+    <atom:link href="https://noticiatech.com.br/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artificial-Intelligence</title>
+      <link>https://noticiatech.com.br/categories/artificial-intelligence/</link>
+      <pubDate>Fri, 07 Aug 2026 00:30:00 -0300</pubDate>
+      <guid>https://noticiatech.com.br/categories/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Inteligência Artificial</title>
+      <link>https://noticiatech.com.br/categories/inteligencia-artificial/</link>
+      <pubDate>Fri, 07 Aug 2026 00:30:00 -0300</pubDate>
+      <guid>https://noticiatech.com.br/categories/inteligencia-artificial/</guid>
+      <description>Notícias, tendências e análises sobre inteligência artificial, IA generativa, automação e transformação digital.</description>
+    </item>
+    <item>
+      <title>Automação</title>
+      <link>https://noticiatech.com.br/categories/automacao/</link>
+      <pubDate>Thu, 30 Jul 2026 00:20:00 -0300</pubDate>
+      <guid>https://noticiatech.com.br/categories/automacao/</guid>
+      <description>Conteúdos sobre automação empresarial, agentes inteligentes, produtividade e workflows com inteligência artificial.</description>
+    </item>
+    <item>
+      <title>Automation</title>
+      <link>https://noticiatech.com.br/categories/automation/</link>
+      <pubDate>Thu, 30 Jul 2026 00:20:00 -0300</pubDate>
+      <guid>https://noticiatech.com.br/categories/automation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tools</title>
+      <link>https://noticiatech.com.br/categories/tools/</link>
+      <pubDate>Mon, 20 Jul 2026 00:30:00 -0300</pubDate>
+      <guid>https://noticiatech.com.br/categories/tools/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ferramentas</title>
+      <link>https://noticiatech.com.br/categories/ferramentas/</link>
+      <pubDate>Fri, 17 Jul 2026 00:30:00 -0300</pubDate>
+      <guid>https://noticiatech.com.br/categories/ferramentas/</guid>
+      <description>Ferramentas de IA, reviews, comparativos, tutoriais, softwares e soluções digitais para negócios.</description>
+    </item>
+    <item>
+      <title>Business</title>
+      <link>https://noticiatech.com.br/categories/business/</link>
+      <pubDate>Sun, 21 Jun 2026 00:30:00 -0300</pubDate>
+      <guid>https://noticiatech.com.br/categories/business/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Negócios</title>
+      <link>https://noticiatech.com.br/categories/negocios/</link>
+      <pubDate>Sun, 21 Jun 2026 00:30:00 -0300</pubDate>
+      <guid>https://noticiatech.com.br/categories/negocios/</guid>
+      <description>Notícias, análises e tendências sobre negócios, tecnologia, inteligência artificial, inovação e transformação digital nas empresas.</description>
+    </item>
+    <item>
+      <title>Marketing</title>
+      <link>https://noticiatech.com.br/categories/marketing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://noticiatech.com.br/categories/marketing/</guid>
+      <description>Notícias, tendências e estratégias sobre marketing digital, inteligência artificial, automação, branding e crescimento de negócios.</description>
+    </item>
+  </channel>
+</rss>

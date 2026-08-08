@@ -7,7 +7,7 @@ description: Satya Nadella's new strategy shows how Microsoft is turning AI agen
   into core infrastructure for companies and putting pressure on enterprise software
   giants.
 categories:
-- business
+  - "business"
 cover:
   image: capa.webp
   alt: Satya Nadella on corporate stage with futuristic artificial intelligence agent

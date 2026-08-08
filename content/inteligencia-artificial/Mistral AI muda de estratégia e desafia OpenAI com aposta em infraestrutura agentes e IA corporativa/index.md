@@ -7,8 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "A Mistral AI amplia sua estratégia para competir em toda a cadeia da inteligência artificial, investindo em infraestrutura, agentes de IA e soluções corporativas. Entenda os impactos para empresas e para a disputa global do setor."
 categories:
-  - "Inteligência Artificial"
-
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Executivos analisam a nova estratégia da Mistral AI para competir no mercado global de inteligência artificial."

@@ -6,7 +6,7 @@ description: The expansion of Codex, autonomous agents, and AI-assisted programm
   could transform VS Code into a new operational layer of the digital economy and
   change the way software is created in the coming years.
 categories:
-- Inteligência Artificial
+  - "artificial-intelligence"
 cover:
   image: capa.webp
   alt: Developer using VS Code with artificial intelligence agents integrated in a
@@ -156,7 +156,7 @@ Now, software engineering itself begins to enter this cycle.
 
 Notícia Tech has previously shown how AI has been redesigning internal processes in companies:
 
-[Why companies are redesigning internal processes with AI instead of just automating tasks](https://noticiatech.com.br/negocios/por-que-empresas-est%C3%A3o-redesenhando-processos-internos-com-ia-e-n%C3%A3o-sobre-automatizando-conscientes/)
+[Why companies are redesigning internal processes with AI instead of just automating tasks](https://noticiatech.com.br/negocios/por-que-empresas-est?o-redesenhando-processos-internos-com-ia-e-n?o-apenas-automatizando-tarefas/)
 
 With programming agents, this process takes on a new dimension.
 

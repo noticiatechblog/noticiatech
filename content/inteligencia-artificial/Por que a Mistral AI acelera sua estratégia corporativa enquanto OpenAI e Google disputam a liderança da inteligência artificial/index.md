@@ -7,7 +7,7 @@ draft: false
 author: "Aluisio Soares"
 description: "A Mistral AI amplia sua estratégia corporativa e reforça sua posição no mercado de inteligência artificial, enquanto OpenAI e Google intensificam a disputa por empresas e desenvolvedores."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Executivos analisando a estratégia da Mistral AI diante da concorrência entre OpenAI e Google."

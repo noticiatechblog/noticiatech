@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Google has made one of the biggest leadership changes in DeepMind's history. Discover why this decision could accelerate Gemini, shape the next generation of artificial intelligence and redefine the company's global AI strategy."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Google CEO Sundar Pichai reshapes Google DeepMind's leadership to drive innovation for the future of Gemini and artificial intelligence."

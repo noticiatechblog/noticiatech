@@ -6,7 +6,7 @@ date: 2026-06-11T00:30:00-03:00
 author: "Aluisio Soares, founder of Notícia Tech"
 description: "OpenAI's IPO filing reveals a strategic shift that goes far beyond financial markets. Discover how going public could accelerate the global battle for AI infrastructure, intelligent agents, and corporate dominance."
 categories:
-  - "Business"
+  - "business"
 cover:
   image: "capa.webp"
   alt: "OpenAI moves toward an IPO and accelerates the global race for artificial intelligence leadership"

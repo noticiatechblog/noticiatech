@@ -7,8 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Entenda o que é AI Keyboard, como funciona a nova interface para agentes de IA apresentada pela OpenAI e por que ela pode transformar a produtividade empresarial nos próximos anos."
 categories:
-  - "Ferramentas"
-
+  - "ferramentas"
 cover:
   image: "capa.webp"
   alt: "Profissional utilizando um AI Keyboard para coordenar agentes de inteligência artificial em ambiente corporativo."

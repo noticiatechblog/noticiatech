@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Learn when Retrieval-Augmented Generation is no longer enough, why companies are investing in custom-trained AI models, and how to choose the right architecture for enterprise artificial intelligence projects."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Enterprise AI architecture comparing Retrieval-Augmented Generation with custom-trained models built on proprietary business data."

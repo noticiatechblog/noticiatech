@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Learn how Artificial Intelligence is transforming B2B lead generation by automating prospecting, qualification, and sales processes to increase productivity and revenue."
 categories:
- - "Business"
+  - "business"
 cover:
   image: "capa.webp"
   alt: "Sales team using Artificial Intelligence for B2B lead generation"

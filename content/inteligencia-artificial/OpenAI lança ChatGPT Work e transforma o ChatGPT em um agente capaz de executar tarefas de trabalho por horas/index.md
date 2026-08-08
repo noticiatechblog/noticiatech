@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "A OpenAI apresentou o ChatGPT Work, um agente de IA capaz de executar tarefas complexas durante horas. Entenda como a novidade muda a automação corporativa, produtividade e o futuro do trabalho nas empresas."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Executivo utilizando o ChatGPT Work em ambiente corporativo automatizando tarefas de negócios"

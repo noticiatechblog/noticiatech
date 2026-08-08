@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Claude Science marks a new phase in Anthropic's enterprise strategy by introducing a specialized AI platform for researchers, reinforcing the industry's shift toward vertical artificial intelligence solutions."
 categories:
-  - "Artificial Intelligence"
+  - "tools"
 cover:
   image: "capa.webp"
   alt: "Researchers using Claude Science in a laboratory while Anthropic's AI platform analyzes scientific data."

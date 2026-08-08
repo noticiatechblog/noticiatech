@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, Founder of Notícia Tech"
 description: "China's rapid investment in open AI models is reshaping the global artificial intelligence race, forcing Silicon Valley companies to rethink their strategies for enterprise AI."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Illustration representing the competition between Chinese AI companies and Silicon Valley over open artificial intelligence models."

@@ -4,7 +4,7 @@ date: 2026-05-29T08:10:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "Com o Projeto Kuiper, a Amazon entra oficialmente na disputa pela internet via satélite e desafia a liderança da Starlink em um mercado estratégico que pode redefinir a conectividade global."
 categories:
-  - "Negócios"
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "Satélite do Projeto Kuiper da Amazon orbitando a Terra"

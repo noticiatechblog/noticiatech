@@ -7,7 +7,7 @@ description: Google's new investment in Anthropic reinforces the global dispute 
 date: 2026-05-02 08:10:00-03:00
 draft: false
 categories:
-- artificial-intelligence
+  - "artificial-intelligence"
 cover:
   image: capa.webp
   alt: Corporate artificial intelligence infrastructure in a business environment

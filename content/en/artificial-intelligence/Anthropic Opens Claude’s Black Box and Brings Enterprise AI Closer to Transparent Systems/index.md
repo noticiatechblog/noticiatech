@@ -7,8 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Anthropic's latest research reveals how Claude organizes information internally, marking a significant step toward greater transparency, trust and enterprise-ready artificial intelligence."
 categories:
-  - "Artificial Intelligence"
-
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Editorial illustration of Claude with transparent neural structures representing AI interpretability."

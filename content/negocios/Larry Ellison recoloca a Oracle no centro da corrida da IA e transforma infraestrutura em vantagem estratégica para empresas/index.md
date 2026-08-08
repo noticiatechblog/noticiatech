@@ -5,8 +5,7 @@ date: 2026-06-06T00:30:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "Enquanto OpenAI, Google e Nvidia disputam atenção do mercado, a Oracle avança silenciosamente na infraestrutura da inteligência artificial. O movimento recoloca Larry Ellison no centro da transformação tecnológica global e cria novas oportunidades para empresas."
 categories:
-  - negocios
-
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "Larry Ellison e a ascensão da Oracle na infraestrutura global de inteligência artificial"

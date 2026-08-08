@@ -8,7 +8,7 @@ description: With the launch of the RTX Spark platform, Nvidia is betting on the
   execution of artificial intelligence and inaugurating a new dispute for the future
   of corporate computers in the era of autonomous agents.
 categories:
-- Inteligência Artificial
+  - "artificial-intelligence"
 cover:
   image: capa.webp
   alt: Jensen Huang presents new generation of Nvidia chips aimed at local AI in personal

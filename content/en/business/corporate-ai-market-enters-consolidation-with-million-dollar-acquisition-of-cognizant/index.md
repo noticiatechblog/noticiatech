@@ -3,7 +3,8 @@ title: Corporate AI market enters consolidation with million-dollar acquisition 
   Cognizant
 date: 2026-05-11 07:05:00-03:00
 author: Aluisio Soares, founder of the blog Notícia Tech
-category: Negócios
+categories:
+  - "business"
 cover:
   image: capa.webp
   alt: Cognizant acquires Astreya and accelerates expansion in artificial intelligence

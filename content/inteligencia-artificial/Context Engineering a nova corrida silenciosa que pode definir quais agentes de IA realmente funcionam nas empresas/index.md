@@ -5,7 +5,7 @@ date: 2026-06-04T00:20:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "Empresas descobrem que o sucesso dos agentes de IA depende menos do modelo utilizado e mais da qualidade do contexto fornecido. Surge a era do Context Engineering."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Infraestrutura de contexto conectando agentes de IA a sistemas corporativos"

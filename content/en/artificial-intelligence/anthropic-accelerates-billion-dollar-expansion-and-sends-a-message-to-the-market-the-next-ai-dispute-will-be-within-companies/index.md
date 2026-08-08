@@ -7,7 +7,7 @@ description: Anthropic's new billion-dollar move reinforces that the artificial 
   war is no longer technological and has become a fight for space within business
   operations.
 categories:
-- artificial-intelligence
+  - "artificial-intelligence"
 cover:
   image: capa.webp
 slug: anthropic-accelerates-billion-dollar-expansion-and-sends-a-message-to-the-market-the-next-ai-dispute-will-be-within-companies

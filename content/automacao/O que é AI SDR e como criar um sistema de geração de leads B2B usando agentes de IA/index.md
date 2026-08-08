@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Entenda o que é um AI SDR, como funciona um sistema de geração de leads B2B com agentes de IA, quais ferramentas utilizar e como automatizar todo o processo comercial."
 categories:
-  - "Automação"
+  - "automacao"
 cover:
   image: "capa.webp"
   alt: "AI SDR automatizando geração de leads B2B com agentes de inteligência artificial"

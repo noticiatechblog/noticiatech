@@ -2,7 +2,8 @@
 title: "A startup brasileira de IA que automatiza processos jurídicos e acaba de atingir valuation bilionário"
 date: 2026-05-12T07:10:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
-category: "Negócios"
+categories:
+  - "negocios"
 description: "Startup brasileira especializada em automação jurídica com inteligência artificial alcança valuation bilionário e reforça o avanço da IA corporativa no Brasil."
 cover:
   image: "capa.webp"

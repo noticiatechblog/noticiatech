@@ -3,7 +3,8 @@ title: "Zoom amplia plataforma de IA e aposta em automação de fluxos para empr
 description: "Zoom expande sua plataforma de inteligência artificial com agentes autônomos e automação de fluxos corporativos, reforçando disputa pelo mercado empresarial."
 slug: "zoom-amplia-plataforma-ia-automacao-fluxos-empresas"
 date: 2026-04-26T14:00:00-03:00
-categories: ["automacao"]
+categories:
+  - "automacao"
 draft: false
 
 cover:

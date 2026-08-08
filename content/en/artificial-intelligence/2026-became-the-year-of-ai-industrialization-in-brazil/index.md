@@ -5,7 +5,7 @@ author: Aluisio Soares, founder of the blog Notícia Tech
 description: Corporate events, intelligent agents, cloud computing and billion-dollar
   investments show that Brazil has entered a new phase of business artificial intelligence.
 categories:
-- Inteligência Artificial
+  - "artificial-intelligence"
 cover:
   image: capa.webp
   alt: Industrialization of artificial intelligence accelerates in Brazil in 2026
@@ -79,7 +79,7 @@ This acceleration accompanies a broader growth in corporate demand for digital i
 Notícia Tech has previously shown how Brazil can generate trillion-dollar investments related to cloud computing and artificial intelligence by the end of the decade.
 
 Also read:
-[Brazil can invest R$2 trillion in cloud and artificial intelligence by 2029 and accelerate new race technological](https://noticiatech.com.br/inteligencia-artificial/brasil-pode-investir-r-2-trilh%C3%B5es-em-nuvem-e-intelig%C3%AAncia-artificial-at%C3%A9-2029-e-acelerar-nova-riedade-tecnol%C3%B3gica/)
+[Brazil can invest R$2 trillion in cloud and artificial intelligence by 2029 and accelerate new race technological](https://noticiatech.com.br/inteligencia-artificial/brasil-pode-investir-r-2-trilh?es-em-nuvem-e-intelig?ncia-artificial-at?-2029-e-acelerar-nova-corrida-tecnol?gica/)
 
 In addition to infrastructure, another important movement began to gain momentum: the race for intelligent agents.
 
@@ -111,7 +111,7 @@ The advancement of this market also increases the dispute between global technol
 OpenAI, Anthropic, Google, Microsoft and other companies accelerate investments in the corporate sector while national platforms try to develop their own solutions aimed at the Brazilian market.
 
 Also read:
-[OpenAI and Anthropic change strategy and accelerate the race for the implementation of AI in companies](https://noticiatech.com.br/negocios/openai-e-anthropic-mudam-estrat%C3%A9gia-e-aceleram-riedade-pela-implanta%C3%A7%C3%A3o-de-ia-nas-empresas/)
+[OpenAI and Anthropic change strategy and accelerate the race for the implementation of AI in companies](https://noticiatech.com.br/negocios/openai-e-anthropic-mudam-estrat?gia-e-aceleram-corrida-pela-implanta??o-de-ia-nas-empresas/)
 
 The advancement of intelligent agents is also directly connected to the concept of B2A, where companies start to adapt digital structures to be understood not only by people, but also by artificial intelligence.
 

@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "A Meta apresentou um novo agente de IA voltado para programação e entrou oficialmente na disputa com ChatGPT, Claude e modelos chineses. Entenda por que esse movimento pode redefinir o mercado de desenvolvimento assistido por inteligência artificial."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Novo agente de IA da Meta para programação desafia ChatGPT e Claude"

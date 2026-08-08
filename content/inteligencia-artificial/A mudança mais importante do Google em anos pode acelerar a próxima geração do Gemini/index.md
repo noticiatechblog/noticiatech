@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "O Google promoveu uma das maiores mudanças de liderança da DeepMind. Entenda por que a decisão pode acelerar o Gemini, influenciar a próxima geração da inteligência artificial e mudar a estratégia global da empresa."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Sundar Pichai, CEO do Google, muda o comando do Google DeepMind buscando inovação para o futuro do Gemini e da inteligência artificial."

@@ -7,7 +7,7 @@ description: The growth of events such as HardTech Innovation shows how Minas Ge
   is beginning to gain strategic relevance in the Brazilian ecosystem of industrial
   innovation, automation and artificial intelligence applied to business.
 categories:
-- business
+  - "business"
 cover:
   image: capa.webp
   alt: Minas Gerais accelerates the growth of hardtechs and industrial innovation

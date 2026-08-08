@@ -5,7 +5,7 @@ draft: false
 description: French startup AMI has raised $1 billion to accelerate autonomous artificial
   intelligence systems, signaling a new phase of business automation.
 categories:
-- IA
+  - "artificial-intelligence"
 cover:
   image: capa.webp
   alt: Artificial intelligence and business automation infrastructure

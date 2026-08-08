@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "A Anthropic anuncia uma mudança estratégica em meio ao avanço da regulação da inteligência artificial. Entenda por que esse movimento pode alterar a disputa com OpenAI e Google e impactar empresas que investem em IA."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Executivos da Anthropic diante de um cenário que representa a disputa entre OpenAI, Google e a corrida global pela inteligência artificial."

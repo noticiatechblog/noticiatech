@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Anthropic's allegations against Alibaba mark a new chapter in the global AI race and could redefine how companies protect their artificial intelligence models and intellectual property."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Anthropic accuses Alibaba of attempting to copy the Claude AI model through model distillation."

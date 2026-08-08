@@ -8,7 +8,7 @@ description: Companies are creating digital twins powered by artificial intellig
   to simulate operations, predict risks and test strategic decisions before applying
   them in the real world.
 categories:
-- business
+  - "business"
 cover:
   image: capa.webp
   alt: Executives analyzing an enterprise digital twin powered by artificial intelligence

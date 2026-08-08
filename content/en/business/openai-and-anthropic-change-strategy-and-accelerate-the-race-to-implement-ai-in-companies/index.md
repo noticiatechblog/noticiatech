@@ -3,7 +3,8 @@ title: OpenAI and Anthropic change strategy and accelerate the race to implement
   in companies
 date: 2026-05-11 07:10:00-03:00
 author: Aluisio Soares, founder of the blog Notícia Tech
-category: Negócios
+categories:
+  - "business"
 cover:
   image: capa.webp
   alt: OpenAI and Anthropic competing in the corporate artificial intelligence implementation

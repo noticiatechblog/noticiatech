@@ -4,7 +4,7 @@ description: "Comparativo entre ChatGPT e Gemini mostra qual plataforma pode ent
 date: 2026-05-02T08:05:00-03:00
 draft: false
 categories:
-  - inteligencia-artificial
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Comparação entre ChatGPT e Gemini em ambiente corporativo"

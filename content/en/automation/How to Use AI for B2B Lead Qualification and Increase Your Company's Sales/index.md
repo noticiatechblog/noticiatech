@@ -7,8 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Learn how Artificial Intelligence is transforming B2B lead qualification, reducing sales costs, increasing team productivity, and improving conversion rates through AI-powered CRM, automation, and intelligent agents."
 categories:
-  - "Automation"
-
+  - "automation"
 cover:
   image: "capa.webp"
   alt: "Business professional analyzing B2B leads using Artificial Intelligence"

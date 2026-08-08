@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Meta says its upcoming AI models have reached GPT-5.5-level performance. Discover how this strategy could reshape the competition among OpenAI, Google, Anthropic and the enterprise AI market."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Executives monitor the growing competition between Meta, OpenAI, Google and Anthropic in the enterprise artificial intelligence market."

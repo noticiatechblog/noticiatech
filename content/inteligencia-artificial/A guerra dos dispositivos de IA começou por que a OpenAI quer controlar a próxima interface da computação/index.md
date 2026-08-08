@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "A entrada da OpenAI no mercado de hardware sinaliza uma mudança estratégica na corrida da inteligência artificial. A disputa deixa de ser apenas pelos modelos e passa a envolver dispositivos, interfaces e controle da experiência do usuário."
 categories:
-  - "IA"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "OpenAI disputa o futuro dos dispositivos de inteligência artificial"
@@ -102,7 +102,7 @@ O **Google** tenta transformar a busca tradicional em uma experiência conversac
 
 Esse movimento já pode ser observado na expansão de recursos como AI Overviews e experiências de pesquisa assistida.
 
-O tema se conecta diretamente ao movimento analisado em [A guerra das interfaces começou: por que Apple, OpenAI, Google e Microsoft querem substituir os aplicativos por agentes de IA](https://noticiatech.com.br/ia/a-guerra-das-interfaces-comecou-por-que-apple-openai-google-e-microsoft-querem-substituir-os-aplicativos-por-agentes-de-ia/).
+O tema se conecta diretamente ao movimento analisado em [A guerra das interfaces começou: por que Apple, OpenAI, Google e Microsoft querem substituir os aplicativos por agentes de IA](https://noticiatech.com.br/inteligencia-artificial/guerra-interfaces-agentes-ia-apple-openai-google-microsoft/).
 
 ### O papel da OpenAI
 
@@ -124,7 +124,7 @@ A tendência é que agentes inteligentes deixem de funcionar apenas como softwar
 
 Eles poderão se tornar camadas permanentes de interação, acompanhando profissionais durante tarefas operacionais, decisões estratégicas e fluxos corporativos.
 
-Esse movimento dialoga com tendências analisadas em [AI First: por que essa estratégia está redefinindo a competitividade das empresas](https://noticiatech.com.br/ia/o-que-e-ai-first-e-por-que-essa-estrategia-esta-redefinindo-a-competitividade-das-empresas/).
+Esse movimento dialoga com tendências analisadas em [AI First: por que essa estratégia está redefinindo a competitividade das empresas](https://noticiatech.com.br/negocios/o-que-e-ai-first-estrategia-empresas/).
 
 ### O dispositivo pode deixar de ser o centro
 

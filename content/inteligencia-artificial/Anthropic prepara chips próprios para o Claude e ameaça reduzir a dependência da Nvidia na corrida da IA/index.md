@@ -11,8 +11,7 @@ hideAuthor: false
 description: "A Anthropic iniciou a formação de uma equipe dedicada ao desenvolvimento de chips próprios para o Claude. A estratégia pode reduzir a dependência da Nvidia e inaugurar uma nova fase da disputa entre as gigantes da inteligência artificial."
 
 categories:
-  - "Inteligência Artificial"
-
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Anthropic prepara chips próprios para acelerar o Claude e desafiar OpenAI e Nvidia"

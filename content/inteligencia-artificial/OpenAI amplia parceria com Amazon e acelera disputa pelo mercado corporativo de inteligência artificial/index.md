@@ -2,7 +2,8 @@
 title: "OpenAI amplia parceria com Amazon e acelera disputa pelo mercado corporativo de inteligência artificial"
 description: "OpenAI amplia sua estratégia empresarial com apoio da Amazon e reforça a disputa pelo mercado corporativo de IA, criando novas oportunidades para empresas brasileiras."
 date: 2026-04-27T08:00:00-03:00
-categories: ["ia"]
+categories:
+  - "inteligencia-artificial"
 draft: false
 
 cover:

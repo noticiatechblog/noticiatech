@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "The White House has brought together OpenAI, Google, Anthropic and Meta to establish a new framework for artificial intelligence safety testing. Here's what it means for businesses and the global AI market."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Illustration of the White House alongside the OpenAI, Google, Anthropic and Meta logos representing new artificial intelligence safety standards."

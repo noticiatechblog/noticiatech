@@ -8,7 +8,7 @@ description: The new generation of AI agents is transforming the SaaS market. Un
   why OpenAI, Salesforce, Microsoft and AI startups are pushing companies to replace
   traditional interfaces with autonomous systems.
 categories:
-- business
+  - "business"
 cover:
   image: capa.webp
   alt: AI agents operating enterprise SaaS platforms

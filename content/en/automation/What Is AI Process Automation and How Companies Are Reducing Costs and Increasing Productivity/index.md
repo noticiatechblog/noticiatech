@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Learn what AI process automation is, how it works, its business benefits, and why the technology is transforming corporate operations."
 categories:
-  - "Automation"
+  - "automation"
 cover:
   image: "capa.webp"
   alt: "AI-powered process automation in a corporate environment"
@@ -32,7 +32,7 @@ faq:
 
 ## What Makes Intelligent Automation Different?
 
-![Intelligent automation connecting business systems](imagem1.webp)
+![Intelligent automation connecting business systems](imagem-1.webp)
 
 *Intelligent automation enables systems to understand context, data, and natural language.*
 
@@ -60,7 +60,7 @@ These agents can perform multiple tasks, access enterprise systems, and coordina
 
 AI process automation works by combining data, artificial intelligence models, and integrations across enterprise systems.
 
-![Business workflows automated with artificial intelligence](imagem2.webp)
+![Business workflows automated with artificial intelligence](imagem-2.webp)
 
 *Intelligent integrations allow information to flow automatically across platforms.*
 
@@ -90,7 +90,7 @@ To better understand this landscape, explore [What Is RAG? Complete Guide for AI
 
 AI automation delivers productivity gains, scalability, and operational cost reductions.
 
-![Team using dashboards and AI-driven automation](imagem3.webp)
+![Team using dashboards and AI-driven automation](imagem-3.webp)
 
 *Companies are using AI to accelerate operations without proportionally increasing headcount.*
 

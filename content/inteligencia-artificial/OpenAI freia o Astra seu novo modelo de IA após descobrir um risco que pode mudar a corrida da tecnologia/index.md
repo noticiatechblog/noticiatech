@@ -6,7 +6,7 @@ date: 2026-08-08T00:20:00-03:00
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "A OpenAI reforçou a segurança do Astra após identificar capacidades críticas em cibersegurança. Entenda por que a descoberta pode mudar a corrida da IA."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "OpenAI Astra novo modelo de inteligência artificial sendo avaliado em segurança cibernética"

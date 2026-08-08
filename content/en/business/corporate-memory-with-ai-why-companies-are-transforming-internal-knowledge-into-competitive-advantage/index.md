@@ -7,7 +7,7 @@ description: Companies are starting to use artificial intelligence to transform 
   meetings and internal knowledge into strategic corporate memory systems capable
   of accelerating decisions, reducing operational losses and increasing productivity.
 categories:
-- business
+  - "business"
 cover:
   image: capa.webp
   alt: Executives analyzing corporate memory system powered by artificial intelligence
@@ -105,7 +105,7 @@ The central idea is simple:
 
 The greater the ability of AI to understand the company's operations, the greater its strategic value.
 
-This scenario speaks directly to another growing problem in the market: the disorganized use of AI within organizations, addressed in [Companies discover that AI without internal organization increases costs and reduces productivity](https://noticiatech.com.br/negocios/empresas-descobrem-que-ia-sem-organiza%C3%A7%C3%A3o-interna-aumenta-costs-e-reduz-produtividade/).
+This scenario speaks directly to another growing problem in the market: the disorganized use of AI within organizations, addressed in [Companies discover that AI without internal organization increases costs and reduces productivity](https://noticiatech.com.br/negocios/empresas-descobrem-que-ia-sem-organiza??o-interna-aumenta-custos-e-reduz-produtividade/).
 
 ### The operational risk of fragmented knowledge
 

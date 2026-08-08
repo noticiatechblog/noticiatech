@@ -6,7 +6,7 @@ date: 2026-06-12T00:20:00-03:00
 author: "Aluisio Soares, founder of Notícia Tech"
 description: "Learn why companies are creating AI Centers of Excellence to accelerate artificial intelligence adoption, reduce operational risks, and turn isolated projects into sustainable competitive advantages."
 categories:
-  - "Business"
+  - "business"
 cover:
   image: "capa.webp"
   alt: "Executives analyzing an artificial intelligence strategy inside a corporate AI Center of Excellence"
@@ -137,7 +137,7 @@ In this context, **AI Centers of Excellence** act as an invisible infrastructure
 
 The most advanced companies are treating AI as a permanent operational capability rather than a temporary project.
 
-This perspective is also reflected in emerging discussions around [AI Readiness e maturidade operacional para a nova economia da inteligência artificial](https://noticiatech.com.br/negocios/ai-readiness-por-que-empresas-comecam-a-medir-maturidade-operacional-para-sobreviver-a-nova-economia-da-inteligencia-artificial/).
+This perspective is also reflected in emerging discussions around [AI Readiness e maturidade operacional para a nova economia da inteligência artificial](https://noticiatech.com.br/negocios/ai-readiness-por-que-empresas-come?am-a-medir-maturidade-operacional-para-sobreviver-?-nova-economia-da-intelig?ncia-artificial/).
 
 ### What should organizations expect in the coming years?
 

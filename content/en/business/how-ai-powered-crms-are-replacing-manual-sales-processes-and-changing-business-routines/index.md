@@ -8,7 +8,7 @@ description: The integration of artificial intelligence into CRMs is transformin
   sales, automating tasks, improving forecasts and increasing conversions.
 author: By Aluisio Soares, founder of the blog Notícia Tech
 categories:
-- business
+  - "business"
 cover:
   image: capa.webp
   alt: CRM with artificial intelligence automating sales

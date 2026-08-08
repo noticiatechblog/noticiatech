@@ -1,10 +1,12 @@
 ---
 title: "Empresas descobrem que IA sem organização interna aumenta custos e reduz produtividade"
+aliases:
+  - "/negocios/empresas-descobrem-que-ia-sem-organiza??o-interna-aumenta-costs-e-reduz-produtividade/"
 date: 2026-05-20T06:00:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "Grandes empresas começam a perceber que implementar inteligência artificial sem estrutura operacional adequada está criando novos gargalos, aumentando custos ocultos e reduzindo eficiência corporativa."
 categories:
-  - "Negócios"
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "Executivos analisando falhas operacionais causadas por adoção desorganizada de inteligência artificial nas empresas"

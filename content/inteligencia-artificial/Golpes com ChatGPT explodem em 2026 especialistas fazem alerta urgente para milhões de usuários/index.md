@@ -10,8 +10,7 @@ author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "O ChatGPT entrou para a lista das plataformas mais exploradas por criminosos digitais em 2026. Entenda como funcionam os golpes, por que especialistas estão preocupados e como proteger seus dados."
 
 categories:
-  - "Inteligência Artificial"
-
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Criminoso utilizando inteligência artificial para aplicar golpes envolvendo o ChatGPT"

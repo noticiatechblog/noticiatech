@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "A Amazon prepara uma nova geração da Alexa baseada em IA generativa para competir diretamente com ChatGPT, Gemini e Claude. Entenda o impacto para consumidores e empresas."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Nova Alexa com IA generativa da Amazon competindo com ChatGPT e Gemini."

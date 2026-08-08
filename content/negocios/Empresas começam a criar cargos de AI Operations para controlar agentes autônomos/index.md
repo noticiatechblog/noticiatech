@@ -4,7 +4,7 @@ date: 2026-05-18T06:00:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "O avanço dos agentes autônomos começa a criar uma nova camada operacional nas empresas e impulsiona o surgimento dos profissionais de AI Operations responsáveis por controlar fluxos, supervisão e governança da inteligência artificial corporativa."
 categories:
-  - "Negócios"
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "Executivos monitorando operações de agentes de inteligência artificial em ambiente corporativo"

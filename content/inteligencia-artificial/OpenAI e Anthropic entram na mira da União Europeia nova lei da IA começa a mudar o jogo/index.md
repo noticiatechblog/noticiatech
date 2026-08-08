@@ -7,8 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "A União Europeia intensifica a fiscalização sobre OpenAI e Anthropic com a entrada em vigor da AI Act. Entenda o que muda para empresas, desenvolvedores e o futuro da inteligência artificial."
 categories:
-  - "Inteligência Artificial"
-
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "OpenAI e Anthropic sob fiscalização da União Europeia após entrada em vigor da AI Act"

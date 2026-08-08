@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "O encerramento do navegador Atlas mostra uma mudança estratégica da OpenAI. Entenda por que a empresa concentrou seus esforços no ChatGPT e como isso afeta o mercado de agentes de IA."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "OpenAI encerra o navegador Atlas e concentra estratégia no ChatGPT"

@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "OpenAI is accelerating its enterprise strategy, placing greater emphasis on business customers, AI agents, and recurring revenue as it prepares for a potential IPO. Here's what this shift means for companies and the AI market."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "OpenAI shifts its enterprise strategy ahead of a potential IPO"

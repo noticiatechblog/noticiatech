@@ -7,8 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "A Mistral AI amplia sua estratégia para empresas com novos produtos e pressiona OpenAI, Anthropic e Google na corrida pela inteligência artificial corporativa."
 categories:
-  - "Inteligência Artificial"
-
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Executivos analisam a estratégia da Mistral AI para disputar espaço com OpenAI no mercado corporativo de inteligência artificial."

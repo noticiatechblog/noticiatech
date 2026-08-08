@@ -7,8 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Entenda como RAG, MCP, agentes de IA, automação inteligente e copilotos se conectam para formar a arquitetura moderna da Inteligência Artificial nas empresas e descubra como essa estrutura está transformando os negócios."
 categories:
-  - Inteligência Artificial
-
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Arquitetura moderna de IA empresarial conectando RAG, MCP, agentes inteligentes e sistemas corporativos."

@@ -6,7 +6,7 @@ date: 2026-06-09T00:20:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "Projeto Solara da Microsoft sinaliza uma mudança estrutural na computação corporativa ao substituir aplicativos tradicionais por agentes de IA conectados à nuvem."
 categories:
-  - "Negócios"
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "Microsoft Project Solara e a nova geração de dispositivos agent-first para empresas"
@@ -73,7 +73,7 @@ Ainda é cedo para afirmar que aplicativos desaparecerão.
 
 Entretanto, o movimento indica uma mudança estrutural onde aplicações passam a funcionar como infraestrutura invisível consumida pelos agentes.
 
-O mesmo fenômeno já começou a aparecer em plataformas corporativas impulsionadas por IA, como discutido em [OpenAI e Salesforce aceleram a era do SaaS agentic](https://noticiatech.com.br/negocios/openai-e-salesforce-aceleram-era-do-saas-agentic-e-obrigam-empresas-a-repensar-seus-softwares-corporativos/).
+O mesmo fenômeno já começou a aparecer em plataformas corporativas impulsionadas por IA, como discutido em [OpenAI e Salesforce aceleram a era do SaaS agentic](https://noticiatech.com.br/negocios/openai-salesforce-agentic-saas-transformacao-softwares-corporativos/).
 
 ## A arquitetura do Solara mostra para onde a infraestrutura corporativa está caminhando
 
@@ -101,7 +101,7 @@ A evolução dos agentes depende diretamente de padrões de integração.
 
 Protocolos como **MCP (Model Context Protocol)** surgem justamente para conectar modelos de IA a bancos de dados, CRMs, ERPs e outras ferramentas corporativas.
 
-Essa tendência foi analisada anteriormente em [MCP pode se tornar a infraestrutura invisível que conecta agentes de IA aos sistemas corporativos](https://noticiatech.com.br/inteligencia-artificial/mcp-pode-se-tornar-a-infraestrutura-invisivel-que-conecta-agentes-de-ia-aos-sistemas-corporativos/).
+Essa tendência foi analisada anteriormente em [MCP pode se tornar a infraestrutura invisível que conecta agentes de IA aos sistemas corporativos](https://noticiatech.com.br/inteligencia-artificial/mcp-infraestrutura-conecta-agentes-ia-sistemas-corporativos/).
 
 Sem esse tipo de integração, agentes permanecem limitados a conversas.
 

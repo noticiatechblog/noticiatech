@@ -9,8 +9,7 @@ description: "Empresas estão ajustando estrutura, conteúdo e autoridade digita
 author: "Por Aluisio Soares, fundador do Blog Notícia Tech"
 
 categories:
-  - "Inteligência Artificial"
-
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "SEO para IA e otimização para motores generativos"

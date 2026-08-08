@@ -4,7 +4,7 @@ date: 2026-05-27T06:10:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "Empresas começam a usar agentes de IA para automatizar compras corporativas, negociar contratos e reduzir custos operacionais. Movimento pode transformar o mercado global de software B2B em 2026."
 categories:
-  - "Negócios"
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "Executivos analisando agentes de IA automatizando compras corporativas em ambiente empresarial moderno"

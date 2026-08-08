@@ -7,8 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Entenda o que é GraphRAG, como funciona essa evolução do RAG tradicional e por que empresas estão adotando grafos de conhecimento para aumentar a precisão de aplicações baseadas em IA generativa."
 categories:
-  - "Inteligência Artificial"
-
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Arquitetura GraphRAG conectando um modelo de IA a um grafo de conhecimento empresarial."

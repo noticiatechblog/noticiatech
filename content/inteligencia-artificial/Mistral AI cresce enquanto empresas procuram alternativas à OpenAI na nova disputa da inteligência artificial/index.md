@@ -6,8 +6,8 @@ date: 2026-06-23T00:30:00-03:00
 draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "A Mistral AI ganha espaço enquanto empresas buscam alternativas à OpenAI em uma disputa que envolve modelos de IA, soberania tecnológica e estratégia corporativa."
-categories: ["IA"]
-
+categories:
+  - "inteligencia-artificial"
 cover:
     image: "capa.webp"
     alt: "Mistral AI ganha destaque na competição global de inteligência artificial contra grandes empresas de tecnologia"

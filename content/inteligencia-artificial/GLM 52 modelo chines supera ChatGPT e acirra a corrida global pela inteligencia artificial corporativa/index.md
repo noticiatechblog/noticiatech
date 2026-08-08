@@ -5,7 +5,7 @@ slug: "glm-5-2-modelo-chines-supera-chatgpt-corrida-ia-corporativa"
 translationKey: "glm-5-2-modelo-chines-supera-chatgpt-corrida-ia-corporativa"
 date: 2026-07-01T00:30:00-03:00
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 draft: false
 
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"

@@ -3,7 +3,8 @@ title: Companies double investments in corporate AI and Brazil accelerates adopt
   of intelligent agents
 date: 2026-05-13 07:10:00-03:00
 author: By Aluisio Soares, founder of the blog Notícia Tech
-category: IA
+categories:
+  - "artificial-intelligence"
 cover:
   image: capa.webp
   alt: Executives observing artificial intelligence dashboards in a modern corporate

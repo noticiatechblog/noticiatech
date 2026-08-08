@@ -2,7 +2,8 @@
 title: "GEO está substituindo o SEO? Como a busca por IA pode mudar o tráfego da internet"
 date: 2026-05-12T07:05:00-03:00
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
-category: "Inteligência Artificial"
+categories:
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Executivo analisando interfaces de busca generativa e SEO em ambiente corporate tech"

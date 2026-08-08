@@ -9,8 +9,7 @@ description: "A inteligência artificial já está mudando vendas, marketing e r
 author: "Por Aluisio Soares, fundador do Blog Notícia Tech"
 
 categories:
-- Negócios
-
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "Inteligência artificial aplicada em marketing e vendas"

@@ -8,8 +8,7 @@ author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Microsoft's adoption of GPT-5.6 as the default model for Microsoft 365 Copilot highlights how the competition in enterprise artificial intelligence is shifting from building larger models to delivering measurable business productivity."
 
 categories:
-  - "Artificial Intelligence"
-
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Microsoft integrates GPT-5.6 into Copilot to strengthen its enterprise AI strategy."

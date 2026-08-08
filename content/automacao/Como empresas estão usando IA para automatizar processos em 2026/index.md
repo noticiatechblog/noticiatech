@@ -3,7 +3,8 @@ title: "Como empresas estão usando IA para automatizar processos e reduzir cust
 description: "Descubra como empresas estão aplicando inteligência artificial para automatizar processos, reduzir custos operacionais e aumentar produtividade em 2026."
 slug: "como-empresas-usam-ia-para-automatizar-processos"
 date: 2026-04-09
-categories: ["automacao"]
+categories:
+  - "automacao"
 tags: ["inteligencia artificial", "automacao empresarial", "processos", "produtividade", "negocios"]
 draft: false
 

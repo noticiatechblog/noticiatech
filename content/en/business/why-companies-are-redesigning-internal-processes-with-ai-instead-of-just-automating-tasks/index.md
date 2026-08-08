@@ -5,7 +5,7 @@ description: Companies are using artificial intelligence to redesign internal pr
   eliminate steps and reduce operational costs more profoundly.
 date: 2026-04-12
 categories:
-- business
+  - "business"
 draft: false
 cover:
   image: capa.webp
@@ -94,7 +94,7 @@ And this changes cost, speed and productivity.
 
 Contract management has always been one of the slowest areas within companies.
 
-![Gestão de contratos](contratos.webp)
+![Contract management](imagem-3.webp)
 
 The problem was never the signature.
 

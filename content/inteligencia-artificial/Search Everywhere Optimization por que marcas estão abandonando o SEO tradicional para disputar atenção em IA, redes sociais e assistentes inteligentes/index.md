@@ -4,7 +4,7 @@ date: 2026-05-23T06:05:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "Entenda como o Search Everywhere Optimization está transformando a disputa por tráfego digital e por que empresas estão reformulando estratégias de conteúdo para aparecer em mecanismos de IA, redes sociais e plataformas conversacionais."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Executivos analisando ecossistema digital dominado por IA, redes sociais e motores de busca inteligentes"

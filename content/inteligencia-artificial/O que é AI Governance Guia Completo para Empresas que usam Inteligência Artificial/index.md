@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Entenda o que é AI Governance, por que a governança de inteligência artificial se tornou estratégica para empresas e como implementar boas práticas para reduzir riscos, garantir conformidade e acelerar a adoção da IA."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Executivos analisando políticas de AI Governance em uma empresa"

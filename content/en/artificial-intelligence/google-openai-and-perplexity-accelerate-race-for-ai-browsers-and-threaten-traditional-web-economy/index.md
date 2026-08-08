@@ -7,7 +7,7 @@ description: The dispute between browsers with artificial intelligence enters a 
   phase in 2026 and could redefine advertising, searches, SaaS and the corporate internet
   economy itself.
 categories:
-- Inteligência Artificial
+  - "artificial-intelligence"
 cover:
   image: capa.webp
   alt: Technology executives observing AI-powered browser interfaces in a futuristic
@@ -147,7 +147,7 @@ This movement connects with the new phase of the industrialization of artificial
 
 - [2026 became the year of AI industrialization in Brazil](https://noticiatech.com.br/inteligencia-artificial/2026-virou-o-ano-da-industrializa%C3%A7%C3%A3o-da-ia-no-brasil/)
 - [Companies double investments in corporate AI and Brazil accelerates adoption of intelligent agents](https://noticiatech.com.br/inteligencia-artificial/empresas-dobram-investimentos-em-ia-corporativa-e-brasil-acelera-ado%C3%A7%C3%A3o-de-agentes-inteligentes/)
-- [OpenAI begins to reduce dependence on Microsoft and the AI market enters a new billion-dollar war](https://noticiatech.com.br/inteligencia-artificial/openai-come%C3%A7a-a-redutor-depend%C3%AAncia-da-microsoft-e-mercado-de-ia-entra-em-nova-guerra-bilion%C3%A1ria/)
+- [OpenAI begins to reduce dependence on Microsoft and the AI market enters a new billion-dollar war](https://noticiatech.com.br/inteligencia-artificial/openai-come?a-a-reduzir-depend?ncia-da-microsoft-e-mercado-de-ia-entra-em-nova-guerra-bilion?ria/)
 
 ### The browser could become the main corporate operating system for AI
 

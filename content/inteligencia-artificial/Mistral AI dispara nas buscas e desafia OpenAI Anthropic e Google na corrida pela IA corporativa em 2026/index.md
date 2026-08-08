@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "O crescimento da Mistral AI nas buscas revela uma mudança importante na disputa pelo mercado corporativo de inteligência artificial. Entenda por que a empresa francesa ganhou força e quais impactos isso pode trazer para empresas."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Mistral AI desafia OpenAI, Anthropic e Google na corrida pela inteligência artificial corporativa"

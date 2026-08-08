@@ -6,7 +6,7 @@ date: 2026-06-17T00:20:00-03:00
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Entenda como funciona o MCP, o protocolo que permite conectar agentes de IA a sistemas, bancos de dados, CRMs e ferramentas corporativas de forma padronizada."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Arquitetura MCP conectando agentes de IA a sistemas empresariais"

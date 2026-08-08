@@ -7,8 +7,7 @@ draft: false
 author: "By Aluisio Soares, Founder of Notícia Tech"
 description: "Nvidia has launched a global Artificial Intelligence security alliance bringing together 37 organizations. The absence of OpenAI, Google and Anthropic raises new questions about the next stage of competition in enterprise AI."
 categories:
-  - "Artificial Intelligence"
-
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Technology executives overseeing global Artificial Intelligence infrastructure as Nvidia launches a new AI security alliance."

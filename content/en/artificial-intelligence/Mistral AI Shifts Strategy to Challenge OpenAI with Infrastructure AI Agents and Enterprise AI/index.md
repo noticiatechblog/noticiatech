@@ -7,8 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Mistral AI is expanding beyond language models by investing in AI infrastructure, intelligent agents and enterprise platforms. Here's what this strategic shift means for businesses and the global AI race."
 categories:
-  - "Artificial Intelligence"
-
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Executives discuss Mistral AI's new strategy to compete in the global artificial intelligence market."

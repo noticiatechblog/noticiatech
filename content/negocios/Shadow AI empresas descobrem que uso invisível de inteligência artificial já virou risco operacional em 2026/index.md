@@ -4,7 +4,7 @@ date: 2026-05-22T06:05:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "O avanço silencioso da Shadow AI dentro das empresas começa a preocupar executivos, equipes de segurança e líderes de tecnologia. Entenda por que o uso não autorizado de ferramentas de IA virou um dos maiores desafios corporativos de 2026."
 categories:
-  - "Negócios"
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "Executivos analisando o crescimento invisível da Shadow AI dentro das empresas"

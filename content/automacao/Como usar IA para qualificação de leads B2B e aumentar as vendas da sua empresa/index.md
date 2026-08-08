@@ -7,8 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Entenda como a inteligência artificial transforma a qualificação de leads B2B, reduz custos comerciais, aumenta a produtividade da equipe de vendas e melhora a conversão utilizando CRM, automação e agentes de IA."
 categories:
-  - "Automação"
-
+  - "automacao"
 cover:
   image: "capa.webp"
   alt: "Profissional analisando leads B2B utilizando inteligência artificial"

@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "An in-depth comparison of ChatGPT, Claude, Gemini, Grok and Mistral to help businesses choose the best artificial intelligence platform for productivity, automation and decision-making."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Comparison between ChatGPT, Claude, Gemini, Grok and Mistral for businesses in 2026"

@@ -8,7 +8,7 @@ description: The evolution of Claude Code shows that the artificial intelligence
   is no longer just about chatbots. Companies begin to use autonomous agents to perform
   complex software development, auditing and operations.
 categories:
-- Inteligência Artificial
+  - "artificial-intelligence"
 cover:
   image: capa.webp
   alt: Claude Code represents the new generation of autonomous agents for corporate

@@ -10,8 +10,7 @@ author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "A Anthropic ampliou as capacidades do Claude com recursos para controlar aplicativos, navegar pelo computador e executar tarefas complexas. Entenda o impacto para empresas e como a novidade aumenta a disputa com o ChatGPT."
 
 categories:
-  - "Inteligência Artificial"
-
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Claude controlando um computador enquanto disputa espaço com o ChatGPT no mercado de inteligência artificial corporativa."

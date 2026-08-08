@@ -2,7 +2,8 @@
 title: "Mercado de IA corporativa entra em consolidação com aquisição milionária da Cognizant"
 date: 2026-05-11T07:05:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
-category: "Negócios"
+categories:
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "Cognizant adquire Astreya e acelera expansão em infraestrutura de inteligência artificial"

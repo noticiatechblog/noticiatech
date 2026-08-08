@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Entenda como a Inteligência Artificial está transformando a geração de leads B2B, automatizando prospecção, qualificação e vendas para aumentar produtividade e receita."
 categories:
-  - "Negócios"
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "Equipe comercial utilizando Inteligência Artificial para geração de leads B2B"

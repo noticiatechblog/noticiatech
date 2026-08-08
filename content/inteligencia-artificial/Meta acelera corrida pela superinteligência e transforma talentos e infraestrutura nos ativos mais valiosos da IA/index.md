@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "A reorganização da Meta em torno da inteligência artificial revela uma mudança estratégica importante: a disputa pelo futuro da IA está migrando dos modelos para talentos, dados, infraestrutura e capacidade de execução."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Meta acelera investimentos em inteligência artificial e reorganiza sua estratégia para competir na corrida pela superinteligência"

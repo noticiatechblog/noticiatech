@@ -7,8 +7,7 @@ author: "Aluisio Soares"
 description: "A new study shows that ChatGPT, Gemini, Grok, and other AI models can still be manipulated through jailbreak techniques. Learn what this means for businesses adopting artificial intelligence."
 
 categories:
-  - "Artificial Intelligence"
-
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Illustration representing cyberattacks against enterprise AI models such as ChatGPT, Gemini, and Grok."

@@ -6,8 +6,7 @@ date: 2026-08-03T00:20:00-03:00
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Nova estratégia da Microsoft combina agentes de IA, automação e inteligência de ameaças para transformar a segurança cibernética nas empresas e elevar o nível da defesa digital."
 categories:
-  - "Inteligência Artificial"
-
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Centro de operações de segurança utilizando agentes de inteligência artificial da Microsoft para monitoramento corporativo."

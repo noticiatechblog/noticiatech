@@ -5,7 +5,7 @@ description: WhatsApp Business is evolving with automations and artificial intel
   enabling small businesses to sell, serve customers, and scale operations more efficiently.
 date: 2026-04-18
 categories:
-- business
+  - "business"
 draft: false
 cover:
   image: capa.webp

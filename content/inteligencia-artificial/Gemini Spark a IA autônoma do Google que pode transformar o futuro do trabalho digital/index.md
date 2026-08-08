@@ -4,7 +4,7 @@ date: 2026-05-23T06:10:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "O Google apresentou o Gemini Spark durante o Google I/O 2026 e colocou os agentes autônomos no centro da disputa global da inteligência artificial. Entenda como a nova IA contínua do Google funciona, quais os impactos para empresas, produtividade, mercado de trabalho e o futuro da computação."
 categories:
-  - IA
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Gemini Spark do Google operando múltiplas tarefas autônomas em ambiente corporativo futurista"

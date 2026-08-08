@@ -2,7 +2,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 {{- $isProduction := or hugo.IsProduction (eq site.Params.env "production") -}}
-{{- $isNoIndexPage := or (eq .Params.robotsNoIndex true) (eq .Kind "taxonomy") (eq .Kind "term") -}}
+{{- $isNoIndexPage := eq .Params.robotsNoIndex true -}}
 {{- if and $isProduction (not $isNoIndexPage) }}
 <meta name="robots" content="index, follow">
 {{- else }}

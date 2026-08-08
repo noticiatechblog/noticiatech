@@ -10,8 +10,7 @@ hideAuthor: true
 description: "Entenda o que é AI SDR, como funciona essa nova geração de agentes de inteligência artificial para prospecção de vendas e por que empresas estão adotando essa tecnologia para aumentar produtividade e conversões."
 
 categories:
-  - "Automação"
-
+  - "automacao"
 cover:
   image: "capa.webp"
   alt: "AI SDR automatizando prospecção de vendas B2B com inteligência artificial"

@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Microsoft's new $2.5 billion initiative signals a strategic shift toward enterprise AI implementation while reducing dependence on a single artificial intelligence model."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Microsoft executives discussing strategies to accelerate artificial intelligence adoption across enterprises."

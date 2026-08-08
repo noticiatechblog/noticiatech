@@ -8,7 +8,7 @@ description: Artificial intelligence is already changing sales, marketing and cu
   relationships. Companies accelerate the use of AI to sell more and operate efficiently.
 author: By Aluisio Soares, founder of Blog Notícia Tech
 categories:
-- business
+  - "business"
 cover:
   image: capa.webp
   alt: Artificial intelligence applied in marketing and sales

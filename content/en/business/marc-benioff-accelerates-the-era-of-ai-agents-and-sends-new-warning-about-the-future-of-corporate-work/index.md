@@ -8,7 +8,7 @@ description: Salesforce CEO says AI agents are already changing hiring, producti
   and the operational structure of companies. The movement reinforces a silent transformation
   in the corporate market.
 categories:
-- business
+  - "business"
 cover:
   image: capa.webp
   alt: Marc Benioff during a corporate event discussing AI agents and business transformation

@@ -2,13 +2,14 @@
 title: "Por que o ChatGPT Work marca o início da era dos agentes de IA para produtividade corporativa"
 slug: "chatgpt-work-era-agentes-ia-produtividade-corporativa"
 translationKey: "chatgpt-work-era-agentes-ia-produtividade-corporativa"
+aliases:
+  - "/inteligencia-artificial/por-que-o-chatgpt-work-marca-o-inicio-da-era-dos-agentes-de-ia-na-produtividade-corporativa/"
 date: 2026-07-11T00:30:00-03:00
 draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "O lançamento do ChatGPT Work vai além de um novo recurso da OpenAI. Entenda como os agentes de IA iniciam uma nova disputa entre ChatGPT, Microsoft Copilot, Gemini e Claude pelo futuro da produtividade corporativa."
 categories:
-  - "Inteligência Artificial"
-
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Executivo utilizando um agente de IA para automatizar tarefas corporativas em um escritório moderno."

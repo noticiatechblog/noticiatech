@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "O avanço dos modelos abertos desenvolvidos na China está dividindo empresas do Vale do Silício e acelerando uma nova disputa estratégica pela liderança da inteligência artificial global."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Representação da disputa entre empresas chinesas e o Vale do Silício pela liderança em modelos abertos de inteligência artificial."

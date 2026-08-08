@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Análise completa compara ChatGPT, Claude, Gemini, Grok e Mistral para ajudar empresas a escolherem a inteligência artificial mais adequada para produtividade, automação e tomada de decisão."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Comparativo entre ChatGPT, Claude, Gemini, Grok e Mistral para empresas em 2026"

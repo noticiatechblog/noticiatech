@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Mistral AI's rapid rise in search interest highlights a major shift in the enterprise artificial intelligence market. Discover why the French company is gaining momentum and what it means for businesses."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Mistral AI challenges OpenAI, Anthropic, and Google in the enterprise artificial intelligence race"

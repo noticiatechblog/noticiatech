@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, Founder of Notícia Tech"
 description: "Learn what an AI SDR is, how AI-powered sales development works, which tools you need, and how to automate your entire B2B lead generation process."
 categories:
-  - "Automation"
+  - "automation"
 cover:
   image: "capa.webp"
   alt: "AI SDR automating B2B lead generation using AI agents"

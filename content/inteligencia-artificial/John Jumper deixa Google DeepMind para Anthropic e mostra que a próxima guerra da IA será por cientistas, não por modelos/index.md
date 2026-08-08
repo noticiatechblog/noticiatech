@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "A saída de John Jumper do Google DeepMind para a Anthropic revela uma mudança estratégica na indústria de inteligência artificial, onde a disputa por talentos se torna tão importante quanto a corrida por modelos avançados."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "John Jumper deixa o Google DeepMind e reforça a disputa global por talentos em inteligência artificial"

@@ -5,8 +5,7 @@ date: 2026-06-04T00:30:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "ChatGPT, Gemini e Meta AI estão disputando uma nova fronteira tecnológica: sistemas capazes de lembrar preferências, hábitos e contexto dos usuários para criar assistentes cada vez mais personalizados."
 categories:
-  - "Inteligência Artificial"
-
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Representação da disputa entre grandes empresas de IA pela memória digital dos usuários"

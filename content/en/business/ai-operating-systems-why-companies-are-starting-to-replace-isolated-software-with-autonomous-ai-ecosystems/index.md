@@ -7,7 +7,7 @@ description: Companies are moving from using siled tools to building true AI-pow
   enterprise operating systems. The shift could redefine productivity, automation,
   B2B software and the future of digital work.
 categories:
-- business
+  - "business"
 cover:
   image: capa.webp
   alt: Executives observing a corporate operating system powered by artificial intelligence

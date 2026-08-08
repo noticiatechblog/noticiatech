@@ -4,7 +4,7 @@ date: 2026-05-27T06:00:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "Sam Altman acelera a transformação da OpenAI em uma infraestrutura operacional para empresas e pode redefinir o mercado global de software corporativo baseado em inteligência artificial."
 categories:
-  - "Negócios"
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "Sam Altman diante de interfaces corporativas de inteligência artificial e agentes autônomos operando empresas"

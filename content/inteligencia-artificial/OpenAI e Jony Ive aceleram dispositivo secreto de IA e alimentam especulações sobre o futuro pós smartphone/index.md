@@ -5,7 +5,7 @@ date: 2026-06-05T00:30:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "Movimentações recentes da OpenAI reacendem especulações sobre o dispositivo secreto desenvolvido por Sam Altman e Jony Ive. O projeto pode inaugurar uma nova categoria de hardware centrada em inteligência artificial."
 categories:
-  - Inteligência Artificial
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Dispositivo secreto de IA da OpenAI desenvolvido por Jony Ive"

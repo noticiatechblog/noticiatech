@@ -7,8 +7,7 @@ date: 2026-06-21T00:30:00-03:00
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "AI acceleration programs are becoming one of the leading strategies for companies seeking to increase productivity, automate operations, and scale results in 2026."
 categories:
-
- - "Business"
+  - "business"
 cover:
   image: "capa.webp"
   alt: "Executives analyzing AI-driven business acceleration strategies"

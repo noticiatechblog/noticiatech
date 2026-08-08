@@ -2,8 +2,8 @@
 title: "AI Summit 2026: evento da EXAME mostra como Google, Lovable e agentes de IA podem acelerar a transformação digital no Brasil"
 date: "2026-05-14T07:00:00-03:00"
 author: "Aluisio Soares, fundador do blog Notícia Tech"
-category: "Inteligência Artificial"
-
+categories:
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Executivos discutindo inteligência artificial corporativa em evento premium de tecnologia"

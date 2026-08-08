@@ -6,7 +6,7 @@ date: 2026-06-15T00:30:00-03:00
 author: "Aluisio Soares, founder of Notícia Tech"
 description: "The U.S. government's decision to restrict access to Anthropic's Fable 5 and Mythos 5 models signals that artificial intelligence is now being treated as a strategic national security asset."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Artificial intelligence geopolitics and the U.S. restriction on Anthropic's most advanced models"

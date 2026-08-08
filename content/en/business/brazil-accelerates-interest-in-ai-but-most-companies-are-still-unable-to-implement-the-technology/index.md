@@ -3,7 +3,8 @@ title: Brazil accelerates interest in AI but most companies are still unable to 
   the technology
 date: 2026-05-13 07:00:00-03:00
 author: Aluisio Soares, founder of the blog Notícia Tech
-category: Negócios
+categories:
+  - "business"
 cover:
   image: capa.webp
   alt: Brazilian executives analyzing artificial intelligence strategies in a corporate

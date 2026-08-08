@@ -8,7 +8,7 @@ description: Companies are discovering that adopting AI is no longer enough. The
   and the real ability to transform artificial intelligence into sustainable competitive
   advantage.
 categories:
-- business
+  - "business"
 cover:
   image: capa.webp
   alt: Executives analyzing AI maturity metrics inside a futuristic corporate hub

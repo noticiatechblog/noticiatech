@@ -9,8 +9,7 @@ description: "A integração de inteligência artificial aos CRMs está transfor
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 
 categories:
-  - "Negócios"
-
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "CRM com inteligência artificial automatizando vendas"

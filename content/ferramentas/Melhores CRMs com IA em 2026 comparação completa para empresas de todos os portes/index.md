@@ -7,8 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Descubra quais são os melhores CRMs com IA em 2026, compare recursos, preços, vantagens e saiba como escolher a plataforma ideal para aumentar produtividade, vendas e relacionamento com clientes."
 categories:
-  - Ferramentas
-
+  - "ferramentas"
 cover:
   image: "capa.webp"
   alt: "Comparativo dos melhores CRMs com IA para empresas em 2026"

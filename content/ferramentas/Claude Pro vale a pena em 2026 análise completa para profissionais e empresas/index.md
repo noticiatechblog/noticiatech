@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Descubra se o Claude Pro vale a pena em 2026, quais recursos justificam a assinatura, para quem o plano é indicado e como ele se compara às principais alternativas do mercado."
 categories:
-  - "Ferramentas"
+  - "ferramentas"
 cover:
   image: "capa.webp"
   alt: "Interface do Claude Pro sendo utilizada por um profissional em ambiente corporativo."

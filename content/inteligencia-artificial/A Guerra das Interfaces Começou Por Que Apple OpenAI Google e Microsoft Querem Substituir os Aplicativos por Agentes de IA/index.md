@@ -2,11 +2,13 @@
 title: "A guerra das interfaces começou: por que Apple, OpenAI, Google e Microsoft querem substituir os aplicativos por agentes de IA"
 slug: "guerra-interfaces-agentes-ia-apple-openai-google-microsoft"
 translationKey: "guerra-interfaces-agentes-ia-apple-openai-google-microsoft"
+aliases:
+  - "/ia/a-guerra-das-interfaces-comecou-por-que-apple-openai-google-e-microsoft-querem-substituir-os-aplicativos-por-agentes-de-ia/"
 date: 2026-06-12T00:30:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "Apple, OpenAI, Google e Microsoft disputam a próxima grande plataforma da computação. A batalha deixou de ser pelos aplicativos e passou a ser pelos agentes de inteligência artificial."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Apple, OpenAI, Google e Microsoft disputam o futuro das interfaces baseadas em agentes de IA"

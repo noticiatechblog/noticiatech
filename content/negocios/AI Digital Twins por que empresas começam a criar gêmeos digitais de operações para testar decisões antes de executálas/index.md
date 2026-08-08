@@ -5,7 +5,7 @@ date: 2026-06-01T08:05:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "Empresas estão criando gêmeos digitais movidos por inteligência artificial para simular operações, prever riscos e testar decisões estratégicas antes de aplicá-las no mundo real."
 categories:
-  - "Negócios"
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "Executivos analisando um gêmeo digital corporativo alimentado por inteligência artificial"

@@ -5,7 +5,7 @@ date: 2026-06-01T08:00:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "A estratégia AI-First defendida por Tobi Lütke está redefinindo contratação, produtividade e crescimento empresarial. Entenda por que o movimento da Shopify pode influenciar empresas do mundo inteiro."
 categories:
-  - Negócios
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "Tobi Lütke durante apresentação sobre inteligência artificial e produtividade empresarial"

@@ -7,8 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Descubra quem pode acessar suas conversas no ChatGPT, Claude, Gemini, Grok e Perplexity, quais dados podem ser utilizados pelas empresas e como proteger informações sensíveis ao utilizar inteligência artificial."
 categories:
-  - "Inteligência Artificial"
-
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Pessoa utilizando assistentes de inteligência artificial enquanto dados digitais representam a privacidade das conversas."

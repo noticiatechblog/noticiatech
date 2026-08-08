@@ -7,8 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "A Microsoft estuda utilizar um modelo chinês no Copilot e pode reduzir sua dependência do ChatGPT e Claude. Entenda os impactos para empresas e o futuro da IA corporativa."
 categories:
-  - Inteligência Artificial
-
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Microsoft avalia mudanças estratégicas no Copilot com novos modelos de inteligência artificial."

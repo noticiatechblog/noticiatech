@@ -6,7 +6,7 @@ date: 2026-06-19T00:20:00-03:00
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Entenda o que é CRM com IA, como funciona, quais benefícios oferece para empresas e por que a inteligência artificial está mudando a gestão comercial."
 categories:
-  - "Ferramentas"
+  - "ferramentas"
 cover:
   image: "capa.webp"
   alt: "Painel moderno de CRM com inteligência artificial analisando dados de vendas"

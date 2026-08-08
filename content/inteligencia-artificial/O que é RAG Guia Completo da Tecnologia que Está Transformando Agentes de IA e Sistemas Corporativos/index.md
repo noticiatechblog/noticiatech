@@ -6,7 +6,7 @@ date: 2026-06-15T00:20:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "Entenda o que é RAG, como funciona a tecnologia Retrieval-Augmented Generation, suas vantagens, aplicações empresariais e por que ela se tornou uma das infraestruturas mais importantes para agentes de IA."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Arquitetura RAG conectando modelos de IA a bases de conhecimento corporativas"

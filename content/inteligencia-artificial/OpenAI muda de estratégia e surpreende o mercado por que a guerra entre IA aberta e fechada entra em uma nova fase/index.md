@@ -7,8 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "OpenAI, Microsoft, Nvidia e Meta defendem modelos de IA mais abertos, enquanto Google e Anthropic seguem outro caminho. Entenda o impacto dessa mudança para empresas e para o futuro da inteligência artificial."
 categories:
-  - "Inteligência Artificial"
-
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Executivos observam disputa entre modelos de inteligência artificial aberta e fechada liderada por OpenAI, Microsoft, Nvidia, Meta, Google e Anthropic."

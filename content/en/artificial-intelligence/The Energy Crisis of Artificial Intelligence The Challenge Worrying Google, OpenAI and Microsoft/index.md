@@ -6,7 +6,7 @@ date: 2026-06-16T00:20:00-03:00
 author: "Aluisio Soares, founder of Notícia Tech"
 description: "The growth of Artificial Intelligence is creating a new global race for energy, data centers and infrastructure. Understand why Google, Microsoft, OpenAI and Amazon are looking at nuclear power and what this means for businesses and markets."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Artificial Intelligence data center powered by large-scale energy infrastructure"

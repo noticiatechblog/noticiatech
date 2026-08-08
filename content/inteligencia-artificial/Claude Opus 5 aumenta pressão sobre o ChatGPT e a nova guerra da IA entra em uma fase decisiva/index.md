@@ -7,8 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "O Claude Opus 5 amplia a disputa entre Anthropic, OpenAI e Google com avanços em agentes de IA, programação e redução de custos para empresas."
 categories:
-  - "Inteligência Artificial"
-
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Claude Opus 5 amplia a disputa com ChatGPT e Gemini no mercado corporativo de inteligência artificial."

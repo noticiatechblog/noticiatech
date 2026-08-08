@@ -1,11 +1,13 @@
 ---
 title: "OpenAI e Salesforce aceleram a era do Agentic SaaS e pressionam empresas a repensar seus softwares corporativos"
 slug: "openai-salesforce-agentic-saas-transformacao-softwares-corporativos"
+aliases:
+  - "/negocios/openai-e-salesforce-aceleram-era-do-saas-agentic-e-obrigam-empresas-a-repensar-seus-softwares-corporativos/"
 date: 2026-06-05T00:20:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "A nova geração de agentes de IA está transformando o mercado de SaaS. Entenda por que OpenAI, Salesforce, Microsoft e startups de IA estão pressionando empresas a substituir interfaces tradicionais por sistemas autônomos."
 categories:
-  - negocios
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "Agentes de IA operando plataformas SaaS corporativas"

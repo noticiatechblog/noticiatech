@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Discover whether Make is worth it in 2026. We analyze its features, pricing, advantages, limitations, and the scenarios where this automation platform delivers the greatest value for businesses and professionals."
 categories:
-  - Tools
+  - "tools"
 cover:
   image: "capa.webp"
   alt: "Make interface displaying visual automation workflows connecting business applications with artificial intelligence."

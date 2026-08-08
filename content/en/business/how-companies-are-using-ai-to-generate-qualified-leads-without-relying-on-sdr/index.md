@@ -7,7 +7,7 @@ description: Companies are using artificial intelligence to transform B2B prospe
   generate more qualified leads and reduce dependence on traditional sales teams.
 author: By Aluisio Soares, founder of the blog Notícia Tech
 categories:
-- business
+  - "business"
 cover:
   image: capa.webp
   alt: AI transforming B2B prospecting and lead generation

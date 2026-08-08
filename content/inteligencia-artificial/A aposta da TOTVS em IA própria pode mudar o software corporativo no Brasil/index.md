@@ -4,7 +4,7 @@ date: 2026-05-01T01:00:00-03:00
 draft: false
 description: "Com o lançamento do LYNN, a TOTVS entra na corrida da inteligência artificial proprietária e reforça uma tendência importante no mercado B2B brasileiro."
 categories:
-  - Inteligência Artificial
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Nova fase da inteligência artificial corporativa da TOTVS"

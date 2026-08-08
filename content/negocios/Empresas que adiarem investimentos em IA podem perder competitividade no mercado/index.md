@@ -9,8 +9,7 @@ description: "A inteligência artificial deixou de ser tendência e passou a ser
 author: "Por Aluisio Soares, fundador do Blog Notícia Tech"
 
 categories:
-- Negócios
-
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "Empresas acelerando investimentos em inteligência artificial"

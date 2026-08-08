@@ -5,7 +5,7 @@ draft: false
 description: With the launch of LYNN, TOTVS enters the proprietary artificial intelligence
   race and reinforces an important trend in the Brazilian B2B market.
 categories:
-- Inteligência Artificial
+  - "artificial-intelligence"
 cover:
   image: capa.webp
   alt: New phase of corporate artificial intelligence at TOTVS

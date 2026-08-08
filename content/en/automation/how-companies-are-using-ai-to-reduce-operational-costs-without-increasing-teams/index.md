@@ -5,7 +5,7 @@ description: Understand how companies are applying artificial intelligence to re
 slug: how-companies-are-using-ai-to-reduce-operational-costs-without-increasing-teams
 date: 2026-04-12
 categories:
-- automation
+  - "automation"
 tags:
 - inteligencia artificial
 - automacao empresarial

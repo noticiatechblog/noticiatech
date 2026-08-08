@@ -4,7 +4,7 @@ date: 2026-05-27T06:10:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "Empresas começam a criar funcionários digitais movidos por inteligência artificial para executar tarefas operacionais, suporte interno e processos corporativos de forma autônoma."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Funcionários digitais de IA operando sistemas corporativos em ambiente empresarial moderno"

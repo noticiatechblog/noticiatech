@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "A decisão da Anthropic de restringir o acesso aos modelos Claude Fable 5 e Claude Mythos 5 levanta dúvidas sobre dependência tecnológica, governança de IA e impacto para empresas que utilizam inteligência artificial em operações críticas."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Representação da restrição de acesso aos modelos avançados Claude Fable 5 e Claude Mythos 5 da Anthropic"

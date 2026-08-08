@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Learn how to implement MCP in enterprises, which components make up the architecture, how to integrate corporate systems, and why the protocol has become a strategic layer for AI agents."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "MCP architecture connecting AI agents to enterprise systems"

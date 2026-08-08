@@ -1,8 +1,11 @@
 ---
 title: "Google integra IA ao buscador e muda o jogo do SEO para empresas"
+aliases:
+  - "/inteligencia-artificial/google-integra-ia-diretamente-no-buscador-e-muda-a-forma-como-empresas-aparem-online/"
 description: "A integração de inteligência artificial no buscador do Google está mudando o SEO, reduzindo cliques e obrigando empresas a repensarem suas estratégias de conteúdo."
 date: 2026-04-18
-categories: ["ia"]
+categories:
+  - "inteligencia-artificial"
 draft: false
 
 cover:

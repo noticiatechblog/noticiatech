@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "A evolução dos CRMs com inteligência artificial está transformando vendas, atendimento e relacionamento com clientes. Entenda como os agentes de IA estão mudando o mercado corporativo."
 categories:
-  - "Negócios"
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "Painel de CRM com inteligência artificial e agentes autônomos analisando clientes"

@@ -6,7 +6,7 @@ description: Comparison between ChatGPT and Gemini shows which platform can deli
 date: 2026-05-02 08:05:00-03:00
 draft: false
 categories:
-- artificial-intelligence
+  - "artificial-intelligence"
 cover:
   image: capa.webp
   alt: Comparison between ChatGPT and Gemini in a corporate environment

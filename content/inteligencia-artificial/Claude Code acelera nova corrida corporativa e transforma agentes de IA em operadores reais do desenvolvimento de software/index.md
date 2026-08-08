@@ -5,7 +5,7 @@ date: 2026-06-01T08:10:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "A evolução do Claude Code mostra que a disputa da inteligência artificial deixou de ser apenas sobre chatbots. Empresas começam a utilizar agentes autônomos para executar desenvolvimento, auditoria e operações complexas de software."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Claude Code representa a nova geração de agentes autônomos para desenvolvimento corporativo"

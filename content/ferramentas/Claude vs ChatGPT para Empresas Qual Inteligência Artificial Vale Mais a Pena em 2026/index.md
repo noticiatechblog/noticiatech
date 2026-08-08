@@ -5,8 +5,7 @@ date: 2026-06-06T00:20:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "Claude ou ChatGPT? Descubra qual inteligência artificial entrega mais valor para empresas em produtividade, automação, agentes de IA, segurança, governança e escalabilidade em 2026."
 categories:
-  - "Ferramentas"
-
+  - "ferramentas"
 cover:
   image: "capa.webp"
   alt: "Comparação entre Claude e ChatGPT para empresas em 2026"

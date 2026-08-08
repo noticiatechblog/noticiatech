@@ -5,7 +5,7 @@ author: Aluisio Soares, founder of the blog Notícia Tech
 description: The rise of AI-assisted programming platforms is accelerating productivity,
   reducing operational costs, and transforming the economics of software development.
 categories:
-- Inteligência Artificial
+  - "artificial-intelligence"
 cover:
   image: capa.webp
   alt: Developers using AI programming platforms in a futuristic corporate environment
@@ -67,7 +67,7 @@ This scenario has already started to gain strength within OpenAI itself.
 
 Notícia Tech recently analyzed how the advancement of **Codex** and programming agents can transform VS Code into one of the most strategic platforms in the technology industry:
 
-[OpenAI begins to reduce dependence on Microsoft and the AI market enters a new billion-dollar war](https://noticiatech.com.br/inteligencia-artificial/openai-come%C3%A7a-a-redutor-depend%C3%AAncia-da-microsoft-e-mercado-de-ia-entra-em-nova-guerra-bilion%C3%A1ria/)
+[OpenAI begins to reduce dependence on Microsoft and the AI market enters a new billion-dollar war](https://noticiatech.com.br/inteligencia-artificial/openai-come?a-a-reduzir-depend?ncia-da-microsoft-e-mercado-de-ia-entra-em-nova-guerra-bilion?ria/)
 
 ### Productivity begins to grow at unprecedented speed
 

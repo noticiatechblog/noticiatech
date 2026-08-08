@@ -1,11 +1,13 @@
 ---
 title: "MCP pode se tornar a infraestrutura invisível que conecta agentes de IA aos sistemas corporativos"
 slug: "mcp-infraestrutura-conecta-agentes-ia-sistemas-corporativos"
+aliases:
+  - "/inteligencia-artificial/mcp-pode-se-tornar-a-infraestrutura-invisivel-que-conecta-agentes-de-ia-aos-sistemas-corporativos/"
 date: 2026-06-03T00:20:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "O avanço do Model Context Protocol está criando uma nova camada de integração entre agentes de IA, ERPs, CRMs e sistemas corporativos. Entenda por que o MCP pode se tornar a infraestrutura invisível da próxima geração de software empresarial."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Infraestrutura MCP conectando agentes de IA a sistemas corporativos"

@@ -29,7 +29,6 @@ ignoreLogs = ['warning-goldmark-raw-html']
   changefreq = "weekly"
   priority = 0.7
   filename = "sitemap.xml"
-  disableKinds = ["taxonomy", "term"]
 
 # ===== IDIOMAS =====
 [languages]
@@ -184,23 +183,6 @@ weight = 5
 # ===== OUTPUTS =====
 [outputs]
   home = ["HTML", "RSS", "JSON"]
-
-# ===== CASCADE PARA PÁGINAS DE CATEGORIA =====
-[[cascade]]
-  [cascade._target]
-    path = '/categories'
-  [cascade.params]
-    robotsNoIndex = true
-  [cascade.sitemap]
-    disable = true
-
-[[cascade]]
-  [cascade._target]
-    path = '/categories/**'
-  [cascade.params]
-    robotsNoIndex = true
-  [cascade.sitemap]
-    disable = true
 
 # ===== TAXONOMIAS =====
 [taxonomies]

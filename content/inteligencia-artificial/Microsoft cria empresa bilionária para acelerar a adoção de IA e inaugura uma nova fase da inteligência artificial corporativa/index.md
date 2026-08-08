@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Nova iniciativa de US$ 2,5 bilhões mostra que a Microsoft pretende liderar a implementação de inteligência artificial nas empresas e reduzir a dependência de um único modelo de IA."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Executivos da Microsoft analisando estratégias para acelerar a adoção de inteligência artificial nas empresas."

@@ -9,7 +9,7 @@ description: While OpenAI, Google and Nvidia compete for market attention, Oracl
   Larry Ellison at the center of global technological transformation and creates new
   opportunities for companies.
 categories:
-- business
+  - "business"
 cover:
   image: capa.webp
   alt: Larry Ellison and Oracle's Rise in Global Artificial Intelligence Infrastructure

@@ -7,7 +7,7 @@ description: LinkedIn is no longer just a professional network and is beginning 
   consolidate itself as a strategic B2B distribution platform driven by artificial
   intelligence, digital authority and algorithmic discovery.
 categories:
-- business
+  - "business"
 cover:
   image: capa.webp
   alt: Executive analyzing authority growth on LinkedIn with artificial intelligence
@@ -15,6 +15,8 @@ cover:
   caption: MARKETING | LinkedIn begins to assume a strategic role in corporate content
     distribution driven by artificial intelligence.
 slug: linkedin-stops-being-a-resume-network-and-becomes-a-b2b-distribution-platform-powered-by-ai
+aliases:
+  - "/en/business/linkedin-stops-being-a-resume-network-and-becomes-an-ai-powered-b2b-distribution-platform/"
 ---
 
 *The advancement of artificial intelligence is silently changing the logic of corporate digital discovery. While companies are still trying to understand the impact of GEO, AI Overviews and generative search, a parallel transformation is beginning to accelerate within LinkedIn itself. The platform that for years was seen solely as a space for resumes and professional networking is now entering a new phase: becoming a B2B distribution infrastructure based on algorithmic authority, specialized content and corporate influence.*
@@ -62,7 +64,7 @@ are now starting to use LinkedIn as infrastructure for:
 This movement speaks directly to the transformation already observed in content about GEO and algorithmic discovery previously published by Notícia Tech:
 
 - [GEO is replacing SEO: how AI search can change internet traffic](https://noticiatech.com.br/inteligencia-artificial/geo-est%C3%A1-substituindo-o-seo-como-a-busca-por-ia-pode-mudar-o-tr%C3%A1fego-da-internet/)
-- [Google integrates AI directly into the search engine and changes the way companies appear online](https://noticiatech.com.br/inteligencia-artificial/google-integra-ia-diretamente-no-buscador-e-muda-a-forma-como-empresas-aparem-online/)
+- [Google integrates AI directly into the search engine and changes the way companies appear online](https://noticiatech.com.br/inteligencia-artificial/google-integra-ia-diretamente-no-buscador-e-muda-a-forma-como-empresas-aparecem-online/)
 
 ### The Growth of Executive Content Is Changing B2B Marketing
 

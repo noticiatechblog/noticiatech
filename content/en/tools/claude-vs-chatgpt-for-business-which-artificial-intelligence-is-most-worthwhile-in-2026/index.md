@@ -8,7 +8,7 @@ description: Claude or ChatGPT? Discover which artificial intelligence delivers 
   most value to companies in productivity, automation, AI agents, security, governance
   and scalability in 2026.
 categories:
-- tools
+  - "tools"
 cover:
   image: capa.webp
   alt: Comparison between Claude and ChatGPT for Business in 2026

@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "The creation of the Agentic AI Foundation by OpenAI, Anthropic and Block marks a new phase of enterprise artificial intelligence focused on open standards, interoperability and intelligent agents."
 categories:
-  - Artificial Intelligence
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "The Agentic AI Foundation brings together OpenAI, Anthropic and Block to create open standards for AI agents."

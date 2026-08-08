@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Google Gemini and ChatGPT are turning vehicles into intelligent platforms. Discover how embedded artificial intelligence is reshaping the driving experience, accelerating the automotive industry, and creating new opportunities for businesses."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Modern vehicle powered by Google Gemini and ChatGPT integrated into its intelligent onboard systems."

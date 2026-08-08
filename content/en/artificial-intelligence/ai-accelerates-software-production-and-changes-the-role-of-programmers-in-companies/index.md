@@ -2,7 +2,8 @@
 title: AI accelerates software production and changes the role of programmers in companies
 date: 2026-05-13 07:05:00-03:00
 author: By Aluisio Soares, founder of the blog Notícia Tech
-category: IA
+categories:
+  - "artificial-intelligence"
 cover:
   image: capa.webp
   alt: Developers using artificial intelligence to accelerate software creation

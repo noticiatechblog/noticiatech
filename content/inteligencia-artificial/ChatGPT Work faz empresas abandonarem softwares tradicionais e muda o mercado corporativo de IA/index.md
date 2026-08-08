@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "O crescimento do ChatGPT Work mostra que agentes de IA estão substituindo softwares tradicionais nas empresas. Entenda o impacto para OpenAI, Microsoft, Google e o futuro do mercado corporativo."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Executivo observando painel corporativo enquanto agentes de IA substituem softwares tradicionais nas empresas"

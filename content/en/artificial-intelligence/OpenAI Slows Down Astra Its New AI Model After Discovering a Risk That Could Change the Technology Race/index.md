@@ -6,7 +6,7 @@ date: 2026-08-08T00:20:00-03:00
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "OpenAI strengthened Astra's security after identifying critical cybersecurity capabilities. Here's why the discovery could reshape the AI race."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "OpenAI Astra new artificial intelligence model being evaluated for cybersecurity capabilities"

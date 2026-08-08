@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "The race for AI agents is accelerating, but governance is emerging as the biggest corporate challenge. Learn why companies may abandon Agentic AI projects and what they can do to avoid that outcome."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Executives analyzing AI agent governance in a corporate environment"

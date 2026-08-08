@@ -6,7 +6,7 @@ date: 2026-06-24T00:30:00-03:00
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "O AI Summit Exame 2026 mostrou como a inteligência artificial deixou de ser uma aposta experimental para se tornar uma prioridade estratégica nas empresas. Entenda os sinais mais importantes para o mercado."
 categories:
-  - "IA"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Executivos discutindo estratégias de inteligência artificial durante o AI Summit Exame 2026"

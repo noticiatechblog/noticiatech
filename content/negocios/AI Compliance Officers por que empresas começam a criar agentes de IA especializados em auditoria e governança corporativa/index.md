@@ -4,7 +4,7 @@ date: 2026-05-28T06:10:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "Empresas começam a utilizar agentes de IA especializados em compliance, auditoria e governança para reduzir riscos regulatórios, monitorar operações e preparar negócios para a nova economia da inteligência artificial."
 categories:
-  - "Negócios"
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "Executivos analisando painéis de compliance com agentes de IA corporativos"

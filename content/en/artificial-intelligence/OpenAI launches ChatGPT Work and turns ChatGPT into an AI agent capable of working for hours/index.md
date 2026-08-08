@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "OpenAI has introduced ChatGPT Work, an AI agent capable of performing complex business tasks for extended periods. Learn how this launch could reshape enterprise automation, productivity and the future of work."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Business executive using ChatGPT Work in a corporate environment to automate business workflows"

@@ -6,7 +6,7 @@ date: 2026-06-15T00:30:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "Decisão do governo dos Estados Unidos de restringir o acesso aos modelos Fable 5 e Mythos 5 da Anthropic sinaliza que a inteligência artificial passou a ser tratada como ativo estratégico de segurança nacional."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Geopolítica da inteligência artificial e bloqueio dos modelos avançados da Anthropic pelos Estados Unidos"

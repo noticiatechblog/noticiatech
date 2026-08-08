@@ -6,7 +6,7 @@ date: 2026-08-02T00:20:00-03:00
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "A OpenAI confirmou que trabalha em uma nova família de dispositivos com ChatGPT. Entenda por que a empresa quer controlar também o hardware e como essa estratégia pode desafiar Apple e Google."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Conceito de um dispositivo de IA da OpenAI com interface do ChatGPT"

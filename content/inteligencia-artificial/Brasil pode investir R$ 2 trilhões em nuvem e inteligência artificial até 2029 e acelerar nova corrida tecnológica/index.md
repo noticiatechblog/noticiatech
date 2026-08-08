@@ -1,9 +1,11 @@
 ---
 title: "Brasil pode investir R$ 2 trilhões em nuvem e inteligência artificial até 2029 e acelerar nova corrida tecnológica"
+aliases:
+  - "/inteligencia-artificial/brasil-pode-investir-r-2-trilh?es-em-nuvem-e-intelig?ncia-artificial-at?-2029-e-acelerar-nova-riedade-tecnol?gica/"
 date: "2026-05-14T06:50:00-03:00"
 author: "Aluisio Soares, fundador do blog Notícia Tech"
-category: "Inteligência Artificial"
-
+categories:
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Infraestrutura digital e inteligência artificial impulsionando transformação tecnológica no Brasil"

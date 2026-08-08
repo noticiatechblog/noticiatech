@@ -4,7 +4,7 @@ date: 2026-05-17T06:00:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "A ascensão de plataformas de programação assistida por IA está acelerando produtividade, reduzindo custos operacionais e transformando a lógica econômica do desenvolvimento de software."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Desenvolvedores utilizando plataformas de programação com IA em ambiente corporativo futurista"

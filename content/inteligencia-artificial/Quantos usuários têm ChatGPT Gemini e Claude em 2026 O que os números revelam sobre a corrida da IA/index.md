@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Os números mais recentes de usuários do ChatGPT, Gemini e Claude mostram como a disputa pela liderança da inteligência artificial vai além da tecnologia e influencia a estratégia das empresas."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Comparação entre ChatGPT, Gemini e Claude baseada no crescimento da base de usuários em 2026."

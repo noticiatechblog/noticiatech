@@ -6,7 +6,7 @@ description: Companies accelerate the adoption of artificial intelligence agents
   of performing tasks, automating operations and reducing dependence on traditional
   software.
 categories:
-- automation
+  - "automation"
 cover:
   image: capa.webp
   alt: Artificial intelligence agents replacing traditional enterprise software
@@ -122,7 +122,7 @@ This change may affect:
 
 The movement also connects to the growing global dispute over AI infrastructure and control of corporate ecosystems:
 
-[OpenAI begins to reduce dependence on Microsoft and the AI market enters a new billion-dollar war](https://noticiatech.com.br/inteligencia-artificial/openai-come%C3%A7a-a-redutor-depend%C3%AAncia-da-microsoft-e-mercado-de-ia-entra-em-nova-guerra-bilion%C3%A1ria/)
+[OpenAI begins to reduce dependence on Microsoft and the AI market enters a new billion-dollar war](https://noticiatech.com.br/inteligencia-artificial/openai-come?a-a-reduzir-depend?ncia-da-microsoft-e-mercado-de-ia-entra-em-nova-guerra-bilion?ria/)
 
 ## AI-first companies begin to gain competitive advantage
 

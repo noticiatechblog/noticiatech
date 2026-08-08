@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Anthropic is gaining ground against OpenAI in enterprise adoption and developer preference, raising questions about who will lead the next phase of artificial intelligence."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "OpenAI and Anthropic compete for leadership in the artificial intelligence market"

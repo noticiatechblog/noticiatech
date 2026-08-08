@@ -4,7 +4,7 @@ date: 2026-05-26T06:10:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "Navegadores com inteligência artificial começam a substituir buscas tradicionais, automatizar tarefas e criar uma nova camada operacional dentro das empresas. Entenda por que Google, OpenAI, Microsoft e Perplexity aceleram a corrida pelos AI Browsers."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Executivo observando navegador com inteligência artificial operando fluxos corporativos automatizados"

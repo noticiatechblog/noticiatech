@@ -6,8 +6,7 @@ date: 2026-06-13T00:30:00-03:00
 author: "Aluisio Soares, founder of Notícia Tech"
 description: "The investigation involving OpenAI comes as the company accelerates its IPO plans and expands its AI agent strategy, creating a new debate around governance, accountability, and corporate risk."
 categories:
-  - "Artificial Intelligence"
-
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "OpenAI faces investigation while accelerating its IPO plans and AI agent expansion"

@@ -7,7 +7,7 @@ description: Companies are discovering that AI agents rely on structured context
   function at scale. AI Knowledge Graphs are beginning to emerge as a new strategic
   layer of corporate intelligence.
 categories:
-- business
+  - "business"
 cover:
   image: capa.webp
   alt: Executives analyzing holographic structure of AI-connected corporate data

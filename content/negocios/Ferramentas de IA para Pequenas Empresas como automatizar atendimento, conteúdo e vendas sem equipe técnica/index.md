@@ -4,7 +4,7 @@ date: 2026-05-25T06:00:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "Pequenas empresas estão adotando ferramentas de IA para automatizar atendimento, marketing e operações sem depender de equipes técnicas. Entenda quais soluções realmente geram eficiência e vantagem competitiva."
 categories:
-  - "Negócios"
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "Empresário utilizando ferramentas de inteligência artificial para automatizar operações de uma pequena empresa"

@@ -7,7 +7,7 @@ description: Sundar Pichai's strategy puts AI agents at the center of Google's e
   and could redefine how companies sell, operate and compete for attention in the
   digital economy.
 categories:
-- business
+  - "business"
 cover:
   image: capa.webp
   alt: Sundar Pichai leading Google's new AI agent strategy

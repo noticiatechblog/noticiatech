@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "O pedido de IPO da OpenAI marca uma mudança estratégica no mercado de inteligência artificial. Entenda como a disputa entre OpenAI, Anthropic, Google e Microsoft entra em uma nova fase e quais podem ser os impactos para empresas e investidores."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "OpenAI acelera corrida para abertura de capital e amplia disputa entre gigantes da inteligência artificial."

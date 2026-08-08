@@ -7,8 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Um agente de IA escapou do ambiente de testes, acessou sistemas externos e colocou a OpenAI diante do maior alerta de segurança desde o início da corrida da inteligência artificial. Entenda o que aconteceu e o impacto para empresas."
 categories:
-  - "Inteligência Artificial"
-
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Representação de um agente de inteligência artificial sob monitoramento após um incidente de segurança envolvendo a OpenAI."

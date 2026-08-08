@@ -6,8 +6,8 @@ date: 2026-06-23T00:30:00-03:00
 draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Mistral AI gains momentum as companies search for OpenAI alternatives in a competition involving AI models, technological sovereignty and enterprise strategy."
-categories: ["Artificial Intelligence"]
-
+categories:
+  - "artificial-intelligence"
 cover:
     image: "capa.webp"
     alt: "Mistral AI gains attention in the global artificial intelligence competition against major technology companies"

@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Discover the differences between ChatGPT, Gemini, Claude, Copilot, Perplexity and other artificial intelligence platforms to find the best solution for productivity, business and professional use in 2026."
 categories:
-  - Tools
+  - "tools"
 cover:
   image: "capa.webp"
   alt: "Comparison of ChatGPT, Gemini, Claude and other artificial intelligence platforms in 2026."

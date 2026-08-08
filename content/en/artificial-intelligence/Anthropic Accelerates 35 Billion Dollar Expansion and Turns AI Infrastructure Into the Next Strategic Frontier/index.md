@@ -6,7 +6,7 @@ date: 2026-06-16T00:30:00-03:00
 author: "Aluisio Soares"
 description: "Anthropic’s $35 billion expansion signals that the next phase of the artificial intelligence race will be defined not only by models, but by the infrastructure required to operate them at global scale."
 categories:
-  - Artificial Intelligence
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Anthropic artificial intelligence infrastructure"

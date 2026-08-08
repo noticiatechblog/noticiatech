@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "The rapid growth of ChatGPT Work suggests AI agents are beginning to replace traditional enterprise software. Discover what this means for OpenAI, Microsoft, Google and the future of business technology."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Business executive analyzing dashboards as AI agents replace traditional enterprise software"

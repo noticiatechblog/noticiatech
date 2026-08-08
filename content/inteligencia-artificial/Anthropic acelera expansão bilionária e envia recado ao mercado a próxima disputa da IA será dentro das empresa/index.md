@@ -3,7 +3,8 @@ title: "Anthropic acelera expansão bilionária e envia recado ao mercado: a pr�
 date: 2026-05-06T07:50:00-03:00
 draft: false
 description: "A nova movimentação bilionária da Anthropic reforça que a guerra da inteligência artificial deixou de ser tecnológica e virou disputa por espaço dentro das operações empresariais."
-categories: ["inteligencia-artificial"]
+categories:
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
 ---

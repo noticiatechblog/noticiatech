@@ -6,7 +6,7 @@ draft: false
 description: Global companies expand their presence in Brazil and place the country
   at the center of the new corporate race for artificial intelligence.
 categories:
-- Inteligência Artificial
+  - "artificial-intelligence"
 cover:
   image: capa.webp
   alt: Brazil at the center of the global expansion of artificial intelligence

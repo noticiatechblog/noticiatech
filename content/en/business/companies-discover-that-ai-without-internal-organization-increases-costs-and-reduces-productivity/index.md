@@ -7,7 +7,7 @@ description: Large companies are beginning to realize that implementing artifici
   intelligence without an adequate operational structure is creating new bottlenecks,
   increasing hidden costs and reducing corporate efficiency.
 categories:
-- business
+  - "business"
 cover:
   image: capa.webp
   alt: Executives analyzing operational failures caused by disorganized adoption of

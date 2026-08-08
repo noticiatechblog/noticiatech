@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Entenda como implementar MCP em empresas, quais componentes compõem a arquitetura, como integrar sistemas corporativos e por que o protocolo se tornou uma peça estratégica para agentes de IA."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Arquitetura MCP conectando agentes de IA a sistemas corporativos"

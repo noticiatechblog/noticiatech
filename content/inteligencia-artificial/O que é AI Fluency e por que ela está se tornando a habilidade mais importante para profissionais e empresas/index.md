@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Entenda o que é AI Fluency, por que essa competência está ganhando importância nas empresas e como profissionais podem desenvolver fluência em inteligência artificial para aumentar produtividade e competitividade."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Profissionais utilizando inteligência artificial para tomada de decisões estratégicas nas empresas"

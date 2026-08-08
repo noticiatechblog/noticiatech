@@ -6,7 +6,7 @@ description: Meta expands its focus on robotics with the acquisition of Assured 
   Intelligence and reinforces a movement that could impact logistics, industry and
   retail.
 categories:
-- automation
+  - "automation"
 cover:
   image: capa.webp
   alt: Intelligent robotics applied to business operations

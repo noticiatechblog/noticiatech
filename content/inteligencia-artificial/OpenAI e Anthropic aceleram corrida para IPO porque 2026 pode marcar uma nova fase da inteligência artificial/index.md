@@ -12,8 +12,7 @@ hideAuthor: true
 description: "A possível abertura de capital da OpenAI e o movimento semelhante da Anthropic indicam uma nova etapa da inteligência artificial. Entenda como a corrida por investimentos pode transformar o mercado corporativo."
 
 categories:
-  - Inteligência Artificial
-
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "OpenAI e Anthropic aceleram corrida para IPO e iniciam uma nova fase da inteligência artificial."

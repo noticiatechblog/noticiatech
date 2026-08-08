@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "A corrida pelos agentes de IA está acelerando, mas a governança surge como o principal desafio corporativo. Entenda por que empresas podem abandonar projetos de Agentic AI e o que fazer para evitar esse cenário."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Executivos analisando governança de agentes de IA em ambiente corporativo"

@@ -5,7 +5,7 @@ date: 2026-06-03T08:10:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "A nova captação bilionária da Alphabet mostra que a disputa pela inteligência artificial deixou de ser apenas uma corrida de modelos e passou a ser uma batalha por infraestrutura, energia e capacidade computacional."
 categories:
-  - "Negócios"
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "Sundar Pichai CEO da Google e da Alphabet"

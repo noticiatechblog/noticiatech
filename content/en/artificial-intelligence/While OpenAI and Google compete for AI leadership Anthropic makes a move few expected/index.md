@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Anthropic is making a strategic shift as AI regulation gains momentum worldwide. Discover why this move could reshape the competition with OpenAI and Google while influencing enterprise AI adoption."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Anthropic executives standing before a visual representation of the global AI race involving OpenAI and Google."

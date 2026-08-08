@@ -7,8 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Learn who can access your conversations with ChatGPT, Claude, Gemini, Grok and Perplexity, how AI companies handle your data, and the best practices to protect sensitive business information."
 categories:
-  - "Artificial Intelligence"
-
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Professional using AI assistants while digital data streams symbolize conversation privacy."

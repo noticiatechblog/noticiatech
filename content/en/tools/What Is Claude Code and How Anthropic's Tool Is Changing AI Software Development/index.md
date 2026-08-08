@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Learn what Claude Code is, how Anthropic's AI-powered development tool works, its real-world use cases, benefits, limitations, and why it may reshape enterprise software development."
 categories:
-  - "Tools"
+  - "tools"
 cover:
   image: "capa.webp"
   alt: "Software developer using Claude Code to build applications with artificial intelligence"

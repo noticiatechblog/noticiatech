@@ -7,7 +7,7 @@ description: The B2A model — Business to AI — is changing how companies posi
 date: 2026-05-05 07:50:00-03:00
 draft: false
 categories:
-- artificial-intelligence
+  - "artificial-intelligence"
 cover:
   image: capa.webp
   alt: Brazilian company adapting its digital presence to artificial intelligence

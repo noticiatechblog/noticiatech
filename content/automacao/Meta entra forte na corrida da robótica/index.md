@@ -3,7 +3,8 @@ title: "Meta entra forte na corrida da robótica: o que empresas precisam observ
 date: 2026-05-03T08:00:00-03:00
 draft: false
 description: "A Meta amplia sua aposta em robótica com a aquisição da Assured Robot Intelligence e reforça um movimento que pode impactar logística, indústria e varejo."
-categories: ["Automação"]
+categories:
+  - "automacao"
 cover:
   image: "capa.webp"
   alt: "Robótica inteligente aplicada a operações empresariais"

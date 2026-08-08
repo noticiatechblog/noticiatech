@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Learn what AI First is, how this strategy works, and why companies are reorganizing processes, products, and operations around artificial intelligence."
 categories:
-  - "Business"
+  - "business"
 cover:
   image: "capa.webp"
   alt: "Executives analyzing an AI First strategy in a corporate environment"

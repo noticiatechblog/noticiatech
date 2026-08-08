@@ -7,7 +7,7 @@ description: Companies are starting to create digital employees powered by artif
   intelligence to perform operational tasks, internal support and corporate processes
   autonomously.
 categories:
-- Inteligência Artificial
+  - "artificial-intelligence"
 cover:
   image: capa.webp
   alt: AI digital workers operating enterprise systems in modern business environment

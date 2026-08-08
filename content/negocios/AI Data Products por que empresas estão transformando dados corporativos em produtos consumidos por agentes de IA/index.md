@@ -5,7 +5,7 @@ date: 2026-05-31T08:10:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "Empresas descobrem que dados brutos não são suficientes para agentes inteligentes. A nova tendência é transformar informações internas em produtos estruturados para acelerar decisões, automações e vantagem competitiva."
 categories:
-  - Negócios
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "Executivos analisando ecossistema de dados corporativos conectado a agentes de inteligência artificial"

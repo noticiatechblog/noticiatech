@@ -7,7 +7,7 @@ description: Small businesses can now automate service, sales, marketing, financ
   and support with artificial intelligence to reduce costs and gain productivity.
 author: Aluisio Soares, founder of the blog Notícia Tech
 categories:
-- Processos
+  - "automation"
 cover:
   image: capa.webp
   alt: Small business using artificial intelligence to automate operational and commercial

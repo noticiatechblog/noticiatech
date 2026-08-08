@@ -8,7 +8,7 @@ description: Companies are adjusting structure, content and digital authority to
   in artificial intelligence responses. Understand how SEO for AI works in practice.
 author: By Aluisio Soares, founder of Blog Notícia Tech
 categories:
-- Inteligência Artificial
+  - "artificial-intelligence"
 cover:
   image: capa.webp
   alt: SEO for AI and Optimization for Generative Engines

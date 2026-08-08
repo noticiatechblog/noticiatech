@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares Founder of Notícia Tech"
 description: "Anthropic's decision to restrict access to Claude Fable 5 and Claude Mythos 5 raises new questions about technology dependence AI governance and the impact on companies using artificial intelligence in critical operations."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Illustration of restricted access to Anthropic's advanced Claude Fable 5 and Claude Mythos 5 models"

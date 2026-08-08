@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Entenda por que a nova geração de agentes de IA representa uma mudança estrutural na automação empresarial e como tecnologias como MCP, AI Orchestration, n8n e Zapier estão redefinindo os processos corporativos."
 categories:
-  - "Automação"
+  - "automacao"
 cover:
   image: "capa.webp"
   alt: "Agentes de IA executando processos empresariais automatizados em ambiente corporativo"

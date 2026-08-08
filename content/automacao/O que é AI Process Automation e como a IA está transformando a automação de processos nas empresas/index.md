@@ -8,8 +8,7 @@ author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Entenda o que é AI Process Automation, como essa tecnologia funciona, quais são seus benefícios, diferenças para RPA e por que ela está mudando a automação empresarial."
 
 categories:
-  - "Automação"
-
+  - "automacao"
 cover:
   image: "capa.webp"
   alt: "Fluxo corporativo automatizado por inteligência artificial conectando processos empresariais."

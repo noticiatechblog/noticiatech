@@ -8,8 +8,7 @@ author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Learn what AI Process Automation is, how it works, how it differs from RPA, its business benefits, and why it is becoming a key technology for digital transformation."
 
 categories:
-  - "Automation"
-
+  - "automation"
 cover:
   image: "capa.webp"
   alt: "Business workflow automated by artificial intelligence connecting enterprise processes."

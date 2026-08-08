@@ -7,7 +7,7 @@ description: Understand how Search Everywhere Optimization is transforming the f
   for digital traffic and why companies are reformulating content strategies to appear
   in AI engines, social networks and conversational platforms.
 categories:
-- Inteligência Artificial
+  - "artificial-intelligence"
 cover:
   image: capa.webp
   alt: Executives analyzing digital ecosystem dominated by AI, social networks and
@@ -42,7 +42,7 @@ This means that companies that rely solely on traditional Google traffic begin t
 
 The phenomenon is directly connected to the change already observed in the corporate market around artificial intelligence and new digital navigation models. The advancement of AI browsers shows how the web is migrating to more intelligent conversational interfaces that are less dependent on classic link-based navigation. This movement already appears in recent analyzes by Notícia Tech itself about how **Google**, **OpenAI** and **Perplexity** are accelerating the race for browsers with AI and changing the traditional web economy.
 
-[Google, OpenAI and Perplexity accelerate the race for AI browsers and threaten the traditional web economy](https://noticiatech.com.br/inteligencia-artificial/google-openai-e-perplexity-aceleram-riedade-pelos-navegadores-com-ia-e-amea%C3%A7am-a-economia-tradicional-da-web/)
+[Google, OpenAI and Perplexity accelerate the race for AI browsers and threaten the traditional web economy](https://noticiatech.com.br/inteligencia-artificial/google-openai-e-perplexity-aceleram-corrida-pelos-navegadores-com-ia-e-amea?am-a-economia-tradicional-da-web/)
 
 ### The modern user searches in layers
 

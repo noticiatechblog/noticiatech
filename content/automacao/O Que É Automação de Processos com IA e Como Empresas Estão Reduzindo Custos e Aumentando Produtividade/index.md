@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Entenda o que é automação de processos com IA, como funciona, quais os benefícios para empresas e por que a tecnologia está transformando operações corporativas."
 categories:
-  - "Automação"
+  - "automacao"
 cover:
   image: "capa.webp"
   alt: "Automação de processos com inteligência artificial em ambiente corporativo"
@@ -32,7 +32,7 @@ A automação de processos com **IA** é a utilização de sistemas inteligentes
 
 ## O que diferencia a automação inteligente?
 
-![Automação inteligente conectando sistemas empresariais](imagem1.webp)
+![Automação inteligente conectando sistemas empresariais](imagem-1.webp)
 
 *Automação inteligente permite que sistemas compreendam contexto, dados e linguagem natural.*
 
@@ -60,7 +60,7 @@ Esses agentes podem executar múltiplas tarefas, acessar sistemas e coordenar fl
 
 A automação de processos com IA funciona combinando dados, modelos de inteligência artificial e integrações entre sistemas corporativos.
 
-![Fluxos empresariais automatizados com inteligência artificial](imagem2.webp)
+![Fluxos empresariais automatizados com inteligência artificial](imagem-2.webp)
 
 *Integrações inteligentes permitem que informações circulem automaticamente entre plataformas.*
 
@@ -90,7 +90,7 @@ Para entender melhor esse cenário, vale conhecer os artigos [O que é RAG? Guia
 
 A automação com IA gera ganhos de produtividade, escalabilidade e redução de custos operacionais.
 
-![Equipe utilizando dashboards e automação baseada em IA](imagem3.webp)
+![Equipe utilizando dashboards e automação baseada em IA](imagem-3.webp)
 
 *Empresas utilizam IA para acelerar operações sem ampliar proporcionalmente as equipes.*
 

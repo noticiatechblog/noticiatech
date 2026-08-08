@@ -1,10 +1,13 @@
 ---
 title: "Google, OpenAI e Perplexity aceleram corrida pelos navegadores com IA e ameaçam a economia tradicional da web"
+aliases:
+  - "/inteligencia-artificial/google-openai-e-perplexity-aceleram-riedade-pelos-navegadores-com-ia-e-amea?am-a-economia-tradicional-da-web/"
+  - "/inteligencia-artificial/google-openai-e-perplexity-aceleram-corrida-pelos-navegadores-com-ia-e-ameacam-a-economia-tradicional-da-web/"
 date: 2026-05-20T06:10:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "A disputa entre navegadores com inteligência artificial entra em uma nova fase em 2026 e pode redefinir publicidade, buscas, SaaS e a própria economia da internet corporativa."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Executivos de tecnologia observando interfaces de navegadores com IA em ambiente corporativo futurista"

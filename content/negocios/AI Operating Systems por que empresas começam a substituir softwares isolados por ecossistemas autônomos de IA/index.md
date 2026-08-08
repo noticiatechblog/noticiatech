@@ -4,7 +4,7 @@ date: 2026-05-25T06:10:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "Empresas estão deixando de usar ferramentas isoladas para construir verdadeiros sistemas operacionais corporativos movidos por IA. A mudança pode redefinir produtividade, automação, software B2B e o futuro do trabalho digital."
 categories:
-  - "Negócios"
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "Executivos observando um sistema operacional corporativo movido por inteligência artificial"

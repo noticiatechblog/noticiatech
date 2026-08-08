@@ -8,7 +8,7 @@ description: Google introduced Gemini Spark during Google I/O 2026 and placed au
   Google's new continuous AI works, its impacts on companies, productivity, the job
   market and the future of computing.
 categories:
-- IA
+  - "artificial-intelligence"
 cover:
   image: capa.webp
   alt: Google's Gemini Spark operating multiple autonomous tasks in futuristic corporate

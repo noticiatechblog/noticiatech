@@ -7,7 +7,7 @@ date: 2026-04-29 08:30:00-03:00
 draft: false
 slug: how-companies-are-using-ai-to-bill-customers-reduce-bad-debts-and-recover-revenue
 categories:
-- business
+  - "business"
 cover:
   image: capa.webp
   alt: Intelligent automated billing system
@@ -45,7 +45,7 @@ And defaults grow.
 
 Furthermore, billing manually requires time from people who could be focused on more strategic areas.
 
-This same movement of replacing operational tasks with automation has already been happening in other sectors, as we showed in the article about [how companies are using AI to reduce operational costs without increasing teams](https://noticiatech.com.br/automacao/como-empresas-usam-ia-para-redutor-custos-operacionais/).
+This same movement of replacing operational tasks with automation has already been happening in other sectors, as we showed in the article about [how companies are using AI to reduce operational costs without increasing teams](https://noticiatech.com.br/automacao/como-empresas-usam-ia-para-reduzir-custos-operacionais/).
 
 ## How AI is changing billing logic
 
@@ -181,7 +181,7 @@ Communication is:
 
 This reduces embarrassment and improves the process.
 
-It is part of the same movement that is already redesigning business processes, as we showed in the article about [why companies are redesigning internal processes with AI instead of just automating tasks](https://noticiatech.com.br/negocios/por-que-empresas-est%C3%A3o-redesenhando-processos-internos-com-ia-e-n%C3%A3o-just-automatizando-trabalhos/).
+It is part of the same movement that is already redesigning business processes, as we showed in the article about [why companies are redesigning internal processes with AI instead of just automating tasks](https://noticiatech.com.br/negocios/por-que-empresas-est?o-redesenhando-processos-internos-com-ia-e-n?o-apenas-automatizando-tarefas/).
 
 ## The next big automation for companies could be in finance
 

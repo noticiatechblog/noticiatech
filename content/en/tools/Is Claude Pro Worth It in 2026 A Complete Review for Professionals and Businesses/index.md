@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Find out whether Claude Pro is worth paying for in 2026, which features justify the subscription, who should upgrade, and how it compares with the leading AI assistants on the market."
 categories:
-  - "Tools"
+  - "tools"
 cover:
   image: "capa.webp"
   alt: "Professional using Claude Pro in a modern corporate workspace."

@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Learn why the new generation of AI agents represents a structural shift in enterprise automation and how technologies such as MCP, AI Orchestration, n8n and Zapier are redefining business processes."
 categories:
-  - "Automation"
+  - "automation"
 cover:
   image: "capa.webp"
   alt: "AI agents executing automated business workflows across enterprise systems"

@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "A disputa entre ChatGPT, Gemini e Claude entra em uma nova fase. A memória permanente passa a ser um dos principais diferenciais para empresas que buscam produtividade, personalização e agentes de IA mais inteligentes."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "ChatGPT, Gemini e Claude disputam liderança em recursos de memória permanente para inteligência artificial."

@@ -5,7 +5,7 @@ slug: "glm-5-2-chinese-ai-model-challenges-chatgpt-global-enterprise-ai-race"
 translationKey: "glm-5-2-modelo-chines-supera-chatgpt-corrida-ia-corporativa"
 date: 2026-07-01T00:30:00-03:00
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 draft: false
 
 author: "By Aluisio Soares, founder of Notícia Tech"

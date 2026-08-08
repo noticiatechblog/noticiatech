@@ -6,7 +6,7 @@ date: 2026-06-09T00:30:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "A estratégia de inteligência artificial da Apple pode transformar o iPhone em uma nova camada operacional para empresas e ampliar a disputa entre Apple, OpenAI, Google e Microsoft pela próxima interface da computação."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Apple acelera estratégia de inteligência artificial para empresas"
@@ -125,7 +125,7 @@ Em vez de procurar informações manualmente, usuários poderão delegar tarefas
 
 Essa transformação aparece em iniciativas ligadas a navegadores inteligentes, agentes corporativos e plataformas operacionais baseadas em IA.
 
-O tema foi explorado pelo Notícia Tech em [Google, OpenAI e Perplexity aceleram corrida pelos navegadores com IA e ameaçam a economia tradicional da web](https://noticiatech.com.br/inteligencia-artificial/google-openai-e-perplexity-aceleram-corrida-pelos-navegadores-com-ia-e-ameacam-a-economia-tradicional-da-web/) e também em [OpenAI e Salesforce aceleram a era do Agentic SaaS e pressionam empresas a repensar seus softwares corporativos](https://noticiatech.com.br/negocios/openai-salesforce-agentic-saas-transformacao-softwares-corporativos/).
+O tema foi explorado pelo Notícia Tech em [Google, OpenAI e Perplexity aceleram corrida pelos navegadores com IA e ameaçam a economia tradicional da web](https://noticiatech.com.br/inteligencia-artificial/google-openai-e-perplexity-aceleram-corrida-pelos-navegadores-com-ia-e-amea?am-a-economia-tradicional-da-web/) e também em [OpenAI e Salesforce aceleram a era do Agentic SaaS e pressionam empresas a repensar seus softwares corporativos](https://noticiatech.com.br/negocios/openai-salesforce-agentic-saas-transformacao-softwares-corporativos/).
 
 ## O impacto para empresas pode ser maior do que parece
 

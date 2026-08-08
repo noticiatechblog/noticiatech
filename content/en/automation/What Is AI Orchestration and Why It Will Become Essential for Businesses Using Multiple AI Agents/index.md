@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Learn what AI Orchestration is, how it coordinates multiple AI agents and enterprise systems, why it is replacing traditional integrations, and why it is becoming a strategic layer for modern businesses."
 categories:
-  - automation
+  - "automation"
 cover:
   image: "capa.webp"
   alt: "AI Orchestration architecture connecting multiple artificial intelligence agents across enterprise systems."

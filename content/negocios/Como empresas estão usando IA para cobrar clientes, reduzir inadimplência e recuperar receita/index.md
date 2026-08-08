@@ -5,7 +5,7 @@ date: 2026-04-29T08:30:00-03:00
 draft: false
 slug: "como-empresas-usam-ia-para-cobranca-e-recuperacao-de-receita"
 categories:
-  - Negócios
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "Sistema inteligente de cobrança automatizada"

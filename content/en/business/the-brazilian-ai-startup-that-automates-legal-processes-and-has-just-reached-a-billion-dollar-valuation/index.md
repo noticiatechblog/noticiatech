@@ -3,7 +3,8 @@ title: The Brazilian AI startup that automates legal processes and has just reac
   a billion-dollar valuation
 date: 2026-05-12 07:10:00-03:00
 author: Aluisio Soares, founder of the blog Notícia Tech
-category: Negócios
+categories:
+  - "business"
 description: Brazilian startup specialized in legal automation with artificial intelligence
   reaches billion-dollar valuation and reinforces the advancement of corporate AI
   in Brazil.

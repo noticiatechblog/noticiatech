@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, Founder of Notícia Tech"
 description: "Learn what AI Governance is, how it works, and why organizations will need structured policies, processes, and oversight to deploy Artificial Intelligence responsibly and at scale."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Business executives discussing Artificial Intelligence governance in a corporate environment"

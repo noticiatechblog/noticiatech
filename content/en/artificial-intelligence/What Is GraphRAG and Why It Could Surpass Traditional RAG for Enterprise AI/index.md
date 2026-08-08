@@ -7,8 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Learn what GraphRAG is, how it extends traditional Retrieval-Augmented Generation, and why businesses are adopting knowledge graphs to build more accurate, explainable and reliable AI applications."
 categories:
-  - "Artificial Intelligence"
-
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "GraphRAG architecture connecting an AI model to an enterprise knowledge graph."

@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Amazon is preparing a new generation of Alexa powered by generative AI to compete directly with ChatGPT, Gemini and Claude. Here's what it means for consumers and businesses."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Amazon's next-generation Alexa powered by generative AI competing with ChatGPT and Gemini."

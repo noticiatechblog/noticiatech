@@ -4,7 +4,7 @@ date: 2026-05-01T01:20:00-03:00
 draft: false
 description: "A nova geração de inteligência artificial baseada em agentes autônomos começa a ganhar espaço nas empresas e promete transformar operações, atendimento e tomada de decisão."
 categories:
-  - Automação
+  - "automacao"
 cover:
   image: "capa.webp"
   alt: "Representação de agentes inteligentes operando em ambiente corporativo"

@@ -1,8 +1,13 @@
 ---
 title: "Por que empresas estão redesenhando processos internos com IA em vez de apenas automatizar tarefas"
+aliases:
+  - "/negocios/por-que-empresas-est?o-redesenhando-processos-internos-com-ia-e-n?o-just-automatizando-trabalhos/"
+  - "/negocios/por-que-empresas-est?o-redesenhando-processos-internos-com-ia-e-n?o-sobre-automatizando-trabalhos/"
+  - "/negocios/por-que-empresas-est?o-redesenhando-processos-internos-com-ia-e-n?o-sobre-automatizando-conscientes/"
 description: "Empresas estão usando inteligência artificial para redesenhar processos internos, eliminar etapas e reduzir custos operacionais de forma mais profunda."
 date: 2026-04-12
-categories: ["negocios"]
+categories:
+  - "negocios"
 draft: false
 
 cover:
@@ -91,7 +96,7 @@ E isso muda custo, velocidade e produtividade.
 
 A gestão de contratos sempre foi uma das áreas mais lentas dentro das empresas.
 
-![Gestão de contratos](contratos.webp)
+![Gestão de contratos](imagem-3.webp)
 
 O problema nunca foi a assinatura.
 

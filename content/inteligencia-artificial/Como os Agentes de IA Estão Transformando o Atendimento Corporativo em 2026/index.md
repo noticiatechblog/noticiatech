@@ -4,7 +4,7 @@ date: 2026-05-21T06:10:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "Empresas estão substituindo chatbots tradicionais por agentes autônomos de IA capazes de resolver problemas complexos, automatizar suporte e redefinir o relacionamento com clientes em escala global."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Agente de inteligência artificial corporativo atendendo clientes em ambiente empresarial futurista"

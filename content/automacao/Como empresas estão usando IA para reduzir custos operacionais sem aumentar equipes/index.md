@@ -2,8 +2,11 @@
 title: "Como empresas estão usando IA para reduzir custos operacionais sem aumentar equipes"
 description: "Entenda como empresas estão aplicando inteligência artificial para reduzir custos, automatizar operações e crescer sem ampliar equipes em 2026."
 slug: "como-empresas-usam-ia-para-reduzir-custos-operacionais"
+aliases:
+  - "/automacao/como-empresas-usam-ia-para-redutor-custos-operacionais/"
 date: 2026-04-12
-categories: ["automacao"]
+categories:
+  - "automacao"
 tags: ["inteligencia artificial", "automacao empresarial", "reducao de custos", "eficiencia operacional", "negocios"]
 draft: false
 

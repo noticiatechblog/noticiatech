@@ -6,7 +6,7 @@ date: 2026-06-11T00:20:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "Entenda o que é AI Operations, por que empresas estão criando estruturas de governança para agentes de IA e como essa nova disciplina pode definir o sucesso da transformação digital nos próximos anos."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Executivos monitorando agentes de IA em ambiente corporativo"

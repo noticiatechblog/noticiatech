@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Anthropic has introduced a major Claude update that raises the stakes in the competition with ChatGPT. Here's what changed, why it matters for businesses, and how it could reshape the AI market."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Anthropic expands Claude capabilities to compete with ChatGPT"

@@ -4,7 +4,7 @@ date: 2026-05-26T06:00:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "Nova estratégia de Satya Nadella mostra como a Microsoft está transformando agentes de IA em infraestrutura central para empresas e pressionando gigantes do software corporativo."
 categories:
-  - "Negócios"
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "Satya Nadella em palco corporativo com interface futurista de agentes de inteligência artificial"

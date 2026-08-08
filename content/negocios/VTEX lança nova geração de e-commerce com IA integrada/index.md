@@ -2,7 +2,8 @@
 title: "VTEX lança nova geração de e-commerce com IA integrada e muda operações de empresas médias"
 description: "A VTEX apresentou sua nova arquitetura com inteligência artificial integrada, automatizando vendas, atendimento e pós-venda em operações digitais."
 date: 2026-04-18
-categories: ["negocios"]
+categories:
+  - "negocios"
 draft: false
 
 cover:

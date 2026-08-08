@@ -10,8 +10,7 @@ author: "By Aluisio Soares, founder of Notícia Tech"
 description: "ChatGPT has become one of the most impersonated platforms by cybercriminals in 2026. Learn how these scams work, why security experts are concerned and how to protect your personal and business data."
 
 categories:
-  - "Artificial Intelligence"
-
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Cybercriminal using artificial intelligence to launch ChatGPT phishing attacks"

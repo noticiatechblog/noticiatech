@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "The evolution of AI-powered CRMs is transforming sales, customer service and customer relationships. Learn how AI agents are reshaping the corporate market."
 categories:
-  - "Business"
+  - "business"
 cover:
   image: "capa.webp"
   alt: "AI-powered CRM dashboard with autonomous agents analyzing customer data"

@@ -5,7 +5,7 @@ date: 2026-06-07T00:20:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "Conheça as melhores ferramentas de IA para pesquisa, análise de mercado e inteligência competitiva em 2026. Descubra quais plataformas ajudam empresas a tomar decisões mais rápidas e estratégicas."
 categories:
-  - Ferramentas
+  - "ferramentas"
 cover:
   image: "capa.webp"
   alt: "Ferramentas de IA para pesquisa e inteligência competitiva"

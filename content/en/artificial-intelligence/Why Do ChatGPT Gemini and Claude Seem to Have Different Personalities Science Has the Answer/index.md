@@ -8,8 +8,7 @@ author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Discover why ChatGPT, Gemini, and Claude respond differently, how training, alignment, and system prompts shape their behavior, and what those differences mean for businesses."
 
 categories:
-  - "Artificial Intelligence"
-
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "ChatGPT, Gemini, and Claude represented as AI assistants with distinct communication styles."

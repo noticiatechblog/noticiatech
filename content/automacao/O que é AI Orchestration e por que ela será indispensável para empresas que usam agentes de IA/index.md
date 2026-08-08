@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Entenda o que é AI Orchestration, como ela conecta agentes de IA, MCP, RAG e workflows e por que será a base da inteligência artificial empresarial."
 categories:
-  - Automação
+  - "automacao"
 cover:
   image: "capa.webp"
   alt: "Arquitetura corporativa mostrando múltiplos agentes de IA coordenados por uma camada de AI Orchestration."

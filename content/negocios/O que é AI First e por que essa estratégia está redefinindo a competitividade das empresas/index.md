@@ -2,12 +2,14 @@
 title: "O que é AI First e por que essa estratégia está redefinindo a competitividade das empresas"
 slug: "o-que-e-ai-first-estrategia-empresas"
 translationKey: "o-que-e-ai-first-estrategia-empresas"
+aliases:
+  - "/ia/o-que-e-ai-first-e-por-que-essa-estrategia-esta-redefinindo-a-competitividade-das-empresas/"
 date: 2026-06-18T00:30:00-03:00
 draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Entenda o que é AI First, como essa estratégia funciona e por que empresas estão reorganizando processos, produtos e operações em torno da inteligência artificial."
 categories:
-  - "Negócios"
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "Executivos analisando estratégia AI First em ambiente corporativo"

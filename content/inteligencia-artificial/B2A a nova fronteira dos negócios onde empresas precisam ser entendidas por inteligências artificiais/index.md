@@ -4,7 +4,7 @@ description: "O modelo B2A — Business to AI — está mudando como empresas se
 date: 2026-05-05T07:50:00-03:00
 draft: false
 categories:
-  - inteligencia-artificial
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Empresa brasileira adaptando sua presença digital para inteligências artificiais"

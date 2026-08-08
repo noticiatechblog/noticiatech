@@ -6,7 +6,7 @@ description: The new generation of artificial intelligence based on autonomous a
   is beginning to gain ground in companies and promises to transform operations, service
   and decision making.
 categories:
-- automation
+  - "automation"
 cover:
   image: capa.webp
   alt: Representation of intelligent agents operating in a corporate environment

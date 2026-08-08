@@ -14,8 +14,7 @@ author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Learn what AI Agent Identity is, why digital identity for AI agents is becoming a business priority, and how it strengthens security, governance, compliance, and scalability in enterprise Artificial Intelligence."
 
 categories:
-  - "Artificial Intelligence"
-
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Illustration of AI agents operating securely in an enterprise environment through digital identities."

@@ -3,7 +3,8 @@ title: "Seu cliente já decidiu antes da reunião: como a IA está redefinindo a
 date: 2026-05-06T08:10:00-03:00
 draft: false
 description: "Mais de 90% dos compradores B2B já usam inteligência artificial para pesquisar fornecedores antes do primeiro contato comercial. O impacto disso pode mudar marketing, vendas e reputação empresarial."
-categories: ["negocios"]
+categories:
+  - "negocios"
 cover:
   image: "capa.webp"
 ---

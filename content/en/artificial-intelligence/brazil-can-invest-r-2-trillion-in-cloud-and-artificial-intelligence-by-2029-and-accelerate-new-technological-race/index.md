@@ -3,7 +3,8 @@ title: Brazil can invest R$2 trillion in cloud and artificial intelligence by 20
   and accelerate new technological race
 date: '2026-05-14T06:50:00-03:00'
 author: Aluisio Soares, founder of the blog Notícia Tech
-category: Inteligência Artificial
+categories:
+  - "artificial-intelligence"
 cover:
   image: capa.webp
   alt: Digital infrastructure and artificial intelligence driving technological transformation

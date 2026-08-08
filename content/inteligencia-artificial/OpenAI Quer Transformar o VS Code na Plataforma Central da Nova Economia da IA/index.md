@@ -4,7 +4,7 @@ date: 2026-05-17T06:10:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "A expansão do Codex, dos agentes autônomos e da programação assistida por IA pode transformar o VS Code em uma nova camada operacional da economia digital e mudar a forma como softwares são criados nos próximos anos."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Desenvolvedor utilizando VS Code com agentes de inteligência artificial integrados em ambiente corporativo futurista"

@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Entenda como RAG, MCP, agentes de IA e AI Orchestration trabalham juntos para criar uma arquitetura moderna de Inteligência Artificial nas empresas e descubra quando utilizar cada tecnologia."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Diagrama representando uma arquitetura moderna de IA empresarial com RAG, MCP, agentes de IA e orquestração."

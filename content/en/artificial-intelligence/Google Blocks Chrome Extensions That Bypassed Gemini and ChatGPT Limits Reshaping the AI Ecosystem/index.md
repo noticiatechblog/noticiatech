@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Google has started blocking Chrome extensions that bypassed limitations in Gemini, ChatGPT and other artificial intelligence services. Learn what this means for users, businesses and the broader AI market."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Google strengthens Chrome security by blocking extensions related to artificial intelligence services."

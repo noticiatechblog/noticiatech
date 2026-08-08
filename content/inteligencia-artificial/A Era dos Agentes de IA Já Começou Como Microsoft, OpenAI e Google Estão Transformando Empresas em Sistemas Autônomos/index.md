@@ -4,7 +4,7 @@ date: 2026-05-22T06:10:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "A disputa entre Microsoft, Google e OpenAI está deixando os chatbots para trás e avançando para um novo território: o controle da camada operacional da internet através de agentes autônomos e ecossistemas de IA."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Executivos e sistemas de inteligência artificial representando a disputa entre Microsoft, Google e OpenAI pelo futuro operacional da internet"

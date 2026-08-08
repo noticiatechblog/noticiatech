@@ -6,7 +6,7 @@ date: 2026-06-12T00:30:00-03:00
 author: "Aluisio Soares, founder of Notícia Tech"
 description: "Apple, OpenAI, Google, and Microsoft are competing to control the next major computing platform. The battle is no longer about apps. It is about AI agents."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Apple, OpenAI, Google, and Microsoft compete for the future of AI agent interfaces"

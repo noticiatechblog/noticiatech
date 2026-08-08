@@ -7,7 +7,7 @@ description: Anthropic's accelerated growth shows how artificial intelligence is
   longer a bet and has become a strategic infrastructure for companies. Understand
   the impacts on Brazilian businesses.
 categories:
-- IA
+  - "artificial-intelligence"
 cover:
   image: capa.webp
   alt: Executives Analyzing Anthropic's Accelerated Growth and Enterprise AI Expansion

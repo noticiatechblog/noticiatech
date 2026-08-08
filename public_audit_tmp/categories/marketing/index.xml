@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Marketing on Notícia Tech | IA e Automação para Negócios</title>
+    <link>https://noticiatech.com.br/categories/marketing/</link>
+    <description>Recent content in Marketing on Notícia Tech | IA e Automação para Negócios</description>
+    <generator>Hugo</generator>
+    <language>pt-BR</language>
+    <atom:link href="https://noticiatech.com.br/categories/marketing/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

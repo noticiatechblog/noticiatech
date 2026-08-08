@@ -6,8 +6,7 @@ date: 2026-06-21T00:30:00-03:00
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Programas de aceleração com IA estão se tornando uma das principais estratégias para empresas que desejam aumentar produtividade, automatizar operações e escalar resultados em 2026."
 categories:
-
- - "Negócios"
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "Executivos analisando estratégias de aceleração empresarial com inteligência artificial"

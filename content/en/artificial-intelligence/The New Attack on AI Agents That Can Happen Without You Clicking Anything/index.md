@@ -6,7 +6,7 @@ date: 2026-08-08T00:30:00-03:00
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "A new type of attack can exploit AI agents without requiring a user click. Here is why ChatGPT, Claude and businesses are now in the crosshairs."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Artificial intelligence agent being manipulated by malicious content without user interaction"

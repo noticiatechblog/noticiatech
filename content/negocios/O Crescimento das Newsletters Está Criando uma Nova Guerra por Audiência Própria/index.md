@@ -4,7 +4,7 @@ date: 2026-05-17T06:05:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "Com AI Overviews, queda do alcance orgânico e mudanças nas plataformas digitais, empresas começam a reconstruir audiência própria através de newsletters, comunidades e canais diretos de distribuição."
 categories:
-  - "Negócios"
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "Executivos analisando métricas de newsletters e audiência própria em ambiente corporativo moderno"

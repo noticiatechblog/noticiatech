@@ -4,7 +4,7 @@ date: "2026-05-19 06:05:00"
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "Mesmo com o avanço acelerado da inteligência artificial nas empresas, a maioria das organizações ainda enfrenta dificuldades para transformar IA em produtividade, automação estratégica e vantagem competitiva."
 categories:
-  - "IA"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Executivos observando dashboards de inteligência artificial em ambiente corporativo moderno"

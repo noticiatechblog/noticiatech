@@ -5,7 +5,7 @@ date: 2026-06-07T00:20:00-03:00
 author: "Aluisio Soares, founder of Notícia Tech"
 description: "Discover the best AI tools for research, market analysis, and competitive intelligence in 2026. Learn which platforms help businesses make faster and more strategic decisions."
 categories:
-  - Tools
+  - "tools"
 cover:
   image: "capa.webp"
   alt: "AI tools for research and competitive intelligence"

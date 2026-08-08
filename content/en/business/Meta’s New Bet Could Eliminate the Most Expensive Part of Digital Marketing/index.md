@@ -6,8 +6,7 @@ date: 2026-06-10T00:30:00-03:00
 author: "Aluisio Soares, founder of Notícia Tech"
 description: "Meta is expanding the use of artificial intelligence to automate advertising campaigns. The move could reduce costs, transform the role of agencies, and redefine the future of digital marketing."
 categories:
-  - "Business"
-
+  - "business"
 cover:
   image: "capa.webp"
   alt: "Meta artificial intelligence system automating digital marketing campaigns"
@@ -105,7 +104,7 @@ Growth planning.
 
 These activities depend on market interpretation, cultural context, and long-term vision.
 
-This transformation mirrors recent changes seen on professional platforms, as discussed in [LinkedIn Stops Being a Resume Network and Becomes an AI-Powered B2B Distribution Platform](https://noticiatech.com.br/en/business/linkedin-stops-being-a-resume-network-and-becomes-an-ai-powered-b2b-distribution-platform/).
+This transformation mirrors recent changes seen on professional platforms, as discussed in [LinkedIn Stops Being a Resume Network and Becomes an AI-Powered B2B Distribution Platform](https://noticiatech.com.br/en/business/linkedin-stops-being-a-resume-network-and-becomes-a-b2b-distribution-platform-powered-by-ai/).
 
 Strategic value is beginning to outweigh operational value in digital marketing.
 

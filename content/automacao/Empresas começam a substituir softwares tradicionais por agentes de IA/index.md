@@ -4,7 +4,7 @@ date: 2026-05-16T06:05:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "Empresas aceleram adoção de agentes de inteligência artificial capazes de executar tarefas, automatizar operações e reduzir dependência de softwares tradicionais."
 categories:
-  - "Automação"
+  - "automacao"
 cover:
   image: "capa.webp"
   alt: "Agentes de inteligência artificial substituindo softwares corporativos tradicionais"

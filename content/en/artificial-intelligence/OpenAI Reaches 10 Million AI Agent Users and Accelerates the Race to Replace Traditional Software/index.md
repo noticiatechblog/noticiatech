@@ -7,8 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "OpenAI's AI agents reaching 10 million users signals a strategic shift that could reduce enterprise dependence on traditional software and accelerate a new era of digital transformation."
 categories:
-  - Artificial Intelligence
-
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Business executives analyzing OpenAI AI agents in a modern enterprise environment"

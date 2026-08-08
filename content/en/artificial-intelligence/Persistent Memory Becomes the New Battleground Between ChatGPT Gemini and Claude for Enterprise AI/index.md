@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "The competition between ChatGPT, Gemini and Claude is entering a new phase. Persistent memory is becoming one of the most important differentiators for businesses seeking greater productivity, personalization and smarter AI agents."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "ChatGPT, Gemini and Claude compete to lead the next generation of persistent memory capabilities in artificial intelligence."

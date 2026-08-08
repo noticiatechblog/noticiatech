@@ -7,8 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Entenda por que AI Process Automation representa a evolução da automação empresarial, como combina inteligência artificial com processos de negócio e quais impactos essa mudança traz para empresas que buscam produtividade, eficiência operacional e vantagem competitiva."
 categories:
-  - "Automação"
-
+  - "automacao"
 cover:
   image: "capa.webp"
   alt: "Executivos analisando fluxos inteligentes de AI Process Automation em ambiente corporativo moderno."

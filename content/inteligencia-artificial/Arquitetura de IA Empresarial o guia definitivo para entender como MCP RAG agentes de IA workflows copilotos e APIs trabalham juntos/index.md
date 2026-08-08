@@ -10,8 +10,7 @@ author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Entenda como MCP, RAG, agentes de IA, copilotos, APIs e workflows formam a arquitetura moderna da inteligência artificial nas empresas. Um guia completo para gestores e profissionais de tecnologia."
 
 categories:
-  - "Inteligência Artificial"
-
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Diagrama conceitual mostrando a arquitetura moderna de inteligência artificial empresarial conectando MCP, RAG, agentes de IA, APIs, workflows e copilotos em um ambiente corporativo."

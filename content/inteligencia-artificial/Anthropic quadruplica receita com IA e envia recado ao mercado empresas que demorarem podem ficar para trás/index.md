@@ -4,7 +4,7 @@ date: 2026-05-03T12:55:00-03:00
 draft: false
 description: "O crescimento acelerado da Anthropic mostra como a inteligência artificial deixou de ser aposta e virou infraestrutura estratégica para empresas. Entenda os impactos para negócios brasileiros."
 categories:
-  - IA
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Executivos analisando crescimento acelerado da Anthropic e expansão da IA corporativa"

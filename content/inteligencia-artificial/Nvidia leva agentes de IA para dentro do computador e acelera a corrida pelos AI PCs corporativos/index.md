@@ -5,7 +5,7 @@ date: 2026-06-02T07:50:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "Com o lançamento da plataforma RTX Spark, a Nvidia aposta na execução local de inteligência artificial e inaugura uma nova disputa pelo futuro dos computadores corporativos na era dos agentes autônomos."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Jensen Huang apresenta nova geração de chips Nvidia voltados para IA local em computadores pessoais"

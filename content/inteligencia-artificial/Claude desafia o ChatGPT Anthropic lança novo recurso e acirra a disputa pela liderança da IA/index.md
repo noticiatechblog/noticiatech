@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "A Anthropic anunciou uma nova atualização para o Claude que amplia a disputa com o ChatGPT. Entenda o que mudou, os impactos para empresas e por que a corrida da IA entra em uma nova fase."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Anthropic amplia capacidades do Claude e aumenta a disputa com o ChatGPT"

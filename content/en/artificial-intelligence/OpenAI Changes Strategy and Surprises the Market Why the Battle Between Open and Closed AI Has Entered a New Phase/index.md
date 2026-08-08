@@ -7,8 +7,7 @@ draft: false
 author: "By Aluisio Soares, Founder of Notícia Tech"
 description: "OpenAI, Microsoft, Nvidia and Meta are backing a more open AI ecosystem, while Google and Anthropic continue following a different path. Here's what this strategic shift means for businesses and the future of artificial intelligence."
 categories:
-  - "Artificial Intelligence"
-
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Technology leaders discuss the growing competition between open and closed artificial intelligence models led by OpenAI, Microsoft, Nvidia, Meta, Google and Anthropic."

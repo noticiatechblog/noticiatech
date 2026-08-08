@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "OpenAI's decision to discontinue the Atlas browser signals a major strategic shift. Learn why the company is consolidating its AI capabilities around ChatGPT and what it means for enterprise AI."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "OpenAI discontinues the Atlas browser and shifts its strategy toward ChatGPT"

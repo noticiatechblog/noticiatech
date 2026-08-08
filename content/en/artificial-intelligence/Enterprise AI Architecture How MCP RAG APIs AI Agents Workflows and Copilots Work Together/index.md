@@ -8,8 +8,7 @@ author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Learn how MCP, RAG, APIs, AI agents, workflows and copilots form a modern enterprise AI architecture and understand when each component should be used."
 
 categories:
-  - Artificial Intelligence
-
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Modern enterprise AI architecture connecting MCP, RAG, APIs, AI agents, workflows and copilots."

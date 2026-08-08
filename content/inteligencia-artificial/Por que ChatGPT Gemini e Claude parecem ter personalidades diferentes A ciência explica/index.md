@@ -7,8 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Entenda por que ChatGPT, Gemini e Claude apresentam estilos de resposta diferentes, como treinamento, alinhamento e system prompts moldam seu comportamento e o que isso significa para empresas."
 categories:
-  - "Inteligência Artificial"
-
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "ChatGPT, Gemini e Claude representados como assistentes de IA com estilos distintos de comunicação."

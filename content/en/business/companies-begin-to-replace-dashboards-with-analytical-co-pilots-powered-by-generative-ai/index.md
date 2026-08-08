@@ -7,7 +7,7 @@ description: Generative artificial intelligence is transforming BI tools into an
   copilots capable of interpreting data, generating strategic insights and automating
   corporate decisions.
 categories:
-- business
+  - "business"
 cover:
   image: capa.webp
   alt: Executives analyzing futuristic dashboard with generative AI interpreting corporate

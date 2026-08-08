@@ -5,7 +5,7 @@ date: 2026-05-31T08:05:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "CEO da Salesforce afirma que agentes de IA já estão mudando contratações, produtividade e a estrutura operacional das empresas. O movimento reforça uma transformação silenciosa no mercado corporativo."
 categories:
-  - Negócios
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "Marc Benioff durante evento corporativo discutindo agentes de IA e transformação empresarial"

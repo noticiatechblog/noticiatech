@@ -4,7 +4,7 @@ date: 2026-05-19T06:10:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "A corrida entre OpenAI, Google, Shopify e gigantes do varejo inaugura uma nova era do comércio digital baseado em agentes de IA, checkout conversacional e descoberta automatizada de produtos."
 categories:
-  - "IA"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Interface futurista mostrando agentes de IA realizando compras automáticas entre ChatGPT, Google e marketplaces digitais"

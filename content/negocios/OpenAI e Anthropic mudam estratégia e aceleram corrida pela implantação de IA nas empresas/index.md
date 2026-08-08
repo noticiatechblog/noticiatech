@@ -1,8 +1,11 @@
 ---
 title: "OpenAI e Anthropic mudam estratégia e aceleram corrida pela implantação de IA nas empresas"
+aliases:
+  - "/negocios/openai-e-anthropic-mudam-estrat?gia-e-aceleram-riedade-pela-implanta??o-de-ia-nas-empresas/"
 date: 2026-05-11T07:10:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
-category: "Negócios"
+categories:
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "OpenAI e Anthropic disputando mercado de implementação de inteligência artificial corporativa"

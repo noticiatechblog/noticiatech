@@ -6,7 +6,7 @@ date: 2026-08-08T00:30:00-03:00
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Um novo tipo de ataque explora agentes de IA sem exigir um clique do usuário. Entenda por que ChatGPT, Claude e empresas entram no radar."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Agente de inteligência artificial sendo manipulado por conteúdo malicioso sem interação do usuário"

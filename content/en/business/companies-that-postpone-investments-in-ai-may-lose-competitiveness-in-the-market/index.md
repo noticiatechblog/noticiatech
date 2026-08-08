@@ -7,7 +7,7 @@ description: Artificial intelligence is no longer a trend and has become a compe
   factor. Companies that delay investments in AI may lose market space.
 author: By Aluisio Soares, founder of Blog Notícia Tech
 categories:
-- business
+  - "business"
 cover:
   image: capa.webp
   alt: Companies accelerating investments in artificial intelligence

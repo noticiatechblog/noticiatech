@@ -7,8 +7,7 @@ author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "Novo estudo mostra que ChatGPT, Gemini, Grok e outros modelos de IA ainda podem ser manipulados por técnicas de jailbreak. Entenda os riscos para empresas e o que muda na segurança da inteligência artificial."
 
 categories:
-  - "Inteligência Artificial"
-
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Ilustração representa ataques contra modelos de inteligência artificial utilizados por empresas."

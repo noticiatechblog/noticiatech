@@ -7,8 +7,7 @@ author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "A Apple revelou avanços no Foundation Models Framework durante a WWDC 2026 e pode estar criando uma nova camada estratégica para agentes de IA, aplicativos corporativos e software empresarial."
 
 categories:
-  - "Inteligência Artificial"
-
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Foundation Models Framework da Apple durante a WWDC 2026"

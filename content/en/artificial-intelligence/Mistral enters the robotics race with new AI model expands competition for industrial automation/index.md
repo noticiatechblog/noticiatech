@@ -7,8 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Mistral's latest move brings artificial intelligence to industrial robots, expanding competition in physical AI and accelerating enterprise automation."
 categories:
-  - "Artificial Intelligence"
-
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Industrial robot operating in a factory with Mistral AI branding"

@@ -7,8 +7,7 @@ draft: false
 author: "By Aluisio Soares, Founder of Notícia Tech"
 description: "Discover why AI Process Automation is becoming the next evolution of business automation, how it combines Artificial Intelligence with enterprise workflows, and why companies are adopting intelligent process automation to improve productivity, operational efficiency, and competitive advantage."
 categories:
-  - "Automation"
-
+  - "tools"
 cover:
   image: "capa.webp"
   alt: "Business executives analyzing AI Process Automation workflows in a modern corporate environment."

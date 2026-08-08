@@ -6,7 +6,7 @@ date: 2026-06-11T00:30:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "O pedido de IPO da OpenAI revela uma mudança estratégica que vai além do mercado financeiro. Entenda como a abertura de capital pode acelerar a guerra global por infraestrutura, agentes de IA e domínio corporativo."
 categories:
-  - "Negócios"
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "OpenAI avança para IPO e acelera disputa global pela liderança da inteligência artificial"

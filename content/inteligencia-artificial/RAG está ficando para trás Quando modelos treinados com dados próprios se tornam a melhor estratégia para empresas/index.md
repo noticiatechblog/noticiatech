@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Entenda quando o RAG deixa de ser suficiente, por que empresas estão investindo em modelos treinados com dados próprios e como escolher a arquitetura ideal para projetos corporativos de inteligência artificial."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Arquitetura de IA empresarial comparando RAG com modelos treinados utilizando dados corporativos."

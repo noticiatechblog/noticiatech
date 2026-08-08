@@ -6,7 +6,7 @@ date: 2026-06-22T00:20:00-03:00
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Learn what Shadow AI is, how unauthorized use of artificial intelligence happens inside organizations, the security, compliance and governance risks involved, and how companies are responding to this growing phenomenon."
 categories:
-- "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Executives analyzing Shadow AI risks in a corporate environment"
@@ -111,7 +111,7 @@ When employees have access to secure and compliant solutions, they are less like
 
 This shift is closely linked to the growing adoption of enterprise AI governance programs and dedicated organizational structures focused on responsible AI deployment.
 
-To better understand this approach, consider the concept of an [AI Center of Excellence](https://noticiatech.com.br/ia/ai-center-of-excellence-empresas-escalar-inteligencia-artificial-governanca-resultado/), a model increasingly adopted by organizations seeking to scale AI initiatives while maintaining governance and control.
+To better understand this approach, consider the concept of an [AI Center of Excellence](https://noticiatech.com.br/negocios/ai-center-of-excellence-empresas-escalar-inteligencia-artificial/), a model increasingly adopted by organizations seeking to scale AI initiatives while maintaining governance and control.
 
 ## Why Shadow AI Has Become a Strategic Priority
 
@@ -137,7 +137,7 @@ Shadow AI is a direct consequence of the speed of digital transformation.
 
 When the demand for innovation exceeds an organization's governance capacity, employees often seek solutions independently.
 
-This trend is also closely connected to strategies such as [AI First](https://noticiatech.com.br/ia/o-que-e-ai-first-e-por-que-essa-estrategia-esta-redefinindo-a-competitividade-das-empresas/), which place artificial intelligence at the center of business operations.
+This trend is also closely connected to strategies such as [AI First](https://noticiatech.com.br/negocios/o-que-e-ai-first-estrategia-empresas/), which place artificial intelligence at the center of business operations.
 
 As **Artificial Intelligence** adoption continues to expand, the challenge facing organizations will not simply be selecting the best models or platforms. The true competitive advantage will come from the ability to combine innovation, productivity, and governance. Organizations that successfully transform Shadow AI from an unmanaged risk into a structured strategy for responsible AI adoption will be better positioned to capture value while minimizing operational, regulatory, and reputational risks.
 

@@ -4,7 +4,7 @@ date: 2026-05-29T08:05:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "Empresas estão descobrindo que agentes de IA dependem de contexto estruturado para funcionar em escala. AI Knowledge Graphs começam a surgir como nova camada estratégica da inteligência corporativa."
 categories:
-  - "Negócios"
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "Executivos analisando estrutura holográfica de dados corporativos conectados por IA"

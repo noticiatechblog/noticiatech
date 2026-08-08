@@ -7,7 +7,7 @@ description: Even with the accelerated advancement of artificial intelligence in
   most organizations still face difficulties in transforming AI into productivity,
   strategic automation and competitive advantage.
 categories:
-- IA
+  - "artificial-intelligence"
 cover:
   image: capa.webp
   alt: Executives observing artificial intelligence dashboards in a modern corporate

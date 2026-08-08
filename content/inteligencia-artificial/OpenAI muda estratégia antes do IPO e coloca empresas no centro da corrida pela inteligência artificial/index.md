@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "A OpenAI intensifica sua estratégia para clientes corporativos, reduz a prioridade do ChatGPT gratuito e prepara o terreno para um possível IPO. Entenda os impactos para empresas e para o mercado de inteligência artificial."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "OpenAI reposiciona estratégia corporativa antes do IPO"

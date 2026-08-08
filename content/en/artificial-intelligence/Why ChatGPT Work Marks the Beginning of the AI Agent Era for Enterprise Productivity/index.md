@@ -7,8 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "ChatGPT Work is more than another OpenAI product launch. Learn how AI agents are reshaping enterprise productivity and intensifying the competition between ChatGPT, Microsoft Copilot, Gemini and Claude."
 categories:
-  - "Artificial Intelligence"
-
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Business executive using an AI agent to automate enterprise workflows in a modern office."

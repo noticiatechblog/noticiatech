@@ -2,7 +2,8 @@
 title: "WhatsApp Business ganha automações com IA e se torna peça central para pequenas empresas no Brasil"
 description: "O WhatsApp Business está evoluindo com automações e inteligência artificial, permitindo que pequenas empresas vendam, atendam clientes e escalem operações com mais eficiência."
 date: 2026-04-18
-categories: ["negocios"]
+categories:
+  - "negocios"
 draft: false
 
 cover:

@@ -7,9 +7,7 @@ date: 2026-06-21T00:30:00-03:00
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Learn what Agentic AI is, how agentic artificial intelligence works, how it differs from generative AI, and why companies are adopting autonomous agents to automate processes and decision-making."
 categories:
-
-- "Artificial Intelligence"
-
+  - "artificial-intelligence"
 cover:
 image: "capa.webp"
 alt: "Agentic AI connecting intelligent agents, enterprise systems, and business automation"

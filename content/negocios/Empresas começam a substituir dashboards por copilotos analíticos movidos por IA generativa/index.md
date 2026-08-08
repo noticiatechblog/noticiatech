@@ -4,7 +4,7 @@ date: 2026-05-20T06:05:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "A inteligência artificial generativa está transformando ferramentas de BI em copilotos analíticos capazes de interpretar dados, gerar insights estratégicos e automatizar decisões corporativas."
 categories:
-  - "Negócios"
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "Executivos analisando painel futurista com IA generativa interpretando dados corporativos em tempo real"

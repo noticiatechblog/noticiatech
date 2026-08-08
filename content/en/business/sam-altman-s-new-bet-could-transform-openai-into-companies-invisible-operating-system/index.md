@@ -7,7 +7,7 @@ description: Sam Altman accelerates OpenAI's transformation into an operational 
   for enterprises and could redefine the global market for artificial intelligence-based
   enterprise software.
 categories:
-- business
+  - "business"
 cover:
   image: capa.webp
   alt: Sam Altman in front of corporate artificial intelligence interfaces and autonomous

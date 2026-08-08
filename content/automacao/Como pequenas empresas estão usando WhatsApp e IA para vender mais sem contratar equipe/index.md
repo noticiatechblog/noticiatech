@@ -5,8 +5,8 @@ date: 2026-05-08T07:05:00-03:00
 draft: false
 author: "Por Aluisio Soares | Fundador do Notícia Tech"
 description: "Empresas brasileiras estão combinando WhatsApp Business com IA para automatizar atendimento, qualificar leads e vender mais sem aumentar equipe."
-categories: ["Automação"]
-
+categories:
+  - "automacao"
 cover:
   image: "capa.webp"
   caption: "A combinação entre WhatsApp e IA começa a redefinir vendas e atendimento nas pequenas empresas"

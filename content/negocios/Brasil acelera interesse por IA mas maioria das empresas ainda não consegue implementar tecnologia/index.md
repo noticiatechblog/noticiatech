@@ -2,8 +2,8 @@
 title: "Brasil acelera interesse por IA mas maioria das empresas ainda não consegue implementar tecnologia"
 date: 2026-05-13T07:00:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
-category: "Negócios"
-
+categories:
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "Executivos brasileiros analisando estratégias de inteligência artificial em ambiente corporativo"

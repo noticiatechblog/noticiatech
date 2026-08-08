@@ -6,7 +6,7 @@ draft: false
 description: "Pequenas empresas já podem automatizar atendimento, vendas, marketing, financeiro e suporte com inteligência artificial para reduzir custos e ganhar produtividade."
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 categories:
-- Processos
+  - "automacao"
 cover:
   image: "capa.webp"
   alt: "Pequena empresa utilizando inteligência artificial para automatizar processos operacionais e comerciais"

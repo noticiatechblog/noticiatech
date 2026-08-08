@@ -4,7 +4,7 @@ date: 2026-05-15T06:10:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "Eventos corporativos, agentes inteligentes, computação em nuvem e investimentos bilionários mostram que o Brasil entrou em uma nova fase da inteligência artificial empresarial."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Industrialização da inteligência artificial acelera no Brasil em 2026"

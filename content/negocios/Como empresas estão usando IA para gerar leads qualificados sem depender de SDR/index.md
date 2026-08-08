@@ -9,8 +9,7 @@ description: "Empresas estão usando inteligência artificial para transformar a
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 
 categories:
-  - "Negócios"
-
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "IA transformando prospecção B2B e geração de leads"

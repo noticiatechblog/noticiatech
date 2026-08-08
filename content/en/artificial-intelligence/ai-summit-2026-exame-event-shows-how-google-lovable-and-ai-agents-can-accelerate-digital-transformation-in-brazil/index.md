@@ -3,7 +3,8 @@ title: 'AI Summit 2026: EXAME event shows how Google, Lovable and AI agents can 
   digital transformation in Brazil'
 date: '2026-05-14T07:00:00-03:00'
 author: Aluisio Soares, founder of the blog Notícia Tech
-category: Inteligência Artificial
+categories:
+  - "artificial-intelligence"
 cover:
   image: capa.webp
   alt: Executives discussing corporate artificial intelligence at premium technology

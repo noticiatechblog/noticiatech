@@ -6,7 +6,7 @@ date: 2026-06-13T00:20:00-03:00
 author: "Aluisio Soares, founder of Notícia Tech"
 description: "Understand why AI Fluency is becoming one of the most important capabilities for organizations looking to scale artificial intelligence, increase productivity, and build sustainable competitive advantages."
 categories:
-  - "Business"
+  - "business"
 cover:
   image: "capa.webp"
   alt: "Executives analyzing AI Fluency strategies in a corporate environment"

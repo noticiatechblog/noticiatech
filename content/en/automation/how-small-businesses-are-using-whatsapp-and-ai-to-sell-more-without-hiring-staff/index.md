@@ -8,7 +8,7 @@ author: By Aluisio Soares | Founder of Notícia Tech
 description: Brazilian companies are combining WhatsApp Business with AI to automate
   service, qualify leads and sell more without increasing staff.
 categories:
-- automation
+  - "automation"
 cover:
   image: capa.webp
   caption: The combination of WhatsApp and AI begins to redefine sales and service

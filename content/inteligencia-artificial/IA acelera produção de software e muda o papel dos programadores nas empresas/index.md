@@ -2,8 +2,8 @@
 title: "IA acelera produção de software e muda o papel dos programadores nas empresas"
 date: 2026-05-13T07:05:00-03:00
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
-category: "IA"
-
+categories:
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Desenvolvedores utilizando inteligência artificial para acelerar criação de software"

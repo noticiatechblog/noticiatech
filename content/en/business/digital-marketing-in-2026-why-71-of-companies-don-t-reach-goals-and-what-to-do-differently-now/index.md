@@ -7,7 +7,7 @@ description: Research with Brazilian companies reveals that the majority fail in
 date: 2026-05-05 07:50:00-03:00
 draft: false
 categories:
-- business
+  - "business"
 cover:
   image: capa.webp
   alt: Marketer analyzing data and digital strategies in 2026

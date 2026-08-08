@@ -4,7 +4,7 @@ date: 2026-05-15T06:05:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "O crescimento de eventos como o HardTech Innovation mostra como Minas Gerais começa a ganhar relevância estratégica no ecossistema brasileiro de inovação industrial, automação e inteligência artificial aplicada aos negócios."
 categories:
-  - "Negócios"
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "Minas Gerais acelera crescimento das hardtechs e inovação industrial"

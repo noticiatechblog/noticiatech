@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Learn what AI Orchestration is, how it connects AI agents, MCP, RAG and workflows, and why it is becoming the foundation of enterprise artificial intelligence."
 categories:
-  - Automation
+  - "automation"
 cover:
   image: "capa.webp"
   alt: "Enterprise architecture coordinating multiple AI agents through an AI Orchestration layer."

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 1000" role="img" aria-label="United States">
+  <rect width="1900" height="1000" fill="#fff"/>
+  <g fill="#b22234">
+    <rect width="1900" height="76.923"/>
+    <rect y="153.846" width="1900" height="76.923"/>
+    <rect y="307.692" width="1900" height="76.923"/>
+    <rect y="461.538" width="1900" height="76.923"/>
+    <rect y="615.384" width="1900" height="76.923"/>
+    <rect y="769.23" width="1900" height="76.923"/>
+    <rect y="923.076" width="1900" height="76.923"/>
+  </g>
+  <rect width="760" height="538.461" fill="#3c3b6e"/>
+  <g fill="#fff">
+    <circle cx="95" cy="68" r="24"/>
+    <circle cx="222" cy="68" r="24"/>
+    <circle cx="349" cy="68" r="24"/>
+    <circle cx="476" cy="68" r="24"/>
+    <circle cx="603" cy="68" r="24"/>
+    <circle cx="698" cy="68" r="24"/>
+    <circle cx="158" cy="155" r="24"/>
+    <circle cx="285" cy="155" r="24"/>
+    <circle cx="412" cy="155" r="24"/>
+    <circle cx="539" cy="155" r="24"/>
+    <circle cx="666" cy="155" r="24"/>
+    <circle cx="95" cy="242" r="24"/>
+    <circle cx="222" cy="242" r="24"/>
+    <circle cx="349" cy="242" r="24"/>
+    <circle cx="476" cy="242" r="24"/>
+    <circle cx="603" cy="242" r="24"/>
+    <circle cx="698" cy="242" r="24"/>
+    <circle cx="158" cy="329" r="24"/>
+    <circle cx="285" cy="329" r="24"/>
+    <circle cx="412" cy="329" r="24"/>
+    <circle cx="539" cy="329" r="24"/>
+    <circle cx="666" cy="329" r="24"/>
+    <circle cx="95" cy="416" r="24"/>
+    <circle cx="222" cy="416" r="24"/>
+    <circle cx="349" cy="416" r="24"/>
+    <circle cx="476" cy="416" r="24"/>
+    <circle cx="603" cy="416" r="24"/>
+    <circle cx="698" cy="416" r="24"/>
+  </g>
+</svg>

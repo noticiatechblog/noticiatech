@@ -4,7 +4,7 @@ date: 2026-05-29T08:00:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "A estratégia de Jensen Huang está transformando a NVIDIA em uma das empresas mais influentes da nova economia da inteligência artificial corporativa."
 categories:
-  - "Negócios"
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "Jensen Huang em ambiente corporativo futurista representando a expansão da NVIDIA na infraestrutura de IA empresarial"

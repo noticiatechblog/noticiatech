@@ -2,7 +2,8 @@
 title: Is GEO Replacing SEO? How AI search can change internet traffic
 date: 2026-05-12 07:05:00-03:00
 author: By Aluisio Soares, founder of the blog Notícia Tech
-category: Inteligência Artificial
+categories:
+  - "artificial-intelligence"
 cover:
   image: capa.webp
   alt: Executive analyzing generative search interfaces and SEO in a corporate tech

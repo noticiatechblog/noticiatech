@@ -7,8 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Nova pesquisa da Anthropic revela como o Claude organiza informações internamente e pode marcar um avanço importante para transparência, segurança e confiança na inteligência artificial corporativa."
 categories:
-  - "Inteligência Artificial"
-
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Representação editorial do Claude com estruturas neurais transparentes simbolizando interpretabilidade da inteligência artificial."

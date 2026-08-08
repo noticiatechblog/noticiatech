@@ -6,7 +6,7 @@ date: 2026-06-22T00:20:00-03:00
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Entenda o que é Shadow AI, como funciona o uso não autorizado de inteligência artificial nas empresas, quais são os riscos de segurança, compliance e governança e como as organizações estão lidando com esse fenômeno."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Executivos analisando riscos de Shadow AI em ambiente corporativo"
@@ -108,7 +108,7 @@ Quando a empresa oferece acesso seguro a plataformas de IA, a necessidade de bus
 
 Esse movimento está diretamente relacionado ao crescimento da governança corporativa de IA e à criação de estruturas internas dedicadas ao tema.
 
-Para compreender melhor esse cenário, vale conhecer o conceito de [AI Center of Excellence](https://noticiatech.com.br/ia/ai-center-of-excellence-empresas-escalar-inteligencia-artificial-governanca-resultado/), modelo adotado por organizações que buscam escalar projetos de IA com segurança.
+Para compreender melhor esse cenário, vale conhecer o conceito de [AI Center of Excellence](https://noticiatech.com.br/negocios/ai-center-of-excellence-empresas-escalar-inteligencia-artificial/), modelo adotado por organizações que buscam escalar projetos de IA com segurança.
 
 ## Por que Shadow AI se tornou uma prioridade estratégica
 
@@ -134,7 +134,7 @@ A Shadow AI é consequência direta da velocidade da transformação digital.
 
 Quando a demanda por inovação supera a capacidade de governança, colaboradores buscam soluções por conta própria.
 
-Esse movimento também está conectado a estratégias como [AI First](https://noticiatech.com.br/ia/o-que-e-ai-first-e-por-que-essa-estrategia-esta-redefinindo-a-competitividade-das-empresas/), que colocam a inteligência artificial no centro das operações empresariais.
+Esse movimento também está conectado a estratégias como [AI First](https://noticiatech.com.br/negocios/o-que-e-ai-first-estrategia-empresas/), que colocam a inteligência artificial no centro das operações empresariais.
 
 À medida que a adoção da **Inteligência Artificial** avança, o desafio das organizações não será apenas escolher os melhores modelos ou plataformas. A verdadeira vantagem competitiva estará na capacidade de combinar inovação, produtividade e governança. Empresas que conseguirem transformar a Shadow AI em uma estratégia estruturada de uso responsável da IA terão mais condições de capturar valor sem ampliar riscos operacionais, regulatórios e reputacionais.
 

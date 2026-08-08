@@ -7,7 +7,7 @@ description: Companies are beginning to use artificial intelligence agents to ne
   contracts, compare suppliers and automate commercial decisions, accelerating a new
   transformation in the global corporate market.
 categories:
-- business
+  - "business"
 cover:
   image: capa.webp
   alt: Executives observing AI agents negotiating corporate contracts in futuristic

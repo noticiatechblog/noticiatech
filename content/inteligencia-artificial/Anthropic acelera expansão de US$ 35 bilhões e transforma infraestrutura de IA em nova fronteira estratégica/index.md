@@ -6,7 +6,7 @@ date: 2026-06-16T00:30:00-03:00
 author: "Aluisio Soares"
 description: "A expansão de US$ 35 bilhões da Anthropic mostra que a próxima disputa da inteligência artificial não será apenas por modelos, mas pela infraestrutura necessária para operá-los em escala global."
 categories:
-  - Inteligência Artificial
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Infraestrutura de inteligência artificial da Anthropic"

@@ -1,6 +1,9 @@
 ---
 title: "Governança de IA vira prioridade nas empresas e redefine o uso corporativo da inteligência artificial"
 slug: "governanca-ia-prioridade-empresas"
+aliases:
+  - "/inteligencia-artificial/governanca-ia-prioridade-empresas/%29"
+  - "/inteligencia-artificial/governanca-ia-prioridade-empresas/)"
 date: 2026-05-09T07:10:00-03:00
 draft: false
 
@@ -9,8 +12,7 @@ description: "Empresas aceleram a adoção de governança de IA para reduzir ris
 author: "Por Aluisio Soares, fundador do Blog Notícia Tech"
 
 categories:
-- IA
-
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Governança de IA no ambiente corporativo"

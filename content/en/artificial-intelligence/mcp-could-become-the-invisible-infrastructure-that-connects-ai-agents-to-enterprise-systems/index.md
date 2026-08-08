@@ -9,7 +9,7 @@ description: The advancement of Model Context Protocol is creating a new layer o
   MCP could become the invisible infrastructure for the next generation of enterprise
   software.
 categories:
-- Inteligência Artificial
+  - "artificial-intelligence"
 cover:
   image: capa.webp
   alt: MCP Infrastructure Connecting AI Agents to Enterprise Systems

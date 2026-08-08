@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "The latest user figures for ChatGPT, Gemini, and Claude show how the race for artificial intelligence leadership extends far beyond technology and is reshaping enterprise strategy."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Comparison of ChatGPT, Gemini, and Claude based on user growth in 2026."

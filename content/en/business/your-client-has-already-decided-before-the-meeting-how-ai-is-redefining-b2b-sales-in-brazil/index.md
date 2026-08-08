@@ -7,7 +7,7 @@ description: More than 90% of B2B buyers already use artificial intelligence to 
   suppliers before the first commercial contact. The impact of this can change marketing,
   sales and business reputation.
 categories:
-- business
+  - "business"
 cover:
   image: capa.webp
 slug: your-client-has-already-decided-before-the-meeting-how-ai-is-redefining-b2b-sales-in-brazil

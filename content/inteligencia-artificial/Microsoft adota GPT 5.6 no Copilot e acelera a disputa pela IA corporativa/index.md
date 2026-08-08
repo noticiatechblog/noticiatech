@@ -7,8 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "A adoção do GPT-5.6 pelo Microsoft 365 Copilot mostra como a disputa pela inteligência artificial corporativa está migrando da criação de modelos para a entrega de produtividade real dentro das empresas."
 categories:
-  - "Inteligência Artificial"
-
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Microsoft integra GPT-5.6 ao Copilot e fortalece estratégia de IA corporativa."
@@ -55,7 +54,7 @@ Em vez de exigir que colaboradores utilizem aplicações separadas, a Microsoft 
 
 Esse movimento complementa a estratégia observada em outras iniciativas recentes envolvendo agentes inteligentes e produtividade empresarial, tema já explorado pelo Notícia Tech em:
 
-[Por que o ChatGPT Work marca o início da era dos agentes de IA na produtividade corporativa](https://noticiatech.com.br/inteligencia-artificial/por-que-o-chatgpt-work-marca-o-inicio-da-era-dos-agentes-de-ia-na-produtividade-corporativa/).
+[Por que o ChatGPT Work marca o início da era dos agentes de IA na produtividade corporativa](https://noticiatech.com.br/inteligencia-artificial/chatgpt-work-era-agentes-ia-produtividade-corporativa/).
 
 ## A disputa pela IA corporativa entra em uma nova fase
 

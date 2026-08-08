@@ -6,7 +6,7 @@ description: Browsers with artificial intelligence are beginning to replace trad
   searches, automate tasks and create a new operational layer within companies. Understand
   why Google, OpenAI, Microsoft and Perplexity accelerate the race for AI Browsers.
 categories:
-- Inteligência Artificial
+  - "artificial-intelligence"
 cover:
   image: capa.webp
   alt: Executive observing browser with artificial intelligence operating automated
@@ -50,7 +50,7 @@ In practice, this creates a new strategic dispute:
 - automated operations.
 
 This movement expands a scenario previously discussed by NOTÍCIA TECH in:
-[Google, OpenAI and Perplexity accelerate the race for AI browsers and threaten the traditional web economy](https://noticiatech.com.br/inteligencia-artificial/google-openai-e-perplexity-aceleram-riedade-pelos-navegadores-com-ia-e-amea%C3%A7am-a-economia-tradicional-da-web/)
+[Google, OpenAI and Perplexity accelerate the race for AI browsers and threaten the traditional web economy](https://noticiatech.com.br/inteligencia-artificial/google-openai-e-perplexity-aceleram-corrida-pelos-navegadores-com-ia-e-amea?am-a-economia-tradicional-da-web/)
 
 ### What changes in practice for companies?
 

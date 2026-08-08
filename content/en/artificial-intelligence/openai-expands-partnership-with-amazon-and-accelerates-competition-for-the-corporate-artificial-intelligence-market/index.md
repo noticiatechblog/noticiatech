@@ -6,7 +6,7 @@ description: OpenAI expands its business strategy with support from Amazon and r
   companies.
 date: 2026-04-27 08:00:00-03:00
 categories:
-- ia
+  - "artificial-intelligence"
 draft: false
 cover:
   image: capa.webp

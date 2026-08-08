@@ -7,8 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "A DeepSeek apresentou um novo modelo de inteligência artificial que, segundo análise de mercado, possui o menor custo entre os principais LLMs comerciais. Entenda como essa estratégia pode pressionar OpenAI, Anthropic e Google na disputa pelo mercado corporativo."
 categories:
-  - "Inteligência Artificial"
-
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Ilustração representando a competição entre DeepSeek, OpenAI e Anthropic no mercado de inteligência artificial."

@@ -6,7 +6,7 @@ draft: false
 description: "Empresas brasileiras estão usando inteligência artificial no WhatsApp para automatizar atendimento, qualificar leads e aumentar conversões com menos esforço operacional."
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 categories:
-- Automação
+  - "automacao"
 cover:
   image: "capa.webp"
   alt: "Atendimento automatizado por inteligência artificial no WhatsApp integrado ao processo de vendas"

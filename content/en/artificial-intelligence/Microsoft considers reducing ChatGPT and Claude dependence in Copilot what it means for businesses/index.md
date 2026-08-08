@@ -7,8 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Microsoft is reportedly evaluating new AI models for Copilot that could reduce its dependence on ChatGPT and Claude. Here's what the move could mean for businesses and the future of enterprise AI."
 categories:
-  - Artificial Intelligence
-
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Microsoft evaluates a strategic shift in Copilot by expanding support for multiple artificial intelligence models."

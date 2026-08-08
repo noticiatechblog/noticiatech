@@ -8,7 +8,7 @@ description: The AI-First strategy championed by Tobi Lütke is redefining hirin
   productivity and business growth. Understand why Shopify's movement can influence
   companies around the world.
 categories:
-- business
+  - "business"
 cover:
   image: capa.webp
   alt: Tobi Lütke during a presentation on artificial intelligence and business productivity

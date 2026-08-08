@@ -4,7 +4,7 @@ date: "2026-05-19 06:00:00"
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "Pequenas empresas brasileiras estão adotando automação e inteligência artificial de forma silenciosa para reduzir custos, acelerar operações e aumentar competitividade em 2026."
 categories:
-  - "Automação"
+  - "automacao"
 cover:
   image: "capa.webp"
   alt: "Empresário observando painéis de automação e inteligência artificial em escritório moderno"

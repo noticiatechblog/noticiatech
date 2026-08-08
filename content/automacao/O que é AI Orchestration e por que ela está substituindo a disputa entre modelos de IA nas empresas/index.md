@@ -8,8 +8,7 @@ author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Entenda o que é AI Orchestration, como funciona a orquestração de múltiplos modelos de inteligência artificial e por que empresas estão deixando de depender de uma única IA."
 
 categories:
-  - "Automação"
-
+  - "automacao"
 cover:
   image: "capa.webp"
   alt: "Arquitetura de AI Orchestration conectando múltiplos modelos de inteligência artificial para empresas."

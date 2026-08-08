@@ -7,7 +7,7 @@ description: The silent advance of Shadow AI within companies is beginning to wo
   executives, security teams and technology leaders. Understand why the unauthorized
   use of AI tools has become one of the biggest corporate challenges of 2026.
 categories:
-- business
+  - "business"
 cover:
   image: capa.webp
   alt: Executives analyzing the invisible growth of Shadow AI within companies

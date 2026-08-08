@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "OpenAI's move into hardware signals a strategic shift in the artificial intelligence race. The competition is no longer limited to AI models and is increasingly focused on devices, interfaces, and control of the user experience."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "OpenAI competes for the future of artificial intelligence devices"
@@ -102,7 +102,7 @@ Its strategy focuses on integrating AI directly into its ecosystem, using the iP
 
 This transition is already visible through the expansion of AI Overviews and AI-assisted search experiences.
 
-The trend connects directly to the movement explored in [The Interface War Has Begun: Why Apple, OpenAI, Google, and Microsoft Want to Replace Apps with AI Agents](https://noticiatech.com.br/ia/a-guerra-das-interfaces-comecou-por-que-apple-openai-google-e-microsoft-querem-substituir-os-aplicativos-por-agentes-de-ia/).
+The trend connects directly to the movement explored in [The Interface War Has Begun: Why Apple, OpenAI, Google, and Microsoft Want to Replace Apps with AI Agents](https://noticiatech.com.br/inteligencia-artificial/guerra-interfaces-agentes-ia-apple-openai-google-microsoft/).
 
 ### OpenAI's Role
 
@@ -124,7 +124,7 @@ The trend suggests that intelligent agents will move beyond functioning as stand
 
 Instead, they may become permanent layers of interaction, assisting professionals with operational tasks, strategic decisions, and business workflows.
 
-This development aligns with trends discussed in [AI First: Why This Strategy Is Redefining Business Competitiveness](https://noticiatech.com.br/ia/o-que-e-ai-first-e-por-que-essa-estrategia-esta-redefinindo-a-competitividade-das-empresas/).
+This development aligns with trends discussed in [AI First: Why This Strategy Is Redefining Business Competitiveness](https://noticiatech.com.br/negocios/o-que-e-ai-first-estrategia-empresas/).
 
 ### The Device May No Longer Be the Center
 

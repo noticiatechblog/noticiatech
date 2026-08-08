@@ -10,8 +10,7 @@ author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Anthropic has expanded Claude with the ability to control applications, browse a computer and execute complex workflows. Here's what it means for businesses and why it raises the stakes in the race against ChatGPT."
 
 categories:
-  - "Artificial Intelligence"
-
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Claude operating a computer while competing with ChatGPT in the enterprise artificial intelligence market."

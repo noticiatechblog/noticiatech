@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Learn what AI Fluency is, why it is becoming a critical business capability, and how professionals can develop artificial intelligence fluency to improve productivity and gain a competitive advantage."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Professionals using artificial intelligence to support strategic business decisions"

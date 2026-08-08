@@ -4,7 +4,7 @@ description: Meta is using artificial intelligence to automate campaigns and red
   manual targeting, changing the logic of digital advertising for businesses.
 date: 2026-04-18
 categories:
-- automation
+  - "automation"
 draft: false
 cover:
   image: capa.webp
@@ -71,7 +71,7 @@ Smaller companies can compete without complex paid traffic structures.
 
 ## The strategic objective of the Goal
 
-![Meta escritório](meta-office.webp)
+![Meta escritório](meta-office.png)
 
 Meta's strategy is to simplify the entry of new advertisers into its ecosystem.
 

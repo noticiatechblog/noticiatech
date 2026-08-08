@@ -5,7 +5,7 @@ description: Discover how companies are applying artificial intelligence to auto
 slug: how-companies-are-using-ai-to-automate-processes-and-reduce-costs-in-2026
 date: 2026-04-09
 categories:
-- automation
+  - "automation"
 tags:
 - inteligencia artificial
 - automacao empresarial

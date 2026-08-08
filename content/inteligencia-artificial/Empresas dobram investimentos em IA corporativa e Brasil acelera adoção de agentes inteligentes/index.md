@@ -2,8 +2,8 @@
 title: "Empresas dobram investimentos em IA corporativa e Brasil acelera adoção de agentes inteligentes"
 date: 2026-05-13T07:10:00-03:00
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
-category: "IA"
-
+categories:
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Executivos observando painéis de inteligência artificial em ambiente corporativo moderno"

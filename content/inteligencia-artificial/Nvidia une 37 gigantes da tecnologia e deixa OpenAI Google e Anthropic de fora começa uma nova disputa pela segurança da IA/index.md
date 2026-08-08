@@ -7,8 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "A Nvidia anunciou uma aliança global de segurança para inteligência artificial reunindo 37 empresas. A ausência de OpenAI, Google e Anthropic levanta dúvidas sobre os próximos passos da disputa pelo mercado corporativo de IA."
 categories:
-  - "Inteligência Artificial"
-
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Executivos observando infraestrutura de inteligência artificial simbolizando a nova aliança global liderada pela Nvidia."

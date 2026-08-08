@@ -7,7 +7,7 @@ description: Companies are starting to use AI agents to automate corporate purch
   negotiate contracts and reduce operational costs. Movement could transform the global
   B2B software market by 2026.
 categories:
-- business
+  - "business"
 cover:
   image: capa.webp
   alt: Executives analyzing AI agents automating corporate purchasing in modern business

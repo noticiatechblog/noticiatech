@@ -12,8 +12,7 @@ hideAuthor: true
 description: "The possibility of an OpenAI IPO and similar moves by Anthropic signal a new chapter for artificial intelligence. Discover how the race for investment could reshape the enterprise AI market."
 
 categories:
-  - Artificial Intelligence
-
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "OpenAI and Anthropic accelerate the IPO race, signaling a new era for artificial intelligence."

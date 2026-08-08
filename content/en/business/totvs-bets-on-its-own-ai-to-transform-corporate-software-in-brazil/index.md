@@ -2,7 +2,8 @@
 title: TOTVS bets on its own AI to transform corporate software in Brazil
 date: 2026-05-11 07:00:00-03:00
 author: Aluisio Soares, founder of the blog Notícia Tech
-category: Negócios
+categories:
+  - "business"
 cover:
   image: capa.webp
   alt: TOTVS accelerates investment in its own artificial intelligence for corporate

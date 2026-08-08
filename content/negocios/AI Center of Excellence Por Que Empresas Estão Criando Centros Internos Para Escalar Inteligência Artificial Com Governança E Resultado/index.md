@@ -2,11 +2,13 @@
 title: "AI Center of Excellence: por que empresas estão criando centros internos para escalar inteligência artificial com governança e resultado"
 slug: "ai-center-of-excellence-empresas-escalar-inteligencia-artificial"
 translationKey: "ai-center-of-excellence-empresas-escalar-inteligencia-artificial"
+aliases:
+  - "/ia/ai-center-of-excellence-empresas-escalar-inteligencia-artificial-governanca-resultado/"
 date: 2026-06-12T00:20:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "Entenda por que empresas estão criando AI Centers of Excellence para acelerar adoção de inteligência artificial, reduzir riscos operacionais e transformar projetos isolados em vantagem competitiva sustentável."
 categories:
-  - "Negócios"
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "Executivos analisando estratégia de inteligência artificial em um AI Center of Excellence corporativo"
@@ -137,7 +139,7 @@ Nesse contexto, os **AI Centers of Excellence** funcionam como uma infraestrutur
 
 As organizações mais avançadas estão tratando IA como capacidade operacional permanente e não como projeto temporário.
 
-Essa visão também aparece em movimentos relacionados à [AI Readiness e maturidade operacional para a nova economia da inteligência artificial](https://noticiatech.com.br/negocios/ai-readiness-por-que-empresas-comecam-a-medir-maturidade-operacional-para-sobreviver-a-nova-economia-da-inteligencia-artificial/).
+Essa visão também aparece em movimentos relacionados à [AI Readiness e maturidade operacional para a nova economia da inteligência artificial](https://noticiatech.com.br/negocios/ai-readiness-por-que-empresas-come?am-a-medir-maturidade-operacional-para-sobreviver-?-nova-economia-da-intelig?ncia-artificial/).
 
 ### O que esperar nos próximos anos?
 

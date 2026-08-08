@@ -1,10 +1,12 @@
 ---
 title: "OpenAI começa a reduzir dependência da Microsoft e mercado de IA entra em nova guerra bilionária"
+aliases:
+  - "/inteligencia-artificial/openai-come?a-a-redutor-depend?ncia-da-microsoft-e-mercado-de-ia-entra-em-nova-guerra-bilion?ria/"
 date: 2026-05-16T06:10:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "A renegociação bilionária entre OpenAI e Microsoft pode redefinir a disputa global por infraestrutura de inteligência artificial e abrir uma nova fase no mercado corporativo de IA."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "OpenAI e Microsoft em disputa estratégica no mercado global de inteligência artificial"

@@ -7,8 +7,7 @@ draft: false
 author: "By Aluisio Soares, Founder of Notícia Tech"
 description: "Google's decision to delay Gemini 3.5 reveals a strategic shift in its competition with OpenAI and Anthropic. Here's what it means for businesses, the AI market, and the future of artificial intelligence."
 categories:
-  - "Artificial Intelligence"
-
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Executives analyzing the competition between Google, OpenAI, and Anthropic following the Gemini 3.5 delay."

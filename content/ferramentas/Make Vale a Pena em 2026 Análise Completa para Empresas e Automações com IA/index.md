@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Descubra se o Make vale a pena em 2026. Analisamos recursos, preços, vantagens, limitações e quando a plataforma de automação faz sentido para empresas e profissionais."
 categories:
-  - Ferramentas
+  - "ferramentas"
 cover:
   image: "capa.webp"
   alt: "Interface do Make mostrando fluxos de automação conectando aplicações empresariais com inteligência artificial."

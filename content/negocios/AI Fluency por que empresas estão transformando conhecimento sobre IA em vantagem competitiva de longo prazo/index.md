@@ -6,7 +6,7 @@ date: 2026-06-13T00:20:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "Entenda por que AI Fluency está se tornando uma das competências mais importantes para empresas que desejam escalar inteligência artificial, aumentar produtividade e criar vantagem competitiva sustentável."
 categories:
-  - "Negócios"
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "Executivos analisando estratégias de AI Fluency em ambiente corporativo"

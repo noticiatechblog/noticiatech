@@ -6,7 +6,7 @@ date: 2026-06-14T00:30:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "Descubra se o n8n vale a pena em 2026, como funciona a plataforma de automação, diferenças para Zapier e Make, custos, vantagens e aplicações para agentes de IA."
 categories:
-  - Ferramentas
+  - "ferramentas"
 cover:
   image: "capa.webp"
   alt: "Painel do n8n conectado a agentes de IA e fluxos de automação empresarial"

@@ -7,7 +7,7 @@ draft: false
 author: "Aluisio Soares"
 description: "Mistral AI is expanding its enterprise strategy and strengthening its position in the artificial intelligence market as OpenAI and Google intensify competition for businesses and developers."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Executives analyzing Mistral AI's enterprise strategy amid competition with OpenAI and Google."

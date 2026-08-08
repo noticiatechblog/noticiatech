@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, Founder of Notícia Tech"
 description: "Learn how to build an MCP server that connects ChatGPT, Claude, Gemini, and other AI models to enterprise systems through a secure, scalable architecture designed for business automation."
 categories:
-  - "Automation"
+  - "tools"
 cover:
   image: "capa.webp"
   alt: "Enterprise MCP server architecture connecting artificial intelligence to corporate systems"

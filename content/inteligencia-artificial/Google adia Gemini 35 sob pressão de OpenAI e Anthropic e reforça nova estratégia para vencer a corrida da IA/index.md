@@ -7,8 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "O adiamento do Gemini 3.5 revela uma mudança estratégica do Google na disputa contra OpenAI e Anthropic. Entenda os impactos para empresas, mercado e o futuro da inteligência artificial."
 categories:
-  - "Inteligência Artificial"
-
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Executivos observam disputa entre Google, OpenAI e Anthropic após adiamento do Gemini 3.5"

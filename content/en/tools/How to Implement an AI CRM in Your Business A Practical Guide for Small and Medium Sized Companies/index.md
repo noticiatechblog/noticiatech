@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Learn how to implement an AI CRM strategically, reduce deployment mistakes, and improve sales, customer service, and productivity in small and medium-sized businesses."
 categories:
-  - "Tools"
+  - "tools"
 cover:
   image: "capa.webp"
   alt: "Strategic AI CRM implementation for businesses"

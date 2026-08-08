@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Descubra quais são os melhores CRMs com agentes de IA em 2026, entenda como AI Employees estão transformando vendas, marketing e atendimento e saiba qual plataforma faz mais sentido para sua empresa."
 categories:
-  - "Ferramentas"
+  - "ferramentas"
 cover:
   image: "capa.webp"
   alt: "Comparativo dos melhores CRMs com agentes de IA para empresas em 2026."

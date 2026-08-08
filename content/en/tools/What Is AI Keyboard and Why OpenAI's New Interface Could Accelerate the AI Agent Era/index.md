@@ -7,8 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Learn what AI Keyboard is, how OpenAI's new interface for AI agents works, and why it could redefine enterprise productivity over the coming years."
 categories:
-  - "Tools"
-
+  - "tools"
 cover:
   image: "capa.webp"
   alt: "Professional using an AI Keyboard to coordinate artificial intelligence agents in a corporate environment."

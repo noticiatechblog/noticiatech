@@ -4,7 +4,7 @@ date: 2026-05-25T06:05:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "Empresas começam a usar inteligência artificial para transformar documentos, reuniões e conhecimento interno em sistemas estratégicos de memória corporativa capazes de acelerar decisões, reduzir perdas operacionais e ampliar produtividade."
 categories:
-  - "Negócios"
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "Executivos analisando sistema de memória corporativa alimentado por inteligência artificial"

@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "A Mistral AI amplia sua estratégia para empresas com uma plataforma integrada de agentes de IA, automação e produtividade, intensificando a disputa com OpenAI, Anthropic e Google no mercado corporativo."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Plataforma da Mistral AI acelera estratégia enterprise e amplia concorrência no mercado de inteligência artificial."

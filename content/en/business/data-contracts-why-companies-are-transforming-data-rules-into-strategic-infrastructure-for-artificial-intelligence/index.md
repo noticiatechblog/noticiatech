@@ -7,7 +7,7 @@ author: Aluisio Soares, founder of the blog Notícia Tech
 description: Understand how Data Contracts are becoming a strategic piece to ensure
   data quality, governance and scalability of AI agents in companies.
 categories:
-- business
+  - "business"
 cover:
   image: capa.webp
   alt: Executives analyzing corporate data streams connected by artificial intelligence

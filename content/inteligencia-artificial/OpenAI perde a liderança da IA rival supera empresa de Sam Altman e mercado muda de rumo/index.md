@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "A Anthropic avança sobre a OpenAI em receita corporativa e adoção por desenvolvedores, levantando dúvidas sobre quem liderará a próxima fase da inteligência artificial."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "OpenAI e Anthropic disputam a liderança do mercado de inteligência artificial"

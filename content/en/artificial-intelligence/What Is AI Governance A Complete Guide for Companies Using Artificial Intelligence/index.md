@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Learn what AI Governance is, why artificial intelligence governance has become a strategic priority for businesses, and how to implement best practices to reduce risk, ensure compliance, and scale AI adoption."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Business executives discussing AI Governance policies in a corporate environment"

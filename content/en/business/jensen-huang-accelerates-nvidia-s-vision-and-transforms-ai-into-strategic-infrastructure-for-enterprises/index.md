@@ -6,7 +6,7 @@ author: Aluisio Soares, founder of the blog Notícia Tech
 description: Jensen Huang's strategy is transforming NVIDIA into one of the most influential
   companies in the new economy of enterprise artificial intelligence.
 categories:
-- business
+  - "business"
 cover:
   image: capa.webp
   alt: Jensen Huang in a futuristic corporate environment representing NVIDIA's expansion

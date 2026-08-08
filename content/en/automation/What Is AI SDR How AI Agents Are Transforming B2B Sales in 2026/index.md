@@ -10,8 +10,7 @@ hideAuthor: true
 description: "Learn what AI SDR is, how this new generation of AI-powered sales agents works, and why businesses are adopting the technology to improve productivity and increase sales conversions."
 
 categories:
-  - "Automation"
-
+  - "automation"
 cover:
   image: "capa.webp"
   alt: "AI SDR automating B2B sales prospecting with artificial intelligence"

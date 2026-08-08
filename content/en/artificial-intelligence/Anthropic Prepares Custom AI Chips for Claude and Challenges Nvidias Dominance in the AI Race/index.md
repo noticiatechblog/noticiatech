@@ -11,8 +11,7 @@ hideAuthor: false
 description: "Anthropic is building a dedicated semiconductor team to develop custom AI chips for Claude. The strategy could reduce the company's reliance on Nvidia and mark the beginning of a new phase in the artificial intelligence race."
 
 categories:
-  - "Artificial Intelligence"
-
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Anthropic develops custom AI chips to accelerate Claude and challenge OpenAI and Nvidia"

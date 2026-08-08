@@ -6,7 +6,7 @@ date: 2026-06-11T00:20:00-03:00
 author: "Aluisio Soares, founder of Notícia Tech"
 description: "Understand what AI Operations is, why companies are building governance structures for AI agents, and how this emerging discipline could determine the success of digital transformation in the years ahead."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Executives monitoring AI agents in a corporate environment"

@@ -2,7 +2,8 @@
 title: "TOTVS aposta em IA própria para transformar software corporativo no Brasil"
 date: 2026-05-11T07:00:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
-category: "Negócios"
+categories:
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "TOTVS acelera aposta em inteligência artificial própria para software corporativo"

@@ -6,7 +6,7 @@ description: Companies are replacing traditional chatbots with autonomous AI age
   capable of solving complex problems, automating support and redefining customer
   relationships on a global scale.
 categories:
-- Inteligência Artificial
+  - "artificial-intelligence"
 cover:
   image: capa.webp
   alt: Corporate AI agent serving customers in futuristic business environment

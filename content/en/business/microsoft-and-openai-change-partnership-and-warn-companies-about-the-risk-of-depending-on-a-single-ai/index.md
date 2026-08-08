@@ -7,7 +7,7 @@ description: Change in the agreement between Microsoft and OpenAI reinforces a n
   scenario for companies. Enterprise AI enters the multicloud era and demands a more
   flexible strategy.
 categories:
-- business
+  - "business"
 cover:
   image: capa.webp
   alt: Microsoft and OpenAI redefine partnership and usher in new phase of enterprise

@@ -8,7 +8,7 @@ description: Companies discover that the success of AI agents depends less on th
   model used and more on the quality of the context provided. The era of Context Engineering
   dawns.
 categories:
-- Inteligência Artificial
+  - "artificial-intelligence"
 cover:
   image: capa.webp
   alt: Context infrastructure connecting AI agents to enterprise systems

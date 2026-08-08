@@ -6,8 +6,7 @@ date: 2026-08-03T00:20:00-03:00
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Microsoft's new strategy combines AI agents, automation and threat intelligence to reshape enterprise cybersecurity and strengthen digital resilience."
 categories:
-  - "Artificial Intelligence"
-
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Enterprise security operations center using Microsoft AI agents for cybersecurity monitoring."

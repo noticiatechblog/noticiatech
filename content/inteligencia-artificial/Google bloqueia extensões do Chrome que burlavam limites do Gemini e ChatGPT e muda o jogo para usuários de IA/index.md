@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "O Google começou a bloquear extensões do Chrome que burlavam limitações do Gemini, ChatGPT e outras ferramentas de inteligência artificial. Entenda o impacto para usuários, empresas e o mercado."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Google reforça a segurança do Chrome ao bloquear extensões relacionadas a ferramentas de inteligência artificial."

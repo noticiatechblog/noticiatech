@@ -7,18 +7,7 @@ description: Amazon intensifies the use of artificial intelligence in logistics 
 slug: amazon-expands-automation-with-ai-in-logistics-and-shows-a-way-for-companies-to-reduce-operational-costs
 date: 2026-04-27 08:30:00-03:00
 categories:
-- '-'
-- '"'
-- A
-- u
-- t
-- o
-- m
-- a
-- ç
-- ã
-- o
-- '"'
+  - "automation"
 draft: false
 cover:
   image: capa.webp

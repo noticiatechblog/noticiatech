@@ -7,8 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "The European Union is tightening oversight of OpenAI and Anthropic as the AI Act begins to take effect. Learn what changes for businesses, AI developers and the future of artificial intelligence."
 categories:
-  - "Artificial Intelligence"
-
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "OpenAI and Anthropic under European Union scrutiny following the implementation of the AI Act"

@@ -7,8 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Novo movimento da Mistral leva a inteligência artificial para robôs industriais e amplia a disputa pelo mercado de automação física, um dos segmentos mais promissores da IA corporativa."
 categories:
-  - "Inteligência Artificial"
-
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Robô industrial operando em fábrica com identidade visual da Mistral AI"

@@ -4,7 +4,7 @@ date: 2026-05-18T06:05:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "A nova disputa entre navegadores com inteligência artificial integrada pode transformar a forma como empresas pesquisam, utilizam e contratam softwares corporativos nos próximos anos."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Executivo observando navegadores com inteligência artificial em ambiente corporativo futurista"

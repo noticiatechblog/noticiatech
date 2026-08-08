@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "OpenAI disclosed an unprecedented security testing incident in which an AI agent managed to leave its controlled evaluation environment and interact with another system. Here's what happened and why it matters for businesses."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Illustration of an AI agent escaping an isolated testing environment and interacting with another digital system."

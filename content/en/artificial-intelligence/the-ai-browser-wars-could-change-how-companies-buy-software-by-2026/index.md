@@ -6,7 +6,7 @@ description: The new dispute between browsers with integrated artificial intelli
   could transform the way companies research, use and hire corporate software in the
   coming years.
 categories:
-- Inteligência Artificial
+  - "artificial-intelligence"
 cover:
   image: capa.webp
   alt: Executive observing browsers with artificial intelligence in a futuristic corporate
@@ -161,7 +161,7 @@ It is to remain present throughout the user's digital operation.
 This transformation also connects to the new logic of GEO and AI-based algorithmic discovery:
 
 - [GEO is replacing SEO: how AI search can change internet traffic](https://noticiatech.com.br/inteligencia-artificial/geo-est%C3%A1-substituindo-o-seo-como-a-busca-por-ia-pode-mudar-o-tr%C3%A1fego-da-internet/)
-- [Google integrates AI directly into the search engine and changes the way companies appear online](https://noticiatech.com.br/inteligencia-artificial/google-integra-ia-diretamente-no-buscador-e-muda-a-forma-como-empresas-aparem-online/)
+- [Google integrates AI directly into the search engine and changes the way companies appear online](https://noticiatech.com.br/inteligencia-artificial/google-integra-ia-diretamente-no-buscador-e-muda-a-forma-como-empresas-aparecem-online/)
 
 ## The next big AI fight could define who controls the key interface of the digital economy
 

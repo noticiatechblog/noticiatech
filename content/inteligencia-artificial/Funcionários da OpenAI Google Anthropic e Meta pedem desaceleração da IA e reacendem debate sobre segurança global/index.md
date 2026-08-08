@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Carta assinada por mais de 1.100 profissionais de OpenAI, Google, Anthropic e Meta pede cooperação internacional para reduzir o ritmo do desenvolvimento da inteligência artificial de fronteira e amplia o debate sobre segurança, competitividade e governança."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Representação da corrida global pela inteligência artificial entre grandes empresas de tecnologia"

@@ -4,7 +4,7 @@ description: Klarna reduced costs and accelerated customer support with artifici
   intelligence, but faced limitations that expose a critical point in business automation.
 date: 2026-04-18
 categories:
-- automation
+  - "automation"
 draft: false
 cover:
   image: capa.webp

@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Meta’s reorganization around artificial intelligence reveals an important strategic shift: the competition for the future of AI is moving beyond models toward talent, data, infrastructure, and execution capabilities."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Meta accelerates artificial intelligence investments and reorganizes its strategy to compete in the race toward superintelligence"

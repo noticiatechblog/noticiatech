@@ -4,7 +4,7 @@ date: 2026-05-24T06:10:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "A ascensão dos motores de busca baseados em IA está mudando radicalmente o tráfego da web, pressionando publishers, redefinindo SEO e criando uma nova disputa pela atenção digital em 2026."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Motores de busca com IA transformando o ecossistema da web e ameaçando publishers digitais"

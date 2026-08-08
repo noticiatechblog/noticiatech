@@ -1,10 +1,12 @@
 ---
 title: "AI Readiness: por que empresas começam a medir maturidade operacional para sobreviver à nova economia da inteligência artificial"
+aliases:
+  - "/negocios/ai-readiness-por-que-empresas-comecam-a-medir-maturidade-operacional-para-sobreviver-a-nova-economia-da-inteligencia-artificial/"
 date: 2026-05-26T06:05:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "Empresas estão descobrindo que adotar IA não é mais suficiente. A nova prioridade do mercado agora é medir maturidade operacional, integração de dados, governança e capacidade real de transformar inteligência artificial em vantagem competitiva sustentável."
 categories:
-  - "Negócios"
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "Executivos analisando métricas de maturidade em IA dentro de uma central corporativa futurista"

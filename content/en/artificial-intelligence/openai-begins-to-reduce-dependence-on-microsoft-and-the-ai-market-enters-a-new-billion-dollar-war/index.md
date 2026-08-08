@@ -7,7 +7,7 @@ description: The billion-dollar renegotiation between OpenAI and Microsoft could
   the global dispute for artificial intelligence infrastructure and open a new phase
   in the corporate AI market.
 categories:
-- Inteligência Artificial
+  - "artificial-intelligence"
 cover:
   image: capa.webp
   alt: OpenAI and Microsoft in strategic dispute in the global artificial intelligence

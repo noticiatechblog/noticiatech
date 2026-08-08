@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Google Gemini e ChatGPT começam a transformar veículos em plataformas inteligentes. Entenda como a inteligência artificial embarcada pode mudar a experiência dos motoristas, acelerar a indústria automotiva e abrir novas oportunidades para empresas."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Veículo moderno utilizando inteligência artificial com Google Gemini e ChatGPT integrados aos sistemas do automóvel."

@@ -7,7 +7,7 @@ description: Brazilian companies are using artificial intelligence on WhatsApp t
   automate service, qualify leads and increase conversions with less operational effort.
 author: Aluisio Soares, founder of the blog Notícia Tech
 categories:
-- automation
+  - "automation"
 cover:
   image: capa.webp
   alt: Automated service using artificial intelligence on WhatsApp integrated into

@@ -9,7 +9,7 @@ description: Shopify expands artificial intelligence capabilities for online sto
   and campaigns, reducing operational costs and accelerating sales for small and medium-sized
   businesses.
 categories:
-- business
+  - "business"
 cover:
   image: capa.webp
   caption: With integrated AI, small businesses can automate operations and accelerate

@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Entenda o que é Claude Code, como funciona a ferramenta da Anthropic, quais são suas aplicações práticas, vantagens, limitações e por que ela pode transformar o desenvolvimento de software nas empresas."
 categories:
-  - "Ferramentas"
+  - "ferramentas"
 cover:
   image: "capa.webp"
   alt: "Desenvolvedor utilizando Claude Code para criar software com inteligência artificial"

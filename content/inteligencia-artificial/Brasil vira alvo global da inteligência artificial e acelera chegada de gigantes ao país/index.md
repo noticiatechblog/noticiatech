@@ -4,7 +4,7 @@ date: 2026-05-01T01:40:00-03:00
 draft: false
 description: "Empresas globais ampliam presença no Brasil e colocam o país no centro da nova corrida corporativa pela inteligência artificial."
 categories:
-  - Inteligência Artificial
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Brasil no centro da expansão global da inteligência artificial"

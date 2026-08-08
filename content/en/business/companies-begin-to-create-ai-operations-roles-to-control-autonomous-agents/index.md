@@ -6,7 +6,7 @@ description: The advancement of autonomous agents begins to create a new operati
   layer in companies and drives the emergence of AI Operations professionals responsible
   for controlling flows, supervision and governance of corporate artificial intelligence.
 categories:
-- business
+  - "business"
 cover:
   image: capa.webp
   alt: Executives monitoring operations of artificial intelligence agents in a corporate

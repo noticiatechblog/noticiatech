@@ -5,7 +5,7 @@ description: The integration of artificial intelligence into Google's search eng
   strategies.
 date: 2026-04-18
 categories:
-- ia
+  - "artificial-intelligence"
 draft: false
 cover:
   image: capa.png

@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "A letter signed by more than 1,100 employees from OpenAI, Google, Anthropic and Meta urges international cooperation to slow frontier AI development, reigniting the global debate over artificial intelligence safety, governance and competitiveness."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "Illustration of the global artificial intelligence race among leading technology companies"

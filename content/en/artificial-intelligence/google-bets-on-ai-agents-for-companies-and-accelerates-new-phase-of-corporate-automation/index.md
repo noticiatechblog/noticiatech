@@ -6,7 +6,7 @@ description: Google puts AI agents at the center of business strategy with Gemin
 slug: google-bets-on-ai-agents-for-companies-and-accelerates-new-phase-of-corporate-automation
 date: 2026-04-26 15:00:00-03:00
 categories:
-- ia
+  - "artificial-intelligence"
 draft: false
 cover:
   image: capa.webp

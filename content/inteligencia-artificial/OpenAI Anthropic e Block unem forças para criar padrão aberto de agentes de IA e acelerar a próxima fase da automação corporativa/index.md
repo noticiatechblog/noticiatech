@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "A criação da Agentic AI Foundation por OpenAI, Anthropic e Block sinaliza uma nova etapa da inteligência artificial corporativa baseada em padrões abertos, interoperabilidade e agentes inteligentes."
 categories:
-  - Inteligência Artificial
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Agentic AI Foundation reúne OpenAI, Anthropic e Block para criar padrões abertos para agentes de IA."

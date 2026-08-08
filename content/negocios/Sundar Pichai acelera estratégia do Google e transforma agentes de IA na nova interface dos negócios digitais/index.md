@@ -4,7 +4,7 @@ date: 2026-05-30T08:10:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "A estratégia de Sundar Pichai coloca agentes de IA no centro do ecossistema do Google e pode redefinir como empresas vendem, operam e disputam atenção na economia digital."
 categories:
-  - "Negócios"
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "Sundar Pichai liderando a nova estratégia de agentes de IA do Google"

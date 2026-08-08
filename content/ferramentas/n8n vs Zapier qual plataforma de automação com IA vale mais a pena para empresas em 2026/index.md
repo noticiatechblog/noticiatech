@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Compare n8n e Zapier em recursos, inteligência artificial, integrações, preços, segurança e escalabilidade para descobrir qual plataforma atende melhor às necessidades da sua empresa em 2026."
 categories:
-  - Ferramentas
+  - "ferramentas"
 cover:
   image: "capa.webp"
   alt: "Comparação entre n8n e Zapier para automação empresarial com inteligência artificial"

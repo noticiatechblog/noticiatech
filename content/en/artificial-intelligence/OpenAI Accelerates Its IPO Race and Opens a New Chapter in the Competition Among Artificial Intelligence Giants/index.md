@@ -7,7 +7,7 @@ draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "OpenAI's confidential IPO filing marks a strategic turning point for the artificial intelligence industry. Discover how the competition between OpenAI, Anthropic, Google, and Microsoft is entering a new era and what it could mean for businesses and investors."
 categories:
-  - "Artificial Intelligence"
+  - "artificial-intelligence"
 cover:
   image: "capa.webp"
   alt: "OpenAI accelerates its IPO plans, intensifying competition among the world's leading artificial intelligence companies."

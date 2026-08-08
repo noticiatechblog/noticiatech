@@ -7,7 +7,7 @@ description: The race between OpenAI, Google, Shopify and retail giants ushers i
   a new era of digital commerce based on AI agents, conversational checkout and automated
   product discovery.
 categories:
-- IA
+  - "artificial-intelligence"
 cover:
   image: capa.webp
   alt: Futuristic interface showing AI agents making automatic purchases between ChatGPT,

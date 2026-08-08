@@ -6,8 +6,7 @@ date: 2026-06-13T00:30:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "A investigação contra a OpenAI surge no momento em que a empresa acelera seu IPO e amplia a estratégia de agentes de IA, criando um novo debate sobre governança, responsabilidade e riscos corporativos."
 categories:
-  - "Inteligência Artificial"
-
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "OpenAI enfrenta investigação enquanto acelera IPO e expansão dos agentes de IA"

@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "O Google apresentou o Gemini Spark, um novo agente de inteligência artificial para assinantes Ultra. Entenda como o lançamento amplia a disputa com OpenAI, Anthropic e Microsoft e o impacto para empresas."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Gemini Spark representa a nova estratégia do Google para agentes de IA empresariais."

@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "O lançamento do Claude Science marca uma nova etapa da estratégia da Anthropic ao criar uma plataforma especializada para pesquisadores, reforçando a tendência de IAs verticais voltadas ao mercado corporativo."
 categories:
-  - "Inteligência Artificial"
+  - "ferramentas"
 cover:
   image: "capa.webp"
   alt: "Pesquisadores utilizando Claude Science em laboratório enquanto a plataforma de IA da Anthropic analisa dados científicos."

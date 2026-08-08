@@ -1,10 +1,12 @@
 ---
 title: "LinkedIn deixa de ser rede de currículos e vira plataforma de distribuição B2B impulsionada por IA"
+aliases:
+  - "/marketing/linkedin-deixa-de-ser-rede-de-curr?culos-e-vira-plataforma-de-distribui??o-b2b-impulsionada-por-ia/"
 date: 2026-05-18T06:10:00-03:00
 author: "Aluisio Soares, fundador do blog Notícia Tech"
 description: "O LinkedIn está deixando de funcionar apenas como uma rede profissional e começa a se consolidar como uma plataforma estratégica de distribuição B2B impulsionada por inteligência artificial, autoridade digital e descoberta algorítmica."
 categories:
-  - "Negócios"
+  - "negocios"
 cover:
   image: "capa.webp"
   alt: "Executivo analisando crescimento de autoridade no LinkedIn com inteligência artificial e distribuição B2B"

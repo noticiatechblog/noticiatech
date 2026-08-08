@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "A Meta afirma que seus novos modelos já alcançam o nível do GPT-5.5. Entenda como essa estratégia pode mudar a disputa entre OpenAI, Google, Anthropic e o mercado de IA corporativa."
 categories:
-  - "Inteligência Artificial"
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Executivos observam a disputa entre Meta, OpenAI, Google e Anthropic pelo mercado de inteligência artificial corporativa."

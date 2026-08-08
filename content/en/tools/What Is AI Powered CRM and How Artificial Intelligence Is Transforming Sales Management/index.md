@@ -6,7 +6,7 @@ date: 2026-06-19T00:20:00-03:00
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Learn what AI-powered CRM is, how it works, the benefits it offers businesses, and why artificial intelligence is reshaping sales management."
 categories:
-  - "Tools"
+  - "tools"
 cover:
   image: "capa.webp"
   alt: "Modern CRM dashboard powered by artificial intelligence analyzing sales data"

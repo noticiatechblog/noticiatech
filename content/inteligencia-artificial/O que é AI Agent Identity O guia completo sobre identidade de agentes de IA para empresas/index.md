@@ -10,8 +10,7 @@ author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Entenda o que é AI Agent Identity, por que a identidade de agentes de IA se tornou uma prioridade para empresas e como esse conceito fortalece a segurança, a governança e a escalabilidade da Inteligência Artificial corporativa."
 
 categories:
-  - "Inteligência Artificial"
-
+  - "inteligencia-artificial"
 cover:
   image: "capa.webp"
   alt: "Ilustração representando a identidade digital de agentes de Inteligência Artificial em um ambiente corporativo seguro."
