@@ -1225,6 +1225,11 @@ img {
 
     #menu {
         gap: 4px !important;
+        flex-basis: 100%;
+        width: 100%;
+        display: flex;
+        justify-content: flex-start;
+        flex-wrap: wrap;
     }
 
     #menu li {
@@ -1489,4 +1494,9 @@ img {
         display: flex;
         justify-content: center;
     }
+}
+
+html,
+body {
+    overflow-x: hidden;
 }
