@@ -13,7 +13,7 @@ cover:
 
 *O avanço da inteligência artificial está mudando silenciosamente a lógica da descoberta digital corporativa. Enquanto empresas ainda tentam entender o impacto do GEO, AI Overviews e da busca generativa, uma transformação paralela começa a acelerar dentro do próprio LinkedIn. A plataforma que durante anos foi vista apenas como um espaço de currículos e networking profissional agora entra em uma nova fase: tornar-se uma infraestrutura de distribuição B2B baseada em autoridade algorítmica, conteúdo especializado e influência corporativa.*
 
-## O LinkedIn começa a disputar espaço com Google, newsletters e mídia especializada
+## O LinkedIn começa a disputar espaço com Google,  e mídia especializada
 
 ![Executivos acompanhando métricas de distribuição e alcance corporativo em plataforma profissional](imagem1.webp)
 
@@ -83,9 +83,9 @@ Isso acontece porque algoritmos de IA valorizam:
 - experiência real;
 - sinais humanos.
 
-O próprio crescimento das newsletters premium reforça essa mudança estrutural da internet corporativa:
+O próprio crescimento das  premium reforça essa mudança estrutural da internet corporativa:
 
-- [O crescimento das newsletters está criando uma nova guerra por audiência própria](https://noticiatech.com.br/negocios/o-crescimento-das-newsletters-est%C3%A1-criando-uma-nova-guerra-por-audi%C3%AAncia-pr%C3%B3pria/)
+- [O crescimento das  está criando uma nova guerra por audiência própria](https://noticiatech.com.br/negocios/o-crescimento-das--est%C3%A1-criando-uma-nova-guerra-por-audi%C3%AAncia-pr%C3%B3pria/)
 
 ## A inteligência artificial está transformando o LinkedIn em um sistema de recomendação profissional
 
@@ -209,7 +209,7 @@ O conteúdo passa a funcionar como ativo estratégico de longo prazo.
 E o LinkedIn, silenciosamente, começa a ocupar um espaço que antes pertencia apenas:
 - ao Google;
 - aos portais especializados;
-- às newsletters premium;
+- às  premium;
 - aos mecanismos tradicionais de aquisição B2B.
 
 A mudança ainda parece inicial.

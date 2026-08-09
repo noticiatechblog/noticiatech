@@ -4,7 +4,8 @@ description: "Empresas estão usando inteligência artificial para redesenhar pr
 date: 2026-04-12
 categories: ["negocios"]
 draft: false
-
+aliases:
+  - "/negocios/por-que-empresas-estão-redesenhando-processos-internos-com-ia-e-não-sobre-automatizando-trabalhos/"
 cover:
   image: "capa.webp"
 ---
