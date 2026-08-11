@@ -939,8 +939,10 @@ img {
 }
 
 .logo-switches {
-    gap: 3px;
-    margin-left: 4px;
+    gap: 0px;
+    margin-left: 0;
+    flex-shrink: 1;
+    min-width: 0;
 }
     .search-toggle,
     #theme-toggle {
