@@ -2,7 +2,7 @@
 title: "Pesquisadores revelam o que ChatGPT, Claude e Gemini escondiam"
 slug: "pesquisadores-revelam-raciocinio-oculto-chatgpt-claude-gemini"
 translationKey: "pesquisadores-revelam-raciocinio-oculto-chatgpt-claude-gemini"
-date: "2026-08-13T07:10:00-03:00"
+date: "2026-08-13T00:30:00-03:00"
 draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Pesquisadores encontraram uma falha que expunha o raciocínio oculto de ChatGPT, Claude e Gemini e até dados sensíveis. Entenda o risco."

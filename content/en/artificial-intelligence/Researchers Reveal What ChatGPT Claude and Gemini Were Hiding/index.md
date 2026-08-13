@@ -2,7 +2,7 @@
 title: "Researchers Reveal What ChatGPT, Claude and Gemini Were Hiding"
 slug: "researchers-reveal-hidden-reasoning-chatgpt-claude-gemini"
 translationKey: "pesquisadores-revelam-raciocinio-oculto-chatgpt-claude-gemini"
-date: "2026-08-13T07:10:00-03:00"
+date: "2026-08-13T00:30:00-03:00"
 draft: false
 author: "By Aluisio Soares, founder of Notícia Tech"
 description: "Researchers found a flaw that exposed hidden reasoning from ChatGPT, Claude and Gemini, along with sensitive data. Here's what the risk means."
