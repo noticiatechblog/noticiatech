@@ -7,7 +7,7 @@ draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Pesquisadores encontraram uma falha que expunha o raciocínio oculto de ChatGPT, Claude e Gemini e até dados sensíveis. Entenda o risco."
 categories:
-  - "IA"
+  - "Inteligência Artificial"
 
 cover:
   image: "capa.webp"
