@@ -105,7 +105,7 @@ A ferramenta pode acelerar:
 - Benchmarking de concorrentes;
 - Criação de conteúdo estratégico.
 
-Esse movimento acompanha a transformação observada em plataformas profissionais como o [LinkedIn deixa de ser rede de currículos e vira plataforma de distribuição B2B impulsionada por IA](https://noticiatech.com.br/marketing/linkedin-deixa-de-ser-rede-de-curr%C3%ADculos-e-vira-plataforma-de-distribui%C3%A7%C3%A3o-b2b-impulsionada-por-ia/).
+Esse movimento acompanha a transformação observada em plataformas profissionais como o [LinkedIn deixa de ser rede de currículos e vira plataforma de distribuição B2B impulsionada por IA](https://noticiatech.com.br/negocios/linkedin-deixa-de-ser-rede-de-currículos-e-vira-plataforma-de-distribuição-b2b-impulsionada-por-ia/).
 
 ## Comparando Perplexity Pro com ChatGPT e outras plataformas de IA
 
