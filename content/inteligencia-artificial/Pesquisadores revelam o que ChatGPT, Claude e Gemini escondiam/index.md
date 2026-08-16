@@ -112,7 +112,7 @@ Uma sessão aparentemente simples pode, portanto, gerar uma quantidade muito mai
 
 Uma empresa pode utilizar IA para analisar documentos, código, informações financeiras ou dados de clientes. Se esses conteúdos chegarem a traces ou logs, uma falha na camada intermediária pode criar uma exposição que o usuário final sequer percebe.
 
-Por isso, a descoberta reforça a importância de tratar **dados intermediários de IA** como parte da superfície de segurança. O tema se conecta diretamente à discussão sobre **[**por que a segurança de IA se tornou uma prioridade para empresas**](https://noticiatech.com.br/inteligencia-artificial/o-que-e-seguranca-ia-prioridade-empresas/)**.
+Por isso, a descoberta reforça a importância de tratar **dados intermediários de IA** como parte da superfície de segurança. O tema se conecta diretamente à discussão sobre **[por que a segurança de IA se tornou uma prioridade para empresas](https://noticiatech.com.br/inteligencia-artificial/o-que-e-seguranca-ia-prioridade-empresas/)**.
 
 ## O que muda para empresas que adotam IA
 
@@ -164,7 +164,7 @@ A principal lição da pesquisa é que a resposta exibida ao usuário representa
 
 Para empresas, isso significa ampliar a análise de risco. Não basta escolher um modelo confiável: é preciso entender como os dados entram, circulam, são registrados e deixam o sistema.
 
-Essa preocupação será ainda mais importante com a expansão dos agentes autônomos. A discussão sobre [**responsabilidade das empresas pelas ações de agentes de IA**]**(https://noticiatech.com.br/inteligencia-artificial/agentes-ia-responsabilidade-empresas-acoes-autonomas/)** mostra como a autonomia está criando uma camada adicional de governança.
+Essa preocupação será ainda mais importante com a expansão dos agentes autônomos. A discussão sobre **[responsabilidade das empresas pelas ações de agentes de IA](https://noticiatech.com.br/inteligencia-artificial/agentes-ia-responsabilidade-empresas-acoes-autonomas/)** mostra como a autonomia está criando uma camada adicional de governança.
 
 ### O próximo desafio será controlar o fluxo de dados
 

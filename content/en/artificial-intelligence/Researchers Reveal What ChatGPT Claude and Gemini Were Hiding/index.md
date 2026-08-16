@@ -112,7 +112,7 @@ A seemingly simple session can therefore generate a much larger amount of data b
 
 A business may use AI to analyze documents, source code, financial information or customer data. If that information reaches traces or logs, a failure in an intermediate layer could create an exposure that the end user never notices.
 
-The discovery therefore reinforces the importance of treating **AI intermediate data** as part of the security surface. The issue connects directly to [**why AI security has become a priority for businesses**](https://noticiatech.com.br/en/artificial-intelligence/what-is-ai-security-business-priority-coming-years/).
+The discovery therefore reinforces the importance of treating **AI intermediate data** as part of the security surface. The issue connects directly to **[why AI security has become a priority for businesses](https://noticiatech.com.br/en/artificial-intelligence/what-is-ai-security-business-priority-coming-years/)**.
 
 ## What the Discovery Changes for Businesses Adopting AI
 
@@ -164,7 +164,7 @@ The main lesson from the research is that the response displayed to a user repre
 
 For businesses, that means expanding risk assessments. It is not enough to choose a trusted model. Organizations also need to understand how data enters, moves through, is recorded by and leaves the system.
 
-That concern will become even more important as autonomous agents expand. The discussion around [**business responsibility for AI agent actions**](https://noticiatech.com.br/en/artificial-intelligence/ai-agents-new-problem-businesses-responsibility-autonomous-actions/) shows how autonomy is creating an additional layer of governance.
+That concern will become even more important as autonomous agents expand. The discussion around **[business responsibility for AI agent actions](https://noticiatech.com.br/en/artificial-intelligence/ai-agents-new-problem-businesses-responsibility-autonomous-actions/)** shows how autonomy is creating an additional layer of governance.
 
 ### The Next Challenge Will Be Controlling Data Flows
 
