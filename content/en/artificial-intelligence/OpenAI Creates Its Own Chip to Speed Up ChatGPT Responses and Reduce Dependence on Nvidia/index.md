@@ -67,6 +67,11 @@ That is where a specialized chip can make a difference: **not necessarily becaus
 
 ## Why OpenAI Wants to Depend Less on Nvidia
 
+![Artificial intelligence chip representing OpenAI's custom architecture](imagem-2.webp)
+
+*Jalapeño is part of a broader OpenAI strategy to integrate hardware, software, and models within the same architecture.*
+
+
 The creation of Jalapeño does not mean **Nvidia** will stop supplying hardware to OpenAI. On the contrary, the company explicitly says it will continue deploying accelerators from Nvidia and other partners for both training and inference.
 
 ### The Strategy Is to Diversify Infrastructure
@@ -77,7 +82,7 @@ This reduces the risk of depending on a single hardware architecture and gives t
 
 The strategy also follows a broader industry trend. Major technology companies are developing custom accelerators because the amount of computing required for AI has made hardware a central part of their business strategy.
 
-Anthropic is following a similar path. Notícia Tech has already analyzed this competition in [Anthropic Develops Custom AI Chips for Claude and Threatens to Reduce Nvidia Dependence](https://noticiatech.com.br/en/artificial-intelligence/anthropic-custom-ai-chips-claude-openai-nvidia/).
+Anthropic is following a similar path. Notícia Tech has already analyzed this competition in **[Anthropic Develops Custom AI Chips for Claude and Threatens to Reduce Nvidia Dependence](https://noticiatech.com.br/en/artificial-intelligence/anthropic-custom-ai-chips-claude-openai-nvidia/)**.
 
 ### Hardware Has Become Part of the Competition Among AI Companies
 
@@ -117,10 +122,6 @@ That does not automatically mean ChatGPT will become cheaper for consumers. The 
 
 Jalapeño also represents a shift in OpenAI's positioning. **OpenAI** does not want to rely exclusively on components available on the market to support the growth of its products.
 
-![Artificial intelligence chip representing OpenAI's custom architecture](imagem-2.webp)
-
-*Jalapeño is part of a broader OpenAI strategy to integrate hardware, software, and models within the same architecture.*
-
 ### The Project Goes Beyond a Single Chip
 
 The company says Jalapeño is the first step toward a multigenerational computing platform. Initial deployment is planned to begin by the end of 2026, while subsequent generations are already in development.
@@ -133,7 +134,7 @@ The goal is to create successive generations of hardware that can keep pace with
 
 OpenAI's hardware push is not limited to server infrastructure. The company has also moved toward developing its own consumer devices.
 
-Notícia Tech has already analyzed this move in [OpenAI Enters the Hardware Race With Next-Generation ChatGPT Devices](https://noticiatech.com.br/en/artificial-intelligence/openai-enters-hardware-race-next-generation-chatgpt-devices/).
+Notícia Tech has already analyzed this move in **[OpenAI Enters the Hardware Race With Next-Generation ChatGPT Devices](https://noticiatech.com.br/en/artificial-intelligence/openai-enters-hardware-race-next-generation-chatgpt-devices/)**.
 
 In that case, the competition takes place at a different layer: while Jalapeño operates within the infrastructure that runs AI, the devices aim to bring ChatGPT closer to everyday computing.
 

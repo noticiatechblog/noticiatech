@@ -67,6 +67,10 @@ Esse efeito é ainda mais relevante para agentes de IA. Um chatbot pode responde
 
 ## Por que a OpenAI quer depender menos da Nvidia
 
+![Chip de inteligência artificial representando a arquitetura própria da OpenAI](imagem-2.webp)
+
+*O Jalapeño faz parte de uma estratégia maior da OpenAI para integrar hardware, software e modelos em uma mesma arquitetura.*
+
 A criação do Jalapeño não significa que a **Nvidia** deixará de fornecer hardware para a OpenAI. Pelo contrário. A empresa afirma explicitamente que continuará implantando aceleradores da Nvidia e de outros parceiros tanto para treinamento quanto para inferência.
 
 ### A estratégia é diversificar a infraestrutura
@@ -117,9 +121,6 @@ Isso não significa automaticamente que o ChatGPT ficará mais barato para o con
 
 O Jalapeño também representa uma mudança de posicionamento. A **OpenAI** não quer depender exclusivamente de componentes disponíveis no mercado para sustentar o crescimento de seus produtos.
 
-![Chip de inteligência artificial representando a arquitetura própria da OpenAI](imagem-2.webp)
-
-*O Jalapeño faz parte de uma estratégia maior da OpenAI para integrar hardware, software e modelos em uma mesma arquitetura.*
 
 ### O projeto vai além de um único chip
 
