@@ -8,8 +8,8 @@ on:
       - main
 
   schedule:
-    # 04:00 UTC = 01:00 Brasil (UTC-3)
-    - cron: "0 4 * * *"
+     # 03:30 UTC = 00:30 Brasil (UTC-3)
+  - cron: "30 3 * * *"
 
 jobs:
   deploy:

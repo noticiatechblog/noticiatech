@@ -72,36 +72,54 @@ function reset() {
     sInput.focus(); // shift focus to input box
 }
 
-// execute search as each character is typed
-sInput.onkeyup = function (e) {
-    // run a search query (for "term") every time a letter is typed
-    // in the search box
-    if (fuse) {
-        let results;
-        if (params.fuseOpts) {
-            results = fuse.search(this.value.trim(), {limit: params.fuseOpts.limit}); // the actual query being run using fuse.js along with options
-        } else {
-            results = fuse.search(this.value.trim()); // the actual query being run using fuse.js
-        }
-        if (results.length !== 0) {
-            // build our html if result exists
-            let resultSet = ''; // our results bucket
+// execute search only when the user confirms
+function executeSearch() {
+    if (!fuse) return;
 
-            for (let item in results) {
-                resultSet += `<li class="post-entry"><header class="entry-header">${results[item].item.title}&nbsp;»</header>` +
-                    `<a href="${results[item].item.permalink}" aria-label="${results[item].item.title}"></a></li>`
-            }
+    const query = sInput.value.trim();
 
-            resList.innerHTML = resultSet;
-            resultsAvailable = true;
-            first = resList.firstChild;
-            last = resList.lastChild;
-        } else {
-            resultsAvailable = false;
-            resList.innerHTML = '';
+    // Não pesquisa se o campo estiver vazio
+    if (!query) {
+        resultsAvailable = false;
+        resList.innerHTML = '';
+        return;
+    }
+
+    let results;
+
+    if (params.fuseOpts) {
+        results = fuse.search(query, {
+            limit: params.fuseOpts.limit
+        });
+    } else {
+        results = fuse.search(query);
+    }
+
+    if (results.length !== 0) {
+        let resultSet = '';
+
+        for (let item in results) {
+            resultSet += `<li class="post-entry"><header class="entry-header">${results[item].item.title}&nbsp;»</header>` +
+                `<a href="${results[item].item.permalink}" aria-label="${results[item].item.title}"></a></li>`;
         }
+
+        resList.innerHTML = resultSet;
+        resultsAvailable = true;
+        first = resList.firstChild;
+        last = resList.lastChild;
+    } else {
+        resultsAvailable = false;
+        resList.innerHTML = '';
     }
 }
+
+// Pressionar Enter executa a pesquisa
+sInput.addEventListener('keydown', function (e) {
+    if (e.key === 'Enter') {
+        e.preventDefault();
+        executeSearch();
+    }
+});
 
 sInput.addEventListener('search', function (e) {
     // clicked on x
