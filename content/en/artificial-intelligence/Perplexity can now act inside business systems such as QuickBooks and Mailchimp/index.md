@@ -2,7 +2,7 @@
 title: "Perplexity can now act inside business systems such as QuickBooks and Mailchimp"
 slug: "perplexity-act-inside-business-systems-quickbooks-mailchimp"
 translationKey: "perplexity-sistemas-empresas-quickbooks-mailchimp"
-date: "2026-09-01T00:30:00-03:00"
+date: "2026-09-01T00:10:00-03:00"
 draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "Perplexity is integrating QuickBooks and Mailchimp into Computer, allowing AI to access business data and perform financial, payroll and marketing tasks."
