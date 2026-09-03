@@ -1,5 +1,4 @@
 ---
-
 title: "EUA querem que G20 permita treinar IAs com conteúdo protegido por direitos autorais"
 slug: "eua-g20-treinamento-ia-conteudo-protegido-direitos-autorais"
 translationKey: "eua-g20-treinamento-ia-conteudo-protegido-direitos-autorais"
