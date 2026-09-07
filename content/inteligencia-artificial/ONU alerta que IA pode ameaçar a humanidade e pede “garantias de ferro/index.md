@@ -26,8 +26,6 @@ faq:
 
 *O alerta feito nesta segunda-feira pelo Alto Comissário da ONU para Direitos Humanos, Volker Türk, muda o tom do debate sobre segurança da inteligência artificial: o problema já não é apenas evitar respostas erradas, mas garantir que sistemas cada vez mais autônomos permaneçam sob controle humano.*
 
-Por Aluisio Soares | Fundador do Notícia Tech
-
 ## ONU coloca a segurança da IA no centro da corrida tecnológica
 
 A **ONU** elevou nesta segunda-feira o tom sobre os riscos da **inteligência artificial avançada**. Durante uma sessão do Conselho de Direitos Humanos em Genebra, **Volker Türk** afirmou compartilhar as preocupações de integrantes da indústria de que sistemas avançados possam representar um **risco existencial para a humanidade**.
