@@ -156,37 +156,36 @@
 
                 {{- if (not site.Params.disableLangToggle) }}
 
-{{- $separator := or $label_text (not site.Params.disableThemeToggle) }}
+                {{- if eq .Lang "en" }}
+                    {{- range .Translations }}
+                        {{- if and (eq .Lang "pt-br") (ne .Permalink $.Permalink) }}
+                <ul class="lang-menu">
+                    <li>
+                        <a href="{{ .Permalink }}"
+                           class="lang-link"
+                           title="Versão em Português"
+                           aria-label="Português">
+                            🇧🇷
+                        </a>
+                    </li>
+                </ul>
+                        {{- break }}
+                        {{- end }}
+                    {{- end }}
+                {{- else if eq .Lang "pt-br" }}
+                <ul class="lang-menu">
+                    <li>
+                        <a href="{{ .Permalink }}"
+                           class="lang-link current"
+                           title="Versão em Português"
+                           aria-label="Português">
+                            🇧🇷
+                        </a>
+                    </li>
+                </ul>
+                {{- end }}
 
-{{- if $separator }}
-    <span class="lang-separator">|</span>
-{{ end }}
-
-<ul class="lang-menu">
-
-    <li>
-    <a href="/"
-       class="lang-link{{ if eq .Lang "pt-br" }} current{{ end }}"
-       title="Versão em Português"
-       aria-label="Português">
-        <img class="lang-flag lang-flag-br" src="/images/flags/br.svg" alt="" aria-hidden="true" width="26" height="18">
-        <span class="lang-code">BR</span>
-    </a>
-</li>
-
-<li>
-    <a href="/en/"
-       class="lang-link{{ if eq .Lang "en" }} current{{ end }}"
-       title="English Version"
-       aria-label="English">
-        <img class="lang-flag lang-flag-us" src="/images/flags/us.svg" alt="" aria-hidden="true" width="26" height="18">
-        <span class="lang-code">US</span>
-    </a>
-</li>
-</ul>
-
-{{- end }}
-
+                {{- end }}
 
             </div>
 
@@ -218,19 +217,19 @@
             {{- end }}
             {{- range $activeCategories }}
                 {{- $category_key := printf "%v" . | urlize }}
-                {{- $category_key_normalized := $category_key }}
-                {{- $category_key_normalized = replace $category_key_normalized "á" "a" }}
-                {{- $category_key_normalized = replace $category_key_normalized "à" "a" }}
-                {{- $category_key_normalized = replace $category_key_normalized "â" "a" }}
-                {{- $category_key_normalized = replace $category_key_normalized "ã" "a" }}
-                {{- $category_key_normalized = replace $category_key_normalized "é" "e" }}
-                {{- $category_key_normalized = replace $category_key_normalized "ê" "e" }}
-                {{- $category_key_normalized = replace $category_key_normalized "í" "i" }}
-                {{- $category_key_normalized = replace $category_key_normalized "ó" "o" }}
-                {{- $category_key_normalized = replace $category_key_normalized "ô" "o" }}
-                {{- $category_key_normalized = replace $category_key_normalized "õ" "o" }}
-                {{- $category_key_normalized = replace $category_key_normalized "ú" "u" }}
-                {{- $category_key_normalized = replace $category_key_normalized "ç" "c" }}
+                {{- $category_key_normalized := $category_key
+                    | replace "á" "a"
+                    | replace "à" "a"
+                    | replace "â" "a"
+                    | replace "ã" "a"
+                    | replace "é" "e"
+                    | replace "ê" "e"
+                    | replace "í" "i"
+                    | replace "ó" "o"
+                    | replace "ô" "o"
+                    | replace "õ" "o"
+                    | replace "ú" "u"
+                    | replace "ç" "c" }}
                 {{- $activeCategoryKeys = $activeCategoryKeys | append $category_key $category_key_normalized }}
                 {{- if and (in $category_key "intelig") (in $category_key "artificial") }}
                     {{- $activeCategoryKeys = $activeCategoryKeys | append "inteligencia-artificial" }}
