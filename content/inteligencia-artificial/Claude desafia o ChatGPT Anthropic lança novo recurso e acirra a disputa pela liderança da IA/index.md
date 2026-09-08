@@ -138,7 +138,6 @@ Mais do que comparar qual chatbot responde melhor, empresas precisarão avaliar 
 
 Esse novo cenário deve transformar a inteligência artificial em uma camada estratégica da infraestrutura digital das organizações.
 
-[Para entender como a disputa também envolve privacidade e confiança dos usuários, confira.](https://noticiatech.com.br/inteligencia-artificial/privacidade-chatgpt-claude-gemini-conversas-ia/)
 
 A atualização do **Claude** representa mais um capítulo da rápida evolução da inteligência artificial. Independentemente de qual plataforma liderará o mercado, a tendência é clara: a competição entre **Anthropic**, **OpenAI** e **Google** continuará acelerando a inovação, oferecendo recursos cada vez mais sofisticados para empresas, desenvolvedores e profissionais que dependem da IA para aumentar produtividade e criar novas oportunidades de negócio.
 

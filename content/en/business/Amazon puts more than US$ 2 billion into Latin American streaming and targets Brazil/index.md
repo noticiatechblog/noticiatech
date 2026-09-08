@@ -116,7 +116,6 @@ The decision to invest more than US$ 2 billion in the region becomes even more s
 
 The company already uses **Prime** to connect multiple services with consumers. Prime Video expands that ecosystem into entertainment, while other initiatives strengthen Amazon's presence in infrastructure and technology.
 
-Notícia Tech has already covered another part of this strategy, showing how **Amazon** is expanding into digital infrastructure through satellite internet: **[Amazon launches satellite internet to rival Starlink and accelerate the race for global digital infrastructure](https://noticiatech.com.br/en/business/amazon-launches-satellite-internet-to-rival-starlink-and-accelerate-the-race-for-global-digital-infrastructure/)**.
 
 ### What to watch next
 

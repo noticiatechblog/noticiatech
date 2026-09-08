@@ -57,7 +57,6 @@ To understand how this transformation is happening, it is also worth checking ou
 
 - [Companies begin to replace traditional software with AI agents](https://noticiatech.com.br/automacao/empresas-come%C3%A7am-a-substituir-softwares-tradicionais-por-agentes-de-ia/)
 - [Companies double investments in corporate AI and Brazil accelerates adoption of intelligent agents](https://noticiatech.com.br/inteligencia-artificial/empresas-dobram-investimentos-em-ia-corporativa-e-brasil-acelera-ado%C3%A7%C3%A3o-de-agentes-inteligentes/)
-- [How companies use AI to automate processes](https://noticiatech.com.br/automacao/como-empresas-usam-ia-para-automatizar-processos/)
 
 ## Low-code platforms accelerate AI adoption in SMEs
 
@@ -102,7 +101,6 @@ The trend also appears in other strategic areas of the market:
 
 - [WhatsApp Business gains automation with AI and becomes a central tool for small businesses in Brazil](https://noticiatech.com.br/negocios/whatsapp-business-ganha-automa%C3%A7%C3%B5es-com-ia-e-vira-ferramenta-central-para-pequenas-empresas-no-brasil/)
 - [AI for small businesses: automated processes accelerate productivity](https://noticiatech.com.br/automacao/ia-pequenas-empresas-processos-automatizados/)
-- [CRM with AI and automation is changing business processes in companies](https://noticiatech.com.br/negocios/crm-com-ia-automacao-vendas-processos-comerciais/)
 
 ## The risk for companies that ignore the new wave of automation
 

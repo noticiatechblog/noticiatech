@@ -95,7 +95,6 @@ One of the most promising applications involves sales and customer relationship 
 
 Companies are already using agents to review customer records, update opportunities, and generate reports automatically.
 
-This topic directly complements Notícia Tech's article on [AI-Powered CRM](https://noticiatech.com.br/en/tools/what-is-ai-powered-crm-sales-management/).
 
 ### MCP and Legacy Systems
 
@@ -143,7 +142,6 @@ MCP also strengthens governance initiatives.
 
 By centralizing integrations and access points, organizations gain better control over permissions, auditing, and activity monitoring.
 
-This trend is closely related to the concept discussed in Notícia Tech's article on [AI Operations](https://noticiatech.com.br/en/artificial-intelligence/ai-operations-governance-ai-agents-companies/).
 
 ## Challenges of Implementing MCP in Enterprises
 

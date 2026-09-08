@@ -51,7 +51,6 @@ Para entender como essa transformação está acontecendo, vale conferir também
 
 - [Empresas começam a substituir softwares tradicionais por agentes de IA](https://noticiatech.com.br/automacao/empresas-come%C3%A7am-a-substituir-softwares-tradicionais-por-agentes-de-ia/)
 - [Empresas dobram investimentos em IA corporativa e Brasil acelera adoção de agentes inteligentes](https://noticiatech.com.br/inteligencia-artificial/empresas-dobram-investimentos-em-ia-corporativa-e-brasil-acelera-ado%C3%A7%C3%A3o-de-agentes-inteligentes/)
-- [Como empresas usam IA para automatizar processos](https://noticiatech.com.br/automacao/como-empresas-usam-ia-para-automatizar-processos/)
 
 ## Plataformas low-code aceleram adoção de IA nas PMEs
 
@@ -96,7 +95,6 @@ A tendência também aparece em outras áreas estratégicas do mercado:
 
 - [WhatsApp Business ganha automações com IA e vira ferramenta central para pequenas empresas no Brasil](https://noticiatech.com.br/negocios/whatsapp-business-ganha-automa%C3%A7%C3%B5es-com-ia-e-vira-ferramenta-central-para-pequenas-empresas-no-brasil/)
 - [IA para pequenas empresas: processos automatizados aceleram produtividade](https://noticiatech.com.br/automacao/ia-pequenas-empresas-processos-automatizados/)
-- [CRM com IA e automação está mudando processos comerciais nas empresas](https://noticiatech.com.br/negocios/crm-com-ia-automacao-vendas-processos-comerciais/)
 
 ## O risco para empresas que ignorarem a nova onda de automação
 

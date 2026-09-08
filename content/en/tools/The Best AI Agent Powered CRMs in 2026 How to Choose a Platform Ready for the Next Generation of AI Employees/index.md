@@ -145,7 +145,6 @@ At the same time, choosing a CRM will become less about today's feature list and
 
 This transformation aligns with another Notícia Tech analysis on **AI Process Automation**, which explains how Artificial Intelligence is reshaping business process automation.
 
-https://noticiatech.com.br/en/automation/what-is-ai-process-automation-business-process-automation-ai/
 
 Likewise, understanding the concept of **AI Fluency** is becoming essential for executives and business leaders who want to maximize the value of these next-generation enterprise platforms.
 

@@ -62,7 +62,6 @@ The widespread adoption of generative AI, intelligent agents, and enterprise aut
 
 As AI becomes responsible for increasingly complex decisions, organizations require governance structures capable of defining accountability, monitoring outcomes, and reducing operational risks.
 
-To better understand how intelligent automation is transforming enterprise operations, read **[What Is AI Process Automation? Business Process Automation with AI](https://noticiatech.com.br/en/automation/what-is-ai-process-automation-business-process-automation-ai/)**.
 
 ## Why AI Governance will become a strategic priority for businesses
 

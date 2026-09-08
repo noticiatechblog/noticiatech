@@ -115,7 +115,7 @@ Isso aumenta a importância de competências relacionadas a **IA**, análise, pr
 
 Para lideranças, o desafio é evitar que a adoção de **IA** seja medida por indicadores fáceis, mas pouco relevantes. Número de licenças, usuários ativos ou prompts realizados não mostram necessariamente retorno financeiro.
 
-Uma avaliação mais útil conecta **IA** a custos, receita, produtividade, qualidade, tempo de entrega e satisfação do cliente. Essa lógica também aparece quando empresas redesenham processos inteiros em vez de simplesmente automatizar tarefas. O Notícia Tech já analisou **[como empresas usam IA para automatizar processos](/automacao/como-empresas-usam-ia-para-automatizar-processos/)**.
+Uma avaliação mais útil conecta **IA** a custos, receita, produtividade, qualidade, tempo de entrega e satisfação do cliente. Essa lógica também aparece quando empresas redesenham processos inteiros em vez de simplesmente automatizar tarefas.
 
 ## O mercado ainda está aprendendo quais métricas realmente importam
 

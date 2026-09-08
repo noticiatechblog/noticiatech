@@ -136,7 +136,6 @@ AI can also identify behavioral patterns and buying signals that would often go 
 
 Organizations interested in expanding automation across their operations should also explore **AI Process Automation**, which combines Artificial Intelligence with business process automation:
 
-https://noticiatech.com.br/en/automation/what-is-ai-process-automation-business-process-automation-ai/
 
 ## How to Start Using AI for Lead Qualification
 

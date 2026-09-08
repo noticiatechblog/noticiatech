@@ -96,7 +96,6 @@ Instead of just integrating AI into existing products, companies are beginning t
 
 This movement connects directly with other transformations that have already been happening in the corporate market, as we showed in the article about how AI is changing software development in companies:
 
-[AI accelerates software production and changes the role of programmers in companies](https://noticiatech.com.br/inteligencia-artificial/ia-acelera-produ%C3%A7%C3%A3o-de-software-e-muda-o-papel-dos-programadores-nas-empresas/)
 
 ### The dispute now involves control of the digital future
 
@@ -148,7 +147,6 @@ At the same time, the dispute tends to increase:
 
 This scenario is also connected to the advancement of corporate automation and intelligent agents that are beginning to replace traditional processes within companies:
 
-[How companies are using AI to automate processes and reduce costs in 2026](https://noticiatech.com.br/automacao/como-empresas-usam-ia-para-automatizar-processos/)
 
 ### The next AI battle will be invisible to the average user
 

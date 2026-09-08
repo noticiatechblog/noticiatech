@@ -147,7 +147,7 @@ The coming months will be important for the completion of the acquisition, the c
 
 It will also be important to see whether the partnership can turn AI into a permanent operational capability rather than limiting its use to isolated projects.
 
-This is particularly important because enterprise AI adoption requires technology, processes and governance to evolve together. The concept of **AI Operations** helps explain this transition and is explored further in Notícia Tech's article on **[how AI is transforming operations and governance with AI agents in companies](https://noticiatech.com.br/en/artificial-intelligence/ai-operations-governance-ai-agents-companies/)**.
+This is particularly important because enterprise AI adoption requires technology, processes and governance to evolve together.
 
 The Porsche transaction does not yet prove that this model will become standard across the automotive industry. But it provides a concrete example of how a major company can focus on its core business while using a long-term technology partnership to accelerate AI adoption.
 

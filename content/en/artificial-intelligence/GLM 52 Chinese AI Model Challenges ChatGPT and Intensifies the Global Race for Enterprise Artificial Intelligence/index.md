@@ -88,7 +88,6 @@ This competitive trend has already become visible across several areas of artifi
 
 Recently, **Notícia Tech** reported how **Mistral AI** has strengthened its enterprise strategy and emerged as a serious challenger in the corporate AI market:
 
-https://noticiatech.com.br/en/artificial-intelligence/mistral-ai-surges-search-interest-challenges-openai-anthropic-google-enterprise-ai-race-2026/
 
 Another important example is **Google's Gemini Spark**, which illustrates how major AI companies are shifting their focus toward intelligent agents and enterprise automation:
 

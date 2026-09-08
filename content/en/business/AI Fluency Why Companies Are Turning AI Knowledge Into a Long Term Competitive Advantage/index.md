@@ -89,7 +89,6 @@ A lack of AI Fluency often contributes to issues such as Shadow AI, improper too
 
 This risk is closely connected to the growing importance of AI governance, a topic explored by Notícia Tech in:
 
-[AI Operations Governance of AI Agents in Companies](https://noticiatech.com.br/en/artificial-intelligence/ai-operations-governance-ai-agents-companies/)
 
 ## AI Fluency is redefining corporate leadership
 

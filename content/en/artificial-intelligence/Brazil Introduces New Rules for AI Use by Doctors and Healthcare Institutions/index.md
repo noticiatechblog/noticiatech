@@ -129,7 +129,7 @@ The change also reflects a broader issue already emerging across other enterpris
 
 The issue also connects with the growing discussion about **[corporate responsibility when AI agents take autonomous actions](https://noticiatech.com.br/en/artificial-intelligence/ai-agents-new-problem-businesses-responsibility-autonomous-actions/)**. In healthcare, however, the need for oversight has an additional regulatory dimension.
 
-The new rules also reinforce the importance of **[AI governance and AI agent operations inside companies](https://noticiatech.com.br/en/artificial-intelligence/ai-operations-governance-ai-agents-companies/)**, while introducing specific requirements for a sector where sensitive data and clinical decisions are directly involved.
+The new rules also reinforce the importance of AI governance and AI agent operations inside companies, while introducing specific requirements for a sector where sensitive data and clinical decisions are directly involved.
 
 The most important point is that the **CFM is not establishing a barrier to artificial intelligence adoption in medicine**. Instead, the resolution creates a framework in which innovation and control must advance together. For physicians, healthcare institutions, and technology providers, the ability to demonstrate safety, governance, and accountability is becoming part of the technology adoption strategy itself.
 

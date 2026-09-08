@@ -109,7 +109,6 @@ Another concept gaining traction is **AI Operations**.
 
 The goal is to establish processes, metrics, and governance frameworks capable of monitoring AI models, autonomous agents, and automated workflows at scale.
 
-This trend was recently explored by Notícia Tech in [AI Operations: Governance for AI Agents in Companies](https://noticiatech.com.br/en/artificial-intelligence/ai-operations-governance-ai-agents-companies/).
 
 ## What AI Summit Exame Reveals About the Future of Business
 

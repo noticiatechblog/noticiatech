@@ -177,7 +177,6 @@ Future AI agents will be capable of monitoring sales opportunities, responding t
 This evolution closely aligns with the broader expansion of **AI Agents**, a topic previously covered by Notícia Tech in articles such as:
 
 - https://noticiatech.com.br/en/automation/what-is-ai-sdr-ai-agents-b2b-sales/
-- https://noticiatech.com.br/en/automation/what-is-ai-process-automation-business-process-automation-ai/
 
 In practice, CRM platforms are evolving from customer databases into intelligent digital assistants that actively support entire sales organizations.
 

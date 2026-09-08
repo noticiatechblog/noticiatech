@@ -69,7 +69,6 @@ This approach reduces operational risks while improving compliance, security and
 
 This trend aligns with another topic covered by Notícia Tech on **AI Process Automation**:
 
-https://noticiatech.com.br/en/automation/what-is-ai-process-automation-business-process-automation-ai/
 
 It also complements our analysis of how AI SDR platforms are transforming enterprise sales operations:
 

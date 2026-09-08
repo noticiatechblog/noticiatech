@@ -78,7 +78,6 @@ In practice, an AI agent can:
 - Respond to customers;
 - Execute automated processes.
 
-This trend aligns with themes explored by Notícia Tech in articles such as [AI Operations and the governance of AI agents in companies](https://noticiatech.com.br/en/artificial-intelligence/ai-operations-governance-ai-agents-companies/).
 
 ### What changes for businesses?
 

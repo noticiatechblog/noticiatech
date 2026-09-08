@@ -74,7 +74,7 @@ Multinational companies now face a new layer of risk.
 
 Beyond selecting AI vendors, organizations may also need to evaluate regulatory, geopolitical, and technological sovereignty considerations.
 
-This trend reinforces discussions explored in topics such as [AI Operations and AI agent governance](https://noticiatech.com.br/en/artificial-intelligence/ai-operations-governance-ai-agents-companies/) and the evolution of infrastructure that connects intelligent agents to enterprise systems through [MCP](https://noticiatech.com.br/en/artificial-intelligence/mcp-could-become-the-invisible-infrastructure-that-connects-ai-agents-to-enterprise-systems/).
+This trend reinforces discussions about the evolution of infrastructure that connects intelligent agents to enterprise systems through [MCP](https://noticiatech.com.br/en/artificial-intelligence/mcp-could-become-the-invisible-infrastructure-that-connects-ai-agents-to-enterprise-systems/).
 
 ## The conflict between governments and AI companies is intensifying
 

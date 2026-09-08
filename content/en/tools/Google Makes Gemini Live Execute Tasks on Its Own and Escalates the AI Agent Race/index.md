@@ -151,7 +151,7 @@ The shift also changes the competitive landscape.
 
 The market is gradually moving from the question "Which AI gives the best answer?" toward "Which AI can actually complete the task?"
 
-This transition is already visible across the industry. The move by OpenAI to give businesses more administrative control over ChatGPT is another example of AI platforms becoming embedded in operational workflows. Read more about it in **[OpenAI launches admin plugin to manage ChatGPT for businesses](https://noticiatech.com.br/en/artificial-intelligence/openai-launches-admin-plugin-manage-chatgpt-businesses/)**.
+This transition is already visible across the industry.
 
 The same shift can be seen in AI research and document workflows. **[Mistral bets on agentic search for complex documents](https://noticiatech.com.br/en/artificial-intelligence/mistral-bets-on-agentic-search-complex-documents-ai/)** shows how AI companies are moving toward systems that can perform longer, more structured processes instead of returning a single response.
 

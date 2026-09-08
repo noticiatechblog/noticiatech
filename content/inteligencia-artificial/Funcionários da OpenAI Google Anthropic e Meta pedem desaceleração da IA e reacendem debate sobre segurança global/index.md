@@ -119,7 +119,6 @@ Esse cenário reforça uma tendência observada no mercado corporativo: intelig�
 
 Leia também:
 
-- [Quem pode ler suas conversas no ChatGPT, Claude e Gemini? A verdade sobre a privacidade da IA](https://noticiatech.com.br/inteligencia-artificial/privacidade-chatgpt-claude-gemini-conversas-ia/)
 
 - [Arquitetura de IA Empresarial: como MCP, RAG, APIs, Agentes, Workflows e Copilotos funcionam juntos](https://noticiatech.com.br/inteligencia-artificial/arquitetura-ia-empresarial-mcp-rag-apis-agentes-workflows-copilotos/)
 

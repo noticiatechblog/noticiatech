@@ -159,7 +159,6 @@ With standardized governance, organizations can deploy new AI solutions more eff
 
 This governance model also strengthens enterprise automation initiatives, as explained in the related article:
 
-- [What Is AI Process Automation for Companies?](https://noticiatech.com.br/en/automation/what-is-ai-process-automation-companies/)
 
 ## The Future of AI Governance
 

@@ -119,7 +119,7 @@ For businesses, the main consequence of **Bill Gates'** new position is not an i
 
 A company that evaluates automation solely through productivity gains may overlook transition costs, regulatory changes, new skill requirements and roles that will continue to depend on human judgment. The AI debate is therefore moving closer to strategic workforce planning.
 
-This discussion is already appearing across different parts of the market. As companies move toward agents capable of executing tasks, Notícia Tech has also examined how **Sam Altman** placed workplace automation at the center of a discussion about the future of email and digital work: **[Sam Altman's experience shows the challenge of working without AI](https://noticiatech.com.br/en/artificial-intelligence/sam-altman-email-without-ai-automation-challenge/)**.
+This discussion is already appearing across different parts of the market.
 
 ### The next battle could be over the limits of automation
 

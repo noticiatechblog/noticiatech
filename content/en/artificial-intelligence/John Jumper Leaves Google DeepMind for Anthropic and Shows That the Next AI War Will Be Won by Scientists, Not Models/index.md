@@ -90,7 +90,6 @@ The trend reinforces dynamics already visible across the market, including **Met
 
 For a deeper analysis of this movement, see:
 
-[Meta Reshapes AI Strategy and Shows That the Next Battle Will Be About Talent and Infrastructure](https://noticiatech.com.br/en/artificial-intelligence/meta-reshapes-ai-strategy-talent-infrastructure-scale-ai/)
 
 ## The Talent War Is Expanding the Model War
 
@@ -172,7 +171,6 @@ This trend also reinforces broader governance challenges associated with advance
 
 Notícia Tech previously explored these developments in:
 
-[AI Operations: Why Companies Are Creating New Governance Layers for AI Agents](https://noticiatech.com.br/en/artificial-intelligence/ai-operations-governance-ai-agents-companies/)
 
 ## The Biggest AI Bottleneck May No Longer Be Computing Power
 

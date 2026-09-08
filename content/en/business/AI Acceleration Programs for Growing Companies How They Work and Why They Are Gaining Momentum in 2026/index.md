@@ -133,7 +133,6 @@ Sales teams are increasingly using AI for lead qualification, demand forecasting
 
 This trend is closely connected to the evolution of intelligent CRM systems.
 
-To explore this topic further, see our article: [AI-Powered CRM Enters the Era of Autonomous Agents and Changes Sales Management for Companies](https://noticiatech.com.br/en/business/ai-powered-crm-enters-era-autonomous-agents-sales-management-companies/).
 
 ### Operations and Business Automation
 

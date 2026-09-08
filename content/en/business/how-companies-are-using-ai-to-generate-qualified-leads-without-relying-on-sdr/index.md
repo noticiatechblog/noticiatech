@@ -122,7 +122,6 @@ Companies that already automate internal processes are realizing this.
 Including in non-commercial areas.
 
 Also read:
-[How companies use AI to automate processes](https://noticiatech.com.br/automacao/como-empresas-usam-ia-para-automatizar-processos/)
 
 ## AI on WhatsApp also became a prospecting tool
 

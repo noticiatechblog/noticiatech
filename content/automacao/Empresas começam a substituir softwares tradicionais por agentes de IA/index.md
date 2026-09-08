@@ -63,7 +63,6 @@ O objetivo é transformar IA em uma camada operacional permanente dentro das emp
 
 Essa transformação também se conecta ao avanço da IA corporativa e da automação empresarial que já vem mudando o desenvolvimento de software nos últimos meses:
 
-[IA acelera produção de software e muda o papel dos programadores nas empresas](https://noticiatech.com.br/inteligencia-artificial/ia-acelera-produ%C3%A7%C3%A3o-de-software-e-muda-o-papel-dos-programadores-nas-empresas/)
 
 ## O mercado de SaaS pode entrar em transformação profunda
 

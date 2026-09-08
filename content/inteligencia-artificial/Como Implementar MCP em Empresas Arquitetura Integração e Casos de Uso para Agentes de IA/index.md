@@ -95,7 +95,6 @@ Uma das aplicações mais promissoras está na integração com plataformas de v
 
 Empresas já utilizam agentes para consultar clientes, atualizar oportunidades e gerar relatórios automaticamente.
 
-O tema complementa diretamente o conteúdo do Notícia Tech sobre [CRM com IA](https://noticiatech.com.br/ferramentas/o-que-e-crm-com-ia-gestao-vendas/).
 
 ### MCP e sistemas legados
 

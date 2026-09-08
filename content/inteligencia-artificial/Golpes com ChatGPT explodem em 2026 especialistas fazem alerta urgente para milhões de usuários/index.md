@@ -169,7 +169,6 @@ Já para usuários comuns, a principal recomendação continua sendo verificar s
 Se você acompanha a evolução da inteligência artificial no ambiente corporativo, estes conteúdos também podem interessar:
 
 - [O que é segurança de IA e por que ela será prioridade nas empresas](/inteligencia-artificial/o-que-e-seguranca-ia-prioridade-empresas/)
-- [Quem pode ler suas conversas no ChatGPT, Claude e Gemini?](/inteligencia-artificial/privacidade-chatgpt-claude-gemini-conversas-ia/)
 - [OpenAI muda estratégia e aposta em modelos open weight](/inteligencia-artificial/openai-estrategia-ia-aberta-modelos-open-weight/)
 - [Arquitetura de IA empresarial: guia completo sobre MCP, RAG e agentes](/inteligencia-artificial/arquitetura-ia-empresarial-mcp-rag-apis-agentes-workflows-copilotos/)
 

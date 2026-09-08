@@ -137,7 +137,6 @@ Connected vehicles will exchange information with logistics platforms, ERP syste
 
 This trend closely follows the broader evolution of intelligent automation explored by **Notícia Tech** in:
 
-[What is AI process automation for companies?](https://noticiatech.com.br/en/automation/what-is-ai-process-automation-companies/)
 
 Another closely related topic is the growing adoption of AI-powered automation platforms discussed in:
 

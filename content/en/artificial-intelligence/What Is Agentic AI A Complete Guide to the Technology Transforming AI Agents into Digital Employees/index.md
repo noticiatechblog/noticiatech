@@ -82,7 +82,7 @@ Organizations are looking for ways to reduce operational costs and improve effic
 
 As a result, concepts such as **Agentic AI**, **AI Operations**, and autonomous agents have become strategic priorities across enterprises.
 
-This evolution is directly connected to the rise of governance frameworks discussed in [AI Operations and Governance for AI Agents in Companies](https://noticiatech.com.br/en/artificial-intelligence/ai-operations-governance-ai-agents-companies/).
+This evolution is directly connected to the rise of governance frameworks for AI agents in companies.
 
 ## How Agentic AI Works
 
@@ -159,7 +159,6 @@ Agents can:
 * respond to prospects;
 * generate proposals.
 
-This transformation can already be observed in [AI-Powered CRM Enters the Era of Autonomous Agents and Changes Sales Management in Companies](https://noticiatech.com.br/en/business/ai-powered-crm-enters-era-autonomous-agents-sales-management-companies/).
 
 ### Customer Service
 

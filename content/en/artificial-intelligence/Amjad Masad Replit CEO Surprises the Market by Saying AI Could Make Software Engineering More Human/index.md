@@ -89,7 +89,7 @@ The competitive advantage may instead move toward other layers: understanding th
 
 This helps explain why AI-assisted development tools have attracted so much attention. **Notícia Tech** has already examined how platforms such as **Cursor**, **Windsurf**, and **GitHub Copilot** are changing software development, but the new discussion around **Replit** expands the issue into a more strategic question: if AI changes how software is built, could it also change the economics of the companies that sell that software?
 
-This transformation is also connected to the rise of [AI agents that are beginning to replace traditional software](https://noticiatech.com.br/en/automation/companies-begin-to-replace-traditional-software-with-ai-agents/), a movement that could change how companies buy and use technology.
+This transformation is also connected to the rise of AI agents that are beginning to replace traditional software, a movement that could change how companies buy and use technology.
 
 ## Replit's pivot shows why the market is changing so quickly
 

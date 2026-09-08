@@ -94,7 +94,7 @@ This approach matters because a company does not operate as a collection of inde
 
 For enterprise agents, generating an answer is not enough. They need to understand **which company they are operating in, what rules apply, which data is reliable and which actions they are authorized to take**.
 
-This helps explain why the growth of AI agents is closely tied to data infrastructure and integration. The discussion around **[how AI process automation is changing business operations](https://noticiatech.com.br/en/automation/what-is-ai-process-automation-companies/)** is no longer purely technological. It is also about operational design.
+This helps explain why the growth of AI agents is closely tied to data infrastructure and integration. The discussion around **how AI process automation is changing business operations** is no longer purely technological. It is also about operational design.
 
 ## The impact on Brazilian companies may come from execution
 

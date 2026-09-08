@@ -120,7 +120,6 @@ The evolution of prospecting automation is directly connected to the rise of **A
 
 Notícia Tech explored this trend in:
 
-[AI-Powered CRM Enters the Era of Autonomous Agents and Changes Sales Management in Companies](https://noticiatech.com.br/en/business/ai-powered-crm-enters-era-autonomous-agents-sales-management-companies/)
 
 ## How AI Is Transforming Lead Qualification
 

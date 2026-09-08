@@ -74,7 +74,7 @@ This concentration is not limited to AI models. Control extends across **chips, 
 
 This helps explain why AI safety is no longer exclusively a technical discussion. The competition also involves who has the capacity to develop advanced systems, who can audit them and who will have the authority to determine which applications can reach the market.
 
-This scenario is already emerging in other international debates. The tension between technology security and competition among major powers was examined by Notícia Tech in its analysis of how **[the US and China began treating AI safety as a strategic issue](https://noticiatech.com.br/en/artificial-intelligence/us-china-ai-safety-bessent-he-lifeng/)**.
+This scenario is already emerging in other international debates.
 
 ## The next test will be governing increasingly autonomous agents
 

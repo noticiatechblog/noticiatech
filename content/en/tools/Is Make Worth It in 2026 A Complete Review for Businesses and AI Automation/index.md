@@ -91,7 +91,6 @@ As companies introduce new systems or expand operations, existing scenarios can 
 
 Organizations beginning their AI automation journey may also benefit from reading our guide on **AI Process Automation**, which explores how Artificial Intelligence is transforming enterprise workflows:
 
-https://noticiatech.com.br/en/automation/what-is-ai-process-automation-business-process-automation-ai/
 
 ## When is Make a better choice than other automation platforms?
 

@@ -82,7 +82,6 @@ The more tasks agents perform, the greater users' dependence on the platform coo
 
 Organizations see AI agents as an opportunity to reduce costs, accelerate processes, and improve productivity.
 
-This trend was previously discussed in our analysis of [AI Operations governance and AI agents in companies](https://noticiatech.com.br/en/artificial-intelligence/ai-operations-governance-ai-agents-companies/), which showed how the challenge is becoming less about technology itself and more about management, monitoring, and control.
 
 ## OpenAI's IPO plans could turn governance into a competitive advantage
 
