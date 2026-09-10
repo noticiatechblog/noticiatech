@@ -32,7 +32,6 @@ faq:
 
 *O SUS está dando um passo que vai além da digitalização de prontuários: pela primeira vez, dados clínicos de UTIs instaladas em diferentes regiões do país podem ser acompanhados continuamente a partir de uma mesma central. A proposta combina conectividade, monitoramento em tempo real e inteligência artificial para apoiar decisões em situações nas quais minutos podem fazer diferença.*
 
-
 ## O SUS começa a transformar UTIs isoladas em uma rede conectada
 
 A **Central de Comando das UTIs Inteligentes do SUS** já acompanha dados de pacientes internados em seis cidades brasileiras. Instalada no **Hospital das Clínicas da Faculdade de Medicina da USP**, em São Paulo, a estrutura opera com monitoramento contínuo e recebe informações de 60 leitos inteligentes atualmente ativos.
