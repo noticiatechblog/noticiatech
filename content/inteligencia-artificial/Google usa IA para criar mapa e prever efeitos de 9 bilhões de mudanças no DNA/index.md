@@ -1,7 +1,6 @@
 ---
 title: "Google usa IA para criar mapa e prever efeitos de 9 bilhões de mudanças no DNA"
 slug: "google-ia-mapa-prever-efeitos-9-bilhoes-mudancas-dna"
-translationKey: "google-ia-mapa-prever-efeitos-9-bilhoes-mudancas-dna"
 date: "2026-09-10T00:20:00-03:00"
 draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
