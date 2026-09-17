@@ -22,7 +22,7 @@ ignoreLogs = ['warning-goldmark-raw-html']
 
 # ===== CONFIGURAÇÕES GERAIS =====
 [pagination]
-  pagerSize = 10
+  pagerSize = 50
 
 # ===== SITEMAP =====
 [sitemap]
