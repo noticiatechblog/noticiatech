@@ -1,7 +1,6 @@
 ---
 title: "Meta lança o Muse, IA para celular que trabalha sozinha como uma “secretária digital”"
 slug: "meta-muse-ia-celular-secretaria-digital"
-translationKey: "meta-muse-ia-celular-secretaria-digital"
 date: "2026-09-10T00:15:00-03:00"
 draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"

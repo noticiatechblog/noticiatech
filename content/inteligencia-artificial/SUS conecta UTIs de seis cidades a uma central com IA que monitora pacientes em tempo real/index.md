@@ -1,7 +1,6 @@
 ---
 title: "SUS conecta UTIs de seis cidades a uma central com IA que monitora pacientes em tempo real"
 slug: "sus-utis-inteligentes-central-ia-tempo-real"
-translationKey: "sus-utis-inteligentes-central-ia-tempo-real"
 date: "2026-09-10T00:10:00-03:00"
 draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"

@@ -10,7 +10,7 @@ categories:
 cover:
   image: "capa.webp"
   alt: "Jacob Coxon diante de representações do Claude e ChatGPT em um ambiente de pesquisa de inteligência artificial"
-  caption: "Jacob Coxon deixou a indústria de IA após trabalhar em pesquisa de pré-treinamento na OpenAI e na Anthropic."
+  caption: "Jacob Coxon deixou a indústria de IA após trabalha;r em pesquisa de pré-treinamento na OpenAI e na Anthropic."
 faq:
   - pergunta: "Por que Jacob Coxon deixou a Anthropic?"
     resposta_curta: "Coxon deixou a Anthropic por discordar do ritmo e da direção do desenvolvimento de IA."
