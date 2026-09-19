@@ -1,7 +1,7 @@
 ---
 title: "Goiás transforma Olimpíada de IA em competição nacional para estudantes"
 slug: "goias-olimpiada-ia-competicao-nacional-estudantes"
-date: "2026-09-20T00:30:00-03:00"
+date: "2026-09-19T00:20:00-03:00"
 draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "A Olimpíada de Inteligência Artificial Aplicada de Goiás deixa de ser regional em 2026 e passa a receber estudantes de todo o Brasil em desafios práticos de IA."
