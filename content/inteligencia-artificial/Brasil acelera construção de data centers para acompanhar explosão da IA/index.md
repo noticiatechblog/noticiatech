@@ -1,7 +1,7 @@
 ---
 title: "Brasil acelera construção de data centers para acompanhar explosão da IA"
 slug: "brasil-acelera-construcao-data-centers-explosao-ia"
-date: "2026-09-20T00:30:00-03:00"
+date: "2026-09-20T00:20:00-03:00"
 draft: false
 author: "Por Aluisio Soares, fundador do blog Notícia Tech"
 description: "O Brasil chegou a 706 MW de capacidade em data centers e prepara mais 134 MW em 2026. Entenda por que a expansão da IA está acelerando essa infraestrutura."
