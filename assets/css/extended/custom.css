@@ -142,7 +142,7 @@
 /* ============================= */
 
 .post-content p {
-    font-size: 21px;
+    font-size: 23px;
     font-weight: 400;
     line-height: 1.9;
     margin-bottom: 30px;
@@ -331,7 +331,7 @@
 
     line-height: 1.05 !important;
 
-    color: white;
+    color: rgb(248, 247, 247);
 
     font-weight: 900;
 
@@ -348,7 +348,7 @@
 }
 
 .main > .first-entry .entry-header h2 {
-    font-size: 32px !important;
+    font-size: 28px !important;
 }
 
 .hero-post .entry-footer {
@@ -359,7 +359,7 @@
 
     z-index: 2;
 
-    color: rgba(255,255,255,.96);
+    color: rgba(246, 245, 245, 0.96);
 
     opacity: 1 !important;
 
@@ -445,9 +445,9 @@
 }
 
 .post-entry .entry-header h2 {
-    font-size: 31px;
+    font-size: 30px;
 
-    line-height: 1.12;
+    line-height: 1.10;
 
     font-weight: 700;
 
@@ -499,11 +499,11 @@ body {
 /* ============================= */
 
 .post-title {
-    font-size: 46px;
+    font-size: 45px;
 
-    line-height: 1.02;
+    line-height: 1.10;
 
-    font-weight: 700;
+    font-weight: 650;
 
     letter-spacing: -0.04em;
 
@@ -515,7 +515,7 @@ body {
 /* ============================= */
 
 .post-content h2 {
-    font-size: 42px;
+    font-size: 37px;
 
     line-height: 1.1;
 
@@ -533,7 +533,7 @@ body {
 /* ============================= */
 
 .post-content h3 {
-    font-size: 30px;
+    font-size: 32px;
 
     line-height: 1.2;
 
@@ -606,9 +606,9 @@ body {
 
 .section-header h2,
 .most-read-header h2 {
-    font-size: 42px;
+    font-size: 34px;
 
-    line-height: 1.05;
+    line-height: 1.01;
 
     font-weight: 900;
 
@@ -1005,12 +1005,12 @@ img {
     }
 
     .post-title {
-        font-size: 42px;
-        line-height: 1.05;
+        font-size: 34px;
+        line-height: 1.14;
     }
 
     .post-content h2 {
-        font-size: 30px !important;
+        font-size: 29px !important;
         line-height: 1.12 !important;
     }
 
@@ -1483,12 +1483,26 @@ img {
 /* DESCRIÇÃO DO ARTIGO (DECK) */
 /* ============================= */
 
-.post-description {
-    font-size: 20px;
-    line-height: 1.7;
-    font-weight: 500;
-    color: var(--content);
-    margin-top: 12px;
+/* DESKTOP */
+@media (min-width: 769px) {
+    .post-description {
+        font-size: 23px;
+        line-height: 1.7;
+        font-weight: 500;
+        color: var(--content);
+        margin-top: 12px;
+    }
+}
+
+/* MOBILE */
+@media (max-width: 768px) {
+    .post-description {
+        font-size: 20px;
+        line-height: 1.6;
+        font-weight: 500;
+        color: var(--content);
+        margin-top: 12px;
+    }
 }
 
 @media (min-width: 769px) {
@@ -1521,5 +1535,36 @@ body {
 @media (max-width: 768px) {
     html[lang="en"] #menu {
         justify-content: center !important;
+    }
+}
+
+/* ============================= */
+/* LOGO - TAMANHO NO DESKTOP */
+/* ============================= */
+
+@media (min-width: 769px) {
+    .logo img {
+        width: 350px;
+        height: auto;
+    }
+}
+
+/* ============================= */
+/* LEGENDA DAS IMAGENS */
+/* ============================= */
+
+/* DESKTOP */
+@media (min-width: 769px) {
+    figure.entry-cover figcaption {
+        font-size: 20px !important;
+        line-height: 1.5;
+    }
+}
+
+/* MOBILE */
+@media (max-width: 768px) {
+    figure.entry-cover figcaption {
+        font-size: 15px !important;
+        line-height: 1.5;
     }
 }
